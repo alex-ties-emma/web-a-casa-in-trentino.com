@@ -1,0 +1,26 @@
+/*
+ * Max dimensions
+ */
+
+$mqMaxMobileS: 'screen and (max-width: 320px)';
+$mqMaxMobileM: 'screen and (max-width: 400px)';
+$mqMaxMobileL: 'screen and (max-width: 480px)';
+$mqMaxTablet: 'screen and (max-width: 768px)';
+$mqMaxLaptop: 'screen and (max-width: 1024px)';
+$mqMaxLaptopL: 'screen and (max-width: 1440px)';
+$mqMaxDesktop: 'screen and (max-width: 1920px)';
+$mqMaxDesktopM: 'screen and (max-width: 2560px)';
+$mqMaxDesktopL: 'screen and (max-width: 3840px)';
+
+/*
+ * Min dimensions
+ */
+$mqMinMobileS: 'screen and (min-width: 320px)';
+$mqMinMobileM: 'screen and (min-width: 400px)';
+$mqMinMobileL: 'screen and (min-width: 480px)';
+$mqMinTablet: 'screen and (min-width: 768px)';
+$mqMinLaptop: 'screen and (min-width: 1024px)';
+$mqMinLaptopL: 'screen and (min-width: 1440px)';
+$mqMinDesktop: 'screen and (min-width: 1920px)';
+$mqMinDesktopM: 'screen and (min-width: 2560px)';
+$mqMinDesktopL: 'screen and (min-width: 3840px)';

@@ -1,0 +1,13 @@
+{{ requireJs('main.bundle', 2) }}
+<body>
+{% include 'includes/header.twig' %}
+{% include 'includes/menu.twig' %}
+<main class="eds-section">
+    {{ renderSection('content') }}
+</main>
+<footer>
+
+    {% include 'includes/legal-menu.twig' %}
+    {% include 'includes/tracking-banner.twig' %}
+</footer>
+</body>

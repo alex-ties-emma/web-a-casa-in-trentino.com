@@ -1,0 +1,42 @@
+{#
+    Default header
+
+    Programmed with two logos, header disapears when scrolling down and reapears in a smaller form when scrolling up
+    Has only one level of navigation
+
+#}
+<header class="eds-header">
+    <div class="eds-header__wrapper eds-width--large">
+        <div class="eds-header__logo">
+            <a href="{{ grabPageLanguageUrl(getSitePage('home')) }}">
+
+                {# Big Logo variant and smaller Logo variant #}
+                <img src="" alt="" class="eds-header__logo--main"/>
+                <img src="" alt="" class="eds-header__logo--secondary"/>
+
+            </a>
+        </div>
+        <nav class="eds-header__nav">
+            {# First level navigation #}
+            {% for page in sitePageTree()|filter(x => x.handle == 'home')[0].children %}
+                {% if grabPageLanguage(page).visible and grabPageLanguage(page).showInNavigation %}
+                    <a href="{{ grabPageLanguageUrl(page.pageLanguages) }}" class="{{ currentPageBreadcrumb()|filter(x => x.handle == page.handle) ? 'eds-page--active' }}">
+                        <span>{{ grabPageLanguage(page.pageLanguages).title }}</span>
+                    </a>
+                {% endif %}
+            {% endfor %}
+
+        </nav>
+        {# Language Menu #}
+        <div class="eds-header__lang">
+            {% for pageLang in page.pageLanguages %}
+                <a href="{{ grabPageLanguageUrl(pageLang) }}" class="{{ pageLang.language.shortName == grabPageLanguage(page.pageLanguages).language.shortName ? 'eds-lang--active' }}">
+                    <span>{{ pageLang.language.shortName }}</span>
+                </a>
+            {% endfor %}
+        </div>
+        <div class="eds-header__menu-toggle js-menu-toggle">
+            <span class="eds-icon eds-icon--menu"></span>
+        </div>
+    </div>
+</header>

@@ -1,0 +1,11 @@
+{
+    "@type": "page_definition",
+    "@id": "\/cms\/api\/page_definitions\/5c5f5fd4-99ed-4ff6-a364-d925acb09ae6",
+    "uuid": "5c5f5fd4-99ed-4ff6-a364-d925acb09ae6",
+    "handle": "default",
+    "form": [],
+    "description": "Default Page Template",
+    "sectionElementDefinitions": [
+        "\/cms\/api\/section_element_definitions\/d68a7d34-6e0f-4477-9a03-f8aa47f592e5"
+    ]
+}

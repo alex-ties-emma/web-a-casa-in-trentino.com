@@ -1,0 +1,42 @@
+{
+  "route": "/api/food_items/{slug}",
+  "source": {
+    "type": "data-source",
+    "handle": "eum"
+  },
+  "debug": false,
+  "format": [
+    {
+      "field": "productImages",
+      "formatter": "odxpPimImageFormatter",
+      "configuration": [
+        {
+          "imageWidth": 80,
+          "aspect_ratio": "4x3",
+          "compression": 25
+        },
+        {
+          "imageWidth": 240,
+          "aspect_ratio": "16x9",
+          "compression": 20
+        },
+        {
+          "imageWidth": 1024,
+          "aspect_ratio": "16x9",
+          "compression": 25
+        }
+      ]
+    },
+    {
+      "field": "additionalImages",
+      "formatter": "odxpPimImageFormatter",
+      "configuration": [
+        {
+          "imageWidth": 1024,
+          "aspect_ratio": "16x9",
+          "compression": 25
+        }
+      ]
+    }
+  ]
+}

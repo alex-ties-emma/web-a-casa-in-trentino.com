@@ -1,0 +1,15 @@
+{
+    "@type": "site_configuration",
+    "@id": "\/cms\/api\/site_configurations\/d33243e9-4a3c-4622-aeb8-db929b345b97",
+    "uuid": "d33243e9-4a3c-4622-aeb8-db929b345b97",
+    "name": "live",
+    "public": true,
+    "cacheActive": false,
+    "requiredAuth": false,
+    "debuggerStaging": false,
+    "debuggerDev": false,
+    "theme": 0,
+    "ddevProject": true,
+    "production": false,
+    "form": []
+}

@@ -1,0 +1,170 @@
+
+.eds-width {
+
+  &--c2 {
+    max-width: $width-columns-3;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c2 {
+    max-width: $width-columns-2;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c4 {
+    max-width: $width-columns-4;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c5 {
+    max-width: $width-columns-5;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c6 {
+    max-width: $width-columns-6;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c7 {
+    max-width: $width-columns-7;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c8 {
+    max-width: $width-columns-8;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c9 {
+    max-width: $width-columns-9;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c10 {
+    max-width: $width-columns-10;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c12 {
+    max-width: $width-columns-12;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+
+  &--c14 {
+    max-width: $width-columns-14;
+    box-sizing: content-box;
+    margin: 0 auto;
+  }
+}
+
+.eds-padding {
+  &--small {
+    padding-left: $padding-small;
+    padding-right: $padding-small;
+  }
+
+  &--medium {
+    padding-left: $padding-medium;
+    padding-right: $padding-medium;
+  }
+
+  &--large {
+    padding-left: $padding-large;
+    padding-right: $padding-large;
+  }
+}
+
+.eds-spacing-bottom {
+  &--small {
+    margin-bottom: $spacing-bottom-small;
+  }
+
+  &--medium {
+    margin-bottom: $spacing-bottom-medium;
+  }
+
+  &--large {
+    margin-bottom: $spacing-bottom-large;
+  }
+}
+
+
+@media #{$mqMaxLaptopL} {
+
+  .eds-spacing-bottom {
+    &--small {
+      margin-bottom: $spacing-bottom-small--laptop-l;
+    }
+
+    &--medium {
+      margin-bottom: $spacing-bottom-medium--laptop-l;
+    }
+
+    &--large {
+      margin-bottom: $spacing-bottom-large--laptop-l;
+    }
+  }
+
+}
+
+@media #{$mqMaxTablet} {
+
+  .eds-spacing-bottom {
+    &--small {
+      margin-bottom: $spacing-bottom-small--tablet;
+    }
+
+    &--medium {
+      margin-bottom: $spacing-bottom-medium--tablet;
+    }
+
+    &--large {
+      margin-bottom: $spacing-bottom-large--tablet;
+    }
+  }
+}
+
+@media #{$mqMaxMobileL} {
+
+  .eds-padding {
+    &--small {
+      padding-left: $padding-small--mobile;
+      padding-right: $padding-small--mobile;
+    }
+
+    &--medium {
+      padding-left: $padding-medium--mobile;
+      padding-right: $padding-medium--mobile;
+    }
+
+    &--large {
+      padding-left: $padding-large;
+      padding-right: $padding-large;
+    }
+  }
+
+  .eds-spacing-bottom {
+    &--small {
+      margin-bottom: $spacing-bottom-small--mobile;
+    }
+
+    &--medium {
+      margin-bottom: $spacing-bottom-medium--mobile;
+    }
+
+    &--large {
+      margin-bottom: $spacing-bottom-large--mobile;
+    }
+  }
+}

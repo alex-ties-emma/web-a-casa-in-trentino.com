@@ -1,0 +1,41 @@
+{
+  "name": "madebyemma/web1-base-dist",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alex Ties",
+      "email": "alex.ties@attemic.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:alex-ties-emma/web-core.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:alex-ties-emma/web-communicator.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:alex-ties-emma/web-cms.git"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "madebyemma/web-core": "6.2.*",
+    "madebyemma/web-communicator": "6.0.*"
+  },
+  "require-dev": {
+    "madebyemma/web-cms": "6.0.*"
+  },
+  "scripts": {
+    "db:migrate": "cd vendor/madebyemma/web-core/config && php ../../../../vendor/bin/doctrine-migrations migrate --no-interaction",
+    "db:default-fixture": "php vendor/bin/cms fixtures:load default",
+    "dev:dbdata:export": "mysqldump --no-create-info db > config/db/data.sql",
+
+    "dev:setup": "composer update && npm i && db:migrate"
+  }
+}

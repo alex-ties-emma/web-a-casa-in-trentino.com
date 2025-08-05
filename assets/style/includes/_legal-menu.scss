@@ -1,0 +1,53 @@
+$background-color: #fff;
+$logo-color: #747474;
+$text-color: #747474;
+
+.eds-legal-menu {
+  background-color: $background-color;
+
+  &__wrapper {
+    display: flex;
+    min-height: 50px;
+    align-items: center;
+
+    .eds-icon--attemic-logo {
+      color: $logo-color;
+      font-size: 1.3em;
+    }
+  }
+
+  &__credit {
+    margin-left: auto;
+  }
+
+  &__link {
+    color: $text-color;
+    font-size: 1.4em;
+    text-decoration: none;
+    line-height: 0.8;
+    display: inline-flex;
+  }
+
+  &__links {
+    display: flex;
+    align-items: center;
+  }
+
+  &__link {
+    &:hover {
+      text-decoration: underline;
+    }
+
+    &:not(:last-child) {
+      padding-right: 6px;
+      margin-right: 6px;
+      border-right: 1px solid currentColor;
+    }
+  }
+
+  @media screen and (max-width: 700px) {
+    &__wrapper {
+      padding: 20px;
+    }
+  }
+}

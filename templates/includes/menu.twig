@@ -1,0 +1,36 @@
+{#
+    Default menu
+
+    Has only one level of navigation
+
+#}
+<section class="eds-menu eds-menu--hidden">
+    <div class="eds-menu__wrapper">
+        <div class="eds-menu__header">
+            <a href="{{ grabPageLanguageUrl(getSitePage('home')) }}">
+                <img src="" alt="" class="eds-header__logo--main"/>
+            </a>
+            <div class="eds-menu__close js-menu-toggle">
+                <i class="eds-icon eds-icon--clear"></i>
+            </div>
+        </div>
+        <nav class="eds-menu__main">
+            {% for page in sitePageTree()|filter(x => x.handle == 'home')[0].children %}
+                {% if grabPageLanguage(page).visible and grabPageLanguage(page).showInNavigation %}
+                    <a href="{{ grabPageLanguageUrl(page.pageLanguages) }}" class="{{ currentPageBreadcrumb()|filter(x => x.handle == page.handle) ? 'eds-page--active' }}">
+                        <span>{{ grabPageLanguage(page.pageLanguages).title }}</span>
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </nav>
+        <div class="eds-menu__footer">
+            <div class="eds-menu__lang">
+                {% for pageLang in page.pageLanguages %}
+                    <a href="{{ grabPageLanguageUrl(pageLang) }}" class="{{ pageLang.language.shortName == grabPageLanguage(page.pageLanguages).language.shortName ? 'eds-lang--active' }}">
+                        <span>{{ pageLang.language.shortName }}</span>
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

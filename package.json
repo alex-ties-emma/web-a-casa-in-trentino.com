@@ -1,0 +1,55 @@
+{
+  "name": "eds-web",
+  "version": "1.0.0",
+  "dependencies": {
+    "@barba/core": "^2.9.7",
+    "@splidejs/splide": "^4.1.4",
+    "axios": "^1.7.2",
+    "gsap": "^3.12.5",
+    "leaflet": "^1.9.4",
+    "simplelightbox": "^2.14.3",
+    "vue": "^3.5.13",
+    "vue-easy-lightbox": "^1.19.0",
+    "vue-i18n": "^9.14.1",
+    "vue-router": "^4.4.5",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.23.*",
+    "@babel/preset-env": "7.23.*",
+    "@babel/preset-typescript": "7.23.*",
+    "@vue/compiler-sfc": "^3.3.7",
+    "autoprefixer": "^10.4.16",
+    "babel-loader": "^9.1.3",
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.8.1",
+    "cssnano": "^6.0.1",
+    "dotenv": "^16.3.1",
+    "html-webpack-plugin": "^5.5.3",
+    "mini-css-extract-plugin": "^2.7.6",
+    "npx": "^3.0.0",
+    "postcss-cli": "^10.1.0",
+    "postcss-load-config": "^4.0.1",
+    "sass": "^1.69.5",
+    "style-loader": "^3.3.3",
+    "ts-loader": "^9.5.0",
+    "typescript": "^5.2.2",
+    "vue-loader": "^17.3.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "webpackbar": "^5.0.2"
+  },
+  "scripts": {
+    "style": "node_modules/.bin/sass ./assets/style/:./public/style --no-source-map --style compressed && postcss ./public/style/*.css --replace --config ./config/postcss.config.js ",
+    "javascript": "node_modules/.bin/webpack --config config/webpack.config.js",
+    "build": "npm run style && npm run javascript",
+    "import_elements": "ddev exec vendor/bin/cms sync:site-configurations && ddev exec vendor/bin/cms sync:page-definitions && ddev exec vendor/bin/cms sync:element-definitions"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

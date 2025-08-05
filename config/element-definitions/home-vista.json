@@ -1,0 +1,12 @@
+{
+    "@type": "content_element_definition",
+    "@id": "\/cms\/api\/content_element_definitions\/75acd84f-e8a9-4e14-b7b0-7fc3b8666de4",
+    "uuid": "75acd84f-e8a9-4e14-b7b0-7fc3b8666de4",
+    "highlighting": 0,
+    "hidden": 0,
+    "name": "Home Vista",
+    "description": "Home Vista. Verlinkt auf die jeweils andere Seite und beinhaltet 2 Buttons.",
+    "handle": "home-vista",
+    "form": [],
+    "slide": false
+}

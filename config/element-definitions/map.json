@@ -1,0 +1,47 @@
+{
+    "@type": "content_element_definition",
+    "@id": "\/cms\/api\/content_element_definitions\/ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
+    "uuid": "ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
+    "highlighting": 0,
+    "hidden": 0,
+    "name": "Map",
+    "description": "Map",
+    "handle": "map",
+    "form": {
+        "fieldsets": [
+            {
+                "fieldsetId": "fs1",
+                "label": "",
+                "type": "standard",
+                "gridType": "grid-oneline"
+            }
+        ],
+        "fields": [
+            {
+                "fieldsetId": "fs1",
+                "valueKey": "spacing_bottom",
+                "field": "select",
+                "label": "Abstand unten",
+                "options": [
+                    {
+                        "label": "Keiner",
+                        "value": ""
+                    },
+                    {
+                        "label": "Klein",
+                        "value": "atc-spacing-bottom--small"
+                    },
+                    {
+                        "label": "Medium",
+                        "value": "atc-spacing-bottom--medium"
+                    },
+                    {
+                        "label": "Gro\u00df",
+                        "value": "atc-spacing-bottom--large"
+                    }
+                ]
+            }
+        ]
+    },
+    "slide": false
+}

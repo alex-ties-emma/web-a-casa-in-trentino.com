@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "layer": 1,
+  "highlighting": 0,
+  "name": "Beispiel",
+  "description": "Ein beispielelement zum Kopieren",
+  "handle": "example",
+  "fields": [
+    {
+      "handle": "Handle",
+      "field": "textarea",
+      "label": "Text",
+      "hint":  "phone",
+      "max_characters": 256,
+      "min_characters": 32
+    },
+    {
+      "handle": "Handle",
+      "field": "select",
+      "label": "Text",
+      "options": [
+        {
+          "label": "Testlabel",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

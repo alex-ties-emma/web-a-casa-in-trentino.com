@@ -1,0 +1,24 @@
+<div class="eds-legal-menu">
+    <div class="eds-legal-menu__wrapper eds-width--medium eds-padding--small">
+        <div class="eds-legal-menu__links">
+            {% if grabPageLanguageUrl(getSitePage('imprint')) %}
+                <a class="eds-legal-menu__link" href="{{ grabPageLanguageUrl(getSitePage('imprint')) }}">
+                    {{ grabPageLanguage(getSitePage('imprint')).title }}
+                </a>
+            {% endif %}
+            {% if grabPageLanguageUrl(getSitePage('privacy')) %}
+                <a class="eds-legal-menu__link" href="{{ grabPageLanguageUrl(getSitePage('privacy')) }}">
+                    {{ grabPageLanguage(getSitePage('privacy')).title }}
+                </a>
+            {% endif %}
+            {% if getConstant('tracking_settings') %}
+                <a href="#" class="eds-legal-menu__link eds-tracking-banner__button-open">
+                    {{ getConstant('tracking_settings') }}
+                </a>
+            {% endif %}
+        </div>
+        <div class="eds-legal-menu__credit">
+            <div class="eds-icon--attemic-logo"></div>
+        </div>
+    </div>
+</div>
