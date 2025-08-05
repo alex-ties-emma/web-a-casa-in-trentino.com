@@ -1,0 +1,43 @@
+<div class="eds-subpage-vista {{ content.spacing_bottom }}">
+    <div class="eds-subpage-vista__images">
+        {{ content.image|optimizeImage([
+            {
+                'imageWidth': '520',
+                'mediaMinWidth': '320',
+                'aspect_ratio': '3x4',
+                'compression': '5'
+            },
+            {
+                'imageWidth': '920',
+                'mediaMinWidth': '700',
+                'aspect_ratio': '4x3',
+                'compression': '5'
+            },
+            {
+                'imageWidth': '1224',
+                'mediaMinWidth': '1024',
+                'aspect_ratio': '21x9',
+                'compression': '5'
+            },
+            {
+                'imageWidth': '1920',
+                'mediaMinWidth': '1920',
+                'aspect_ratio': '21x9',
+                'compression': '5'
+            },
+            {
+                'imageWidth': '2560',
+                'mediaMinWidth': '2560',
+                'aspect_ratio': '21x9',
+                'compression': '5'
+            }
+        ]) }}
+    </div>
+
+    <div class="eds-subpage-vista__content eds-width--c10">
+        <div class="eds-subpage-vista__title">
+            <span>{{ content.headline }}</span>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,28 @@
+<div class="eds-article-text {{ content.spacing_bottom }} ">
+    <div class="eds-article-text__wrapper eds-width--c8">
+        <div class="eds-article-text__content">
+            {% if content.title %}
+                <div class="eds-article-text__headline eds-headline">
+                    <h1>
+                        <span>{{ content.title }}</span>
+                    </h1>
+                </div>
+            {% endif %}
+            {% if content.text %}
+                <div class="eds-article-text__text eds-richtext">
+                    {{ content.text|raw }}
+                </div>
+            {% endif %}
+
+            {% if content.buttonlink and content.buttonlabel %}
+                <div class="eds-article-text__link">
+                    <a class="eds-link" href="{{ generateLink(content.buttonlink) }}">
+                        <span>{{ content.buttonlabel }}</span>
+                        <span class="eds-icon eds-icon--arrow_forward"></span>
+                    </a>
+                </div>
+            {% endif %}
+
+        </div>
+    </div>
+</div>

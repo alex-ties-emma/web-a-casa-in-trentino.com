@@ -1,0 +1,128 @@
+
+.eds-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  color: white;
+}
+
+.eds-header--static {
+  background-color: white;
+  box-shadow: 0 .5em 4em rgb(128 128 128 / 10%);
+  border-bottom: 1px solid #efefef;
+  color: black;
+  position: fixed;
+
+  .eds-header__nav a:hover {
+    background-color: #f1f1f1;
+  }
+  .eds-header__lang a:hover {
+    background-color: #f1f1f1;
+  }
+}
+
+
+
+.eds-header__nav a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.eds-header__lang a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.eds-header__wrapper {
+  padding: 0 2em;
+  display: flex;
+  align-items: center;
+}
+
+.eds-header__nav {
+  margin-left: auto;
+  display: flex;
+  padding: 2em 0;
+}
+
+.eds-header__nav a {
+  padding: 1em 2em;
+  border-radius: 10em;
+  color: inherit;
+  text-decoration: none;
+  transition: background-color 0.25s;
+}
+
+.eds-header__nav a span {
+  font-size: 1.8em;
+}
+
+
+.eds-header__lang {
+  display: flex;
+  margin-left: 2em;
+}
+
+.eds-header__lang a span {
+  font-size: 1.8em;
+}
+
+.eds-header__lang a {
+  text-decoration: none;
+  color: inherit;
+  width: 4.1em;
+  height: 4.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color 0.25s;
+}
+
+
+.eds-header {
+
+  &__lang-current {
+    .eds-icon {
+      font-size: 1.6em;
+    }
+
+    > :first-child {
+      font-size: 1.6em;
+    }
+  }
+
+  &__lang-menu {
+    pointer-events: all;
+    background-color: white;
+
+    a {
+      display: block;
+      font-size: 1.6em;
+      padding-bottom: .5em;
+      color: inherit;
+
+      &:hover {
+      }
+    }
+
+    position: absolute;
+    top: calc(100% - 1.5em);
+    left: -.5em;
+    right: -.5em;
+    padding: 1em 1em .5em;
+    transition: opacity .3s;
+    z-index: 1;
+  }
+
+  &__lang-select {
+    position: relative;
+    padding: 1.5em .5em;
+    cursor: pointer;
+    margin-left: 2em;
+
+    &:not(:hover) .eds-header__lang-menu {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+}

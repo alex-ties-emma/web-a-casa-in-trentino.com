@@ -1,0 +1,76 @@
+{
+    "@type": "content_element_definition",
+    "@id": "\/cms\/api\/content_element_definitions\/561a70b7-fe7c-4416-9da3-db112ebbf6e3",
+    "uuid": "561a70b7-fe7c-4416-9da3-db112ebbf6e3",
+    "highlighting": 0,
+    "hidden": 0,
+    "name": "Article Text",
+    "description": "Article Text",
+    "handle": "article-text",
+    "form": {
+        "fieldsets": [
+            {
+                "fieldsetId": "fs1",
+                "label": "",
+                "type": "standard",
+                "gridType": "grid-oneline"
+            }
+        ],
+        "fields": [
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Titel",
+                "valueKey": "title"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "richtext",
+                "label": "Text",
+                "valueKey": "text"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Etichetta Link",
+                "placeholder": "Etichetta Link",
+                "valueKey": "buttonlabel"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "pagelink",
+                "label": "Link",
+                "placeholder": "Link",
+                "valueKey": "buttonlink"
+            },
+            {
+                "fieldsetId": "fs1",
+                "valueKey": "spacing_bottom",
+                "field": "select",
+                "label": {
+                    "DE": "Abstand",
+                    "IT": "Distanza"
+                },
+                "items": [
+                    {
+                        "label": "Kein Abstand",
+                        "value": ""
+                    },
+                    {
+                        "label": "Abstand klein",
+                        "value": "eds-spacing-bottom--small"
+                    },
+                    {
+                        "label": "Abstand mittel",
+                        "value": "eds-spacing-bottom--medium"
+                    },
+                    {
+                        "label": "Abstand gro\u00df",
+                        "value": "eds-spacing-bottom--large"
+                    }
+                ]
+            }
+        ]
+    },
+    "slide": false
+}

@@ -5,8 +5,10 @@
     Has only one level of navigation
 
 #}
-<header class="eds-header">
-    <div class="eds-header__wrapper eds-width--large">
+{% set excludeItems = getPageLanguageContent(grabPageLanguage(page))|filter(x => x.elementDefinition.handle == 'subpage-vista' or x.elementDefinition.handle == 'home-vista')|length %}
+
+<header class="eds-header {{ excludeItems == 0 ? 'eds-header--static' : '' }}">
+    <div class="eds-header__wrapper eds-width--c10">
         <div class="eds-header__logo">
             <a href="{{ grabPageLanguageUrl(getSitePage('home')) }}">
 
@@ -28,12 +30,30 @@
 
         </nav>
         {# Language Menu #}
-        <div class="eds-header__lang">
-            {% for pageLang in page.pageLanguages %}
-                <a href="{{ grabPageLanguageUrl(pageLang) }}" class="{{ pageLang.language.shortName == grabPageLanguage(page.pageLanguages).language.shortName ? 'eds-lang--active' }}">
-                    <span>{{ pageLang.language.shortName }}</span>
-                </a>
-            {% endfor %}
+        <div class="eds-header__lang-select">
+            <div class="eds-header__lang-current">
+                <span>{{ grabPageLanguage(page.pageLanguages).language.shortName }}</span>
+                <span class="eds-icon eds-icon--keyboard_arrow_down"></span>
+            </div>
+            <div class="eds-header__lang-menu">
+                {% if shop_item %}
+                    {% for pageLang in page.pageLanguages|filter(x => x.language.shortName != grabPageLanguage(page.pageLanguages).language.shortName) %}
+                        <a href="{{ grabPageLanguageUrl(pageLang, {
+                            parameters: {
+                                pimUrlSegment: dataSourceItem('shop', '', shop_item.product.uuid, pageLang.language.shortName).urlSegment
+                            }
+                        }) }}">
+                            <span>{{ pageLang.language.shortName }}</span>
+                        </a>
+                    {% endfor %}
+                {% else %}
+                    {% for pageLang in page.pageLanguages|filter(x => x.language.shortName != grabPageLanguage(page.pageLanguages).language.shortName) %}
+                        <a href="{{ grabPageLanguageUrl(pageLang) }}">
+                            <span>{{ pageLang.language.shortName }}</span>
+                        </a>
+                    {% endfor %}
+                {% endif %}
+            </div>
         </div>
         <div class="eds-header__menu-toggle js-menu-toggle">
             <span class="eds-icon eds-icon--menu"></span>

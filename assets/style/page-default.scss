@@ -1,6 +1,11 @@
 @import 'variables/variables';
 
+@import 'includes/dimensions';
+
+@import "includes/header";
+
 body {
   margin: 0;
   font-size: 62.5%;
+  font-family: 'Open Sans', sans-serif;
 }

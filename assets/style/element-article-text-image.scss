@@ -1,0 +1,42 @@
+.eds-article-text-image {
+  &__wrapper {
+    padding: 0 2*1.6em;
+    position: relative;
+    margin-bottom: 2em;
+    display: flex;
+    gap: 9.5em;
+
+    &::before {
+      transform: translateX(100%);
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 120%;
+      background: linear-gradient(90deg, transparent, white 15%);
+      transition: transform 1.4s ease;
+    }
+  }
+
+  &__image {
+    flex: 1;
+    aspect-ratio: 18 / 9;
+    box-shadow: 0 .5em 4em rgb(128 128 128 / 10%);
+
+    img {
+      width: 100%;
+      border-radius: 1em;
+      object-fit: cover;
+    }
+  }
+
+  &__content {
+    flex: 1;
+  }
+  &.invisible {
+    .eds-article-text__wrapper::before {
+      transform: translateX(0);
+    }
+  }
+}

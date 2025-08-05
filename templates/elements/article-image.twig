@@ -1,0 +1,55 @@
+<div class="eds-article-image eds-article-image {{ content.spacing_bottom }} ">
+    <div class="eds-article-image__wrapper eds-width--c10">
+        <div class="eds-article-image__container">
+            <div class="eds-article-image__content eds-article-image__content--out-left">
+                <div class="eds-article-image__image-container">
+                    <div class="eds-article-image__image">
+                        {{ content.image|optimizeImage([
+                            {
+                                'imageWidth': '420',
+                                'mediaMinWidth': '320',
+                                'aspect_ratio': '3x4',
+                                'compression': '10'
+                            },
+                            {
+                                'imageWidth': '920',
+                                'mediaMinWidth': '700',
+                                'aspect_ratio': '4x3',
+                                'compression': '10'
+                            },
+                            {
+                                'imageWidth': '1224',
+                                'mediaMinWidth': '1024',
+                                'aspect_ratio': '16x9',
+                                'compression': '10'
+                            },
+                            {
+                                'imageWidth': '1400',
+                                'mediaMinWidth': '1224',
+                                'aspect_ratio': '16x9',
+                                'compression': '5'
+                            },
+                            {
+                                'imageWidth': '1600',
+                                'mediaMinWidth': '1440',
+                                'aspect_ratio': '16x9',
+                                'compression': '5'
+                            },
+                            {
+                                'imageWidth': '2100',
+                                'mediaMinWidth': '1920',
+                                'aspect_ratio': '16x9',
+                                'compression': '5'
+                            },
+                            {
+                                'imageWidth': '2560',
+                                'aspect_ratio': '16x9',
+                                'compression': '5'
+                            }
+                        ]) }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

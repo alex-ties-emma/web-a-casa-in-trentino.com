@@ -1148,7 +1148,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.051746874999996,
+      45.714637009154906
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "203",
@@ -3335,7 +3340,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.820392697790055,
+      46.25000922541438
+    ],
+    "district": "Comunità di Primiero"
   },
   {
     "id": "204",
@@ -3506,7 +3516,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.198889969230773,
+      46.147100543589744
+    ],
+    "district": "Comunità della Valle di Cembra"
   },
   {
     "id": "205",
@@ -3713,7 +3728,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.085354681250001,
+      45.96859252708333
+    ],
+    "district": "Territorio della Val d’Adige"
   },
   {
     "id": "206",
@@ -4192,7 +4212,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.269413879310338,
+      46.214592180172424
+    ],
+    "district": "Comunità della Valle di Cembra"
   },
   {
     "id": "208",
@@ -4379,7 +4404,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.004618967441859,
+      46.160686165116275
+    ],
+    "district": "Comunità della Paganella"
   },
   {
     "id": "209",
@@ -5030,7 +5060,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.887837371069182,
+      45.91726599811322
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "210",
@@ -5641,7 +5676,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.90900104161074,
+      45.718559263087215
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "212",
@@ -6096,7 +6136,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.316922889090907,
+      46.16768966363636
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "214",
@@ -6365,7 +6410,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.135644283870967,
+      45.957477682258066
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "215",
@@ -6756,7 +6806,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.561559934042554,
+      46.09810385212766
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "217",
@@ -7095,7 +7150,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.770623300000008,
+      46.11811598641976
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "220",
@@ -7634,7 +7694,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.571494054198475,
+      45.80437381297711
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "221",
@@ -8469,7 +8534,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.42933886341463,
+      46.01097216731708
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "224",
@@ -8882,7 +8952,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.91580137628866,
+      45.81521809587629
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "225",
@@ -9313,7 +9388,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.930963775000002,
+      46.423852525000015
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "228",
@@ -9792,7 +9872,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.731408871551725,
+      46.14795807068967
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "231",
@@ -9995,7 +10080,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.240886751063831,
+      45.997753585106395
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "232",
@@ -10618,7 +10708,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.960204921052632,
+      46.37357608684207
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "234",
@@ -10927,7 +11022,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.117295371830984,
+      45.93695924225352
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "235",
@@ -11782,7 +11882,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.709092688095234,
+      46.48746784904762
+    ],
+    "district": "Comun General de Fascia"
   },
   {
     "id": "236",
@@ -12033,7 +12138,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.018047696610171,
+      46.24823963220339
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "237",
@@ -14070,7 +14180,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.715846432206753,
+      46.191497099602344
+    ],
+    "district": "Comunità di Primiero"
   },
   {
     "id": "238",
@@ -15261,7 +15376,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.804190106122444,
+      46.465961292176864
+    ],
+    "district": "Comun General de Fascia"
   },
   {
     "id": "239",
@@ -15740,7 +15860,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.331834163793115,
+      46.27464090603447
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "241",
@@ -16717,7 +16842,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.729267152521015,
+      46.205305144117624
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "242",
@@ -17272,7 +17402,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.492708334814811,
+      46.07342661851852
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "243",
@@ -17703,7 +17838,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.58492616057692,
+      45.91764503942307
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "245",
@@ -19186,7 +19326,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.661626116893737,
+      46.108961566212535
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "246",
@@ -20613,7 +20758,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.427512798866864,
+      46.22053337167142
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "247",
@@ -20980,7 +21130,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.495431784090904,
+      46.03376478295454
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "248",
@@ -21443,7 +21598,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.46393462142857,
+      46.24829078124998
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "249",
@@ -22130,7 +22290,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.173628344047616,
+      46.40601151190477
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "250",
@@ -22285,7 +22450,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.017060168571426,
+      46.187121894285724
+    ],
+    "district": "Comunità della Paganella"
   },
   {
     "id": "251",
@@ -22476,7 +22646,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.984189286363636,
+      45.990624145454554
+    ],
+    "district": "Comunità della Valle dei Laghi"
   },
   {
     "id": "252",
@@ -22623,7 +22798,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.961732354545454,
+      46.36580624848486
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "253",
@@ -22934,7 +23114,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.215401018918921,
+      46.17536974459457
+    ],
+    "district": "Comunità della Valle di Cembra"
   },
   {
     "id": "256",
@@ -23093,7 +23278,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.065102125,
+      45.97287710833335
+    ],
+    "district": "Territorio della Val d’Adige"
   },
   {
     "id": "257",
@@ -23902,7 +24092,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.652475055670104,
+      46.096168099484544
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "258",
@@ -24085,7 +24280,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.988638047619048,
+      46.39879615
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "259",
@@ -24300,7 +24500,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.190390961999997,
+      46.09595699799999
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "260",
@@ -25071,7 +25276,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.984523129629627,
+      46.342573789418005
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "263",
@@ -25442,7 +25652,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.848135758426965,
+      46.3093080741573
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "266",
@@ -25761,7 +25976,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.91390956710526,
+      46.33006104342107
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "276",
@@ -25856,7 +26076,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.95953175,
+      45.955152595
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "277",
@@ -26095,7 +26320,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.925570332142856,
+      45.99482599464286
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "279",
@@ -26794,7 +27024,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.05583963567252,
+      46.168828507602356
+    ],
+    "district": "Comunità della Paganella"
   },
   {
     "id": "280",
@@ -27721,7 +27956,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.824508136842105,
+      45.991481676315786
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "282",
@@ -27924,7 +28164,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.34673509574468,
+      46.102680257446806
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "286",
@@ -28139,7 +28384,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.211018649999996,
+      46.12192313999999
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "287",
@@ -28266,7 +28516,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.330425260714284,
+      46.07386139642856
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "288",
@@ -28381,7 +28636,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.077630248000002,
+      46.003374424
+    ],
+    "district": "Territorio della Val d’Adige"
   },
   {
     "id": "291",
@@ -28900,7 +29160,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.651534884126981,
+      45.991202124603156
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "292",
@@ -29753,7 +30018,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.78275684975846,
+      46.157559430434766
+    ],
+    "district": "Comunità di Primiero"
   },
   {
     "id": "293",
@@ -30040,7 +30310,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.997516761764706,
+      45.890134479411756
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "298",
@@ -30387,7 +30662,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.101864800000005,
+      46.155202431325314
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "300",
@@ -31174,7 +31454,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.324305634715024,
+      45.993947934714996
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "301",
@@ -31681,7 +31966,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.016941713008128,
+      46.41602114552846
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "302",
@@ -32254,11 +32544,16 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.263678065693433,
+      46.164459285401456
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "304",
-    "municipality": "Malè",
+    "municipality": "Malé",
     "geo_json": {
       "type": "Polygon",
       "coordinates": [
@@ -32993,7 +33288,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.901091907182321,
+      46.3631343077348
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "306",
@@ -33718,7 +34018,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.696259700571431,
+      46.14225625257144
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "307",
@@ -34505,7 +34810,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.710128018134712,
+      46.46601163056995
+    ],
+    "district": "Comun General de Fascia"
   },
   {
     "id": "308",
@@ -34700,7 +35010,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.801383177777778,
+      46.308138335555576
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "309",
@@ -36019,7 +36334,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.812300198773007,
+      46.16289293128836
+    ],
+    "district": "Comunità di Primiero"
   },
   {
     "id": "310",
@@ -36474,7 +36794,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.137788158181817,
+      46.23599684545455
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "311",
@@ -36745,7 +37070,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.087276431249997,
+      46.20668543906251
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "312",
@@ -38436,7 +38766,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.714281761813847,
+      46.36041866491644
+    ],
+    "district": "Comun General de Fascia"
   },
   {
     "id": "313",
@@ -39015,7 +39350,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.946162023404254,
+      46.14451368723405
+    ],
+    "district": "Comunità della Paganella"
   },
   {
     "id": "316",
@@ -39874,7 +40214,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.936461787203788,
+      45.866133582938396
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "320",
@@ -40001,7 +40346,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.021620474999997,
+      45.909460996428564
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "322",
@@ -40260,7 +40610,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.364267526229513,
+      46.03031465737706
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "324",
@@ -40839,7 +41194,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.718422171631204,
+      46.26678392411349
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "326",
@@ -41050,7 +41410,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.36238446734694,
+      46.1357861632653
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "327",
@@ -41841,7 +42206,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.545708636082479,
+      46.28059412164947
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "328",
@@ -43154,7 +43524,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.621804042414858,
+      46.36223359256971
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "329",
@@ -43907,7 +44282,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.691434385555556,
+      46.29868844888891
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "330",
@@ -44798,7 +45178,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.66662612876713,
+      46.09913291780822
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "331",
@@ -45523,7 +45908,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.24245518057143,
+      46.06401193657142
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "334",
@@ -47006,7 +47396,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.789263544414169,
+      46.21261817983653
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "335",
@@ -47449,7 +47844,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.060362138317759,
+      45.94543700654205
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "338",
@@ -48932,7 +49332,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.64633461117167,
+      46.31672671553134
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "341",
@@ -49951,7 +50356,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.80482939243028,
+      46.42512679840635
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "346",
@@ -50158,7 +50568,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.114294327083336,
+      46.39171501458333
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "347",
@@ -50649,7 +51064,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.38777373361345,
+      46.057075530252106
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "348",
@@ -50828,7 +51248,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.413997214634147,
+      46.07793898536584
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "350",
@@ -51051,7 +51476,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.959396473076925,
+      45.89654872115385
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "351",
@@ -51544,11 +51974,16 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.18314868888889,
+      46.44498534529916
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "352",
-    "municipality": "Roverè della Luna",
+    "municipality": "Roveré della Luna",
     "geo_json": {
       "type": "Polygon",
       "coordinates": [
@@ -52171,7 +52606,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.16543026928104,
+      46.25593472549015
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "353",
@@ -52718,7 +53158,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.050281720300747,
+      45.87194450451125
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "354",
@@ -53201,7 +53646,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.191497574358982,
+      46.42192800512817
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "356",
@@ -53800,7 +54250,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.935730559589043,
+      46.197867539726005
+    ],
+    "district": "Comunità di Primiero"
   },
   {
     "id": "357",
@@ -54011,7 +54466,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.521451836734693,
+      46.08932564693878
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "360",
@@ -54166,7 +54626,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.304086165714288,
+      46.12030407142857
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "361",
@@ -54381,7 +54846,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.074662857999996,
+      46.38075791199999
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "362",
@@ -55896,7 +56366,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.169368142133331,
+      46.43309198426667
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "363",
@@ -56711,7 +57186,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.520260597499997,
+      46.11476487050003
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "364",
@@ -57178,7 +57658,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.276932061061947,
+      46.19489646194692
+    ],
+    "district": "Comunità della Valle di Cembra"
   },
   {
     "id": "365",
@@ -57465,7 +57950,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.158805248529411,
+      46.346447201470596
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "368",
@@ -58298,7 +58788,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.757132513861386,
+      46.38705087326735
+    ],
+    "district": "Comun General de Fascia"
   },
   {
     "id": "369",
@@ -58581,7 +59076,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.332804601492539,
+      46.223012532835824
+    ],
+    "district": "Comunità della Valle di Cembra"
   },
   {
     "id": "372",
@@ -58948,7 +59448,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.01480333181818,
+      46.207504801136366
+    ],
+    "district": "Comunità della Paganella"
   },
   {
     "id": "373",
@@ -59171,7 +59676,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.028583003846157,
+      46.230556775
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "374",
@@ -60528,7 +61038,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.83843606816817,
+      46.09578949879882
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "375",
@@ -61907,7 +62422,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.549919713782993,
+      45.85319429325518
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "376",
@@ -62636,7 +63156,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.663714957386363,
+      46.162145815909106
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "380",
@@ -64167,7 +64692,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.472855220580472,
+      46.11829812005279
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "381",
@@ -64930,7 +65460,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.448920077540112,
+      46.10045983368985
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "382",
@@ -65233,7 +65768,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.26342328194444,
+      46.02153895138889
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "383",
@@ -65564,7 +66104,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.818626118987341,
+      45.941752362025305
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "387",
@@ -65959,7 +66504,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.929688126315787,
+      46.3593841536842
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "388",
@@ -66802,7 +67352,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.531061959420294,
+      46.296257614009676
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "389",
@@ -68427,7 +68982,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.727852227889453,
+      46.0240492444724
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "392",
@@ -68894,7 +69454,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.429452415929202,
+      46.09421602389381
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "395",
@@ -69557,7 +70122,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.098885075925914,
+      46.063179176543215
+    ],
+    "district": "Territorio della Val d’Adige"
   },
   {
     "id": "398",
@@ -70464,7 +71034,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.392447590582957,
+      46.22180325919284
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "402",
@@ -71699,7 +72274,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.63598517508197,
+      46.267131375409846
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "410",
@@ -72058,7 +72638,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.032672460465118,
+      45.93955078023255
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "412",
@@ -72185,7 +72770,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.081254192857141,
+      45.91530200357143
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "414",
@@ -72916,7 +73506,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.58321491675978,
+      46.2773959916201
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "3131",
@@ -73503,7 +74098,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.270776567132861,
+      45.97707156363636
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "3149",
@@ -74300,7 +74900,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.275743220207259,
+      46.14108655129533
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "3162",
@@ -74751,7 +75356,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.046471311926602,
+      46.27819237155962
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "3214",
@@ -76200,7 +76810,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.65431765505619,
+      46.14546454943821
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "3219",
@@ -77011,7 +77626,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.209146437185929,
+      45.8976593130653
+    ],
+    "district": "Magnifica Comunità degli Altipiani Cimbri"
   },
   {
     "id": "3317",
@@ -77972,7 +78592,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.570826079059831,
+      46.150849038034174
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "3318",
@@ -78643,7 +79268,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.832810288414636,
+      45.8827461762195
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "3808",
@@ -79662,7 +80292,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.795672900796816,
+      46.00833569282868
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "4942",
@@ -79961,7 +80596,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.091053667605637,
+      46.40482569718308
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "5368",
@@ -81174,7 +81814,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.735355764309755,
+      46.182560180134665
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "5591",
@@ -81705,7 +82350,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.283927610852711,
+      45.93515484806201
+    ],
+    "district": "Magnifica Comunità degli Altipiani Cimbri"
   },
   {
     "id": "5704",
@@ -82148,7 +82798,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.337739946728972,
+      45.92704992523365
+    ],
+    "district": "Magnifica Comunità degli Altipiani Cimbri"
   },
   {
     "id": "6360",
@@ -82411,7 +83066,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.084532603225805,
+      45.945215937096776
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "6491",
@@ -82814,7 +83474,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.568245062886598,
+      46.029599301030935
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "7254",
@@ -83557,7 +84222,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.006612453846152,
+      46.450725489560405
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8066",
@@ -84176,7 +84846,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.169960320529798,
+      45.86696259536425
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "8305",
@@ -85127,7 +85802,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.116539309401709,
+      45.805791550427315
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "8612",
@@ -85262,7 +85942,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.282820309999998,
+      46.04704386
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "8640",
@@ -86057,7 +86742,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.735444034871799,
+      46.00902627641025
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8717",
@@ -86500,7 +87190,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.17730549065421,
+      46.38824140373831
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8718",
@@ -88411,7 +89106,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.558043924050622,
+      46.027372896835445
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8719",
@@ -89874,7 +90574,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.648232295580113,
+      46.00453275497238
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8720",
@@ -91065,7 +91770,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.066227628911571,
+      46.42321882789113
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8721",
@@ -91380,7 +92090,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.964605981333337,
+      46.04675907733335
+    ],
+    "district": "Comunità della Valle dei Laghi"
   },
   {
     "id": "8722",
@@ -92175,7 +92890,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.44747802871796,
+      46.31395375230767
+    ],
+    "district": "Comunità territoriale della Val di Fiemme"
   },
   {
     "id": "8723",
@@ -93920,7 +94640,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.158266322325584,
+      46.4600156167442
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8724",
@@ -94439,7 +95164,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.21508960714285,
+      45.98754896031746
+    ],
+    "district": "Comunità Alta Valsugana e Bersntol"
   },
   {
     "id": "8725",
@@ -95810,7 +96540,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.115314866371685,
+      46.31598209351034
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8726",
@@ -96681,7 +97416,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.66237370514018,
+      46.07684186869159
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8727",
@@ -97252,7 +97992,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.877132489208632,
+      46.30251693021583
+    ],
+    "district": "Comunità della Valle di Sole"
   },
   {
     "id": "8728",
@@ -98183,7 +98928,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.903093284716155,
+      46.10529586200871
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8729",
@@ -98626,7 +99376,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.030290132710281,
+      46.30485814766355
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8730",
@@ -99659,7 +100414,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.530752407114623,
+      46.07058936442687
+    ],
+    "district": "Comunità Valsugana e Tesino"
   },
   {
     "id": "8731",
@@ -101142,7 +101902,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.705224042506803,
+      45.870316753133544
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "8732",
@@ -102485,7 +103250,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.005751421987956,
+      46.29856742831327
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8733",
@@ -103534,7 +104304,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.066742935546873,
+      46.16059201171878
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "8734",
@@ -104317,7 +105092,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.027698492187504,
+      46.109983830208336
+    ],
+    "district": "Comunità della Valle dei Laghi"
   },
   {
     "id": "8735",
@@ -104688,7 +105468,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.65196685955056,
+      45.94361695505619
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8736",
@@ -106043,7 +106828,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.71043044567164,
+      46.424646112537296
+    ],
+    "district": "Comun General de Fascia"
   },
   {
     "id": "8737",
@@ -106908,7 +107698,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.776733065566036,
+      46.06786913679248
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8737",
@@ -107845,7 +108640,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.85957143086957,
+      46.21139169217392
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8738",
@@ -108112,7 +108912,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.13555287142857,
+      46.19601382539681
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "8739",
@@ -109187,7 +109992,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.114645589433955,
+      45.836525086415044
+    ],
+    "district": "Comunità della Vallagarina"
   },
   {
     "id": "8740",
@@ -109746,7 +110556,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.08692979852941,
+      46.26475906323529
+    ],
+    "district": "Comunità della Val di Non"
   },
   {
     "id": "8741",
@@ -111271,7 +112086,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.84582151813333,
+      46.051281127466645
+    ],
+    "district": "Comunità delle Giudicarie"
   },
   {
     "id": "8742",
@@ -111502,7 +112322,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      11.163991729629632,
+      46.186442579629656
+    ],
+    "district": "Comunità Rotaliana‑Königsberg"
   },
   {
     "id": "8746",
@@ -112069,7 +112894,12 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.899017551449276,
+      45.86233877173914
+    ],
+    "district": "Comunità Alto Garda e Ledro"
   },
   {
     "id": "8746",
@@ -116888,6 +117718,11 @@
           ]
         ]
       ]
-    }
+    },
+    "center": [
+      10.569122750874296,
+      45.8999679941715
+    ],
+    "district": "Comunità delle Giudicarie"
   }
 ]

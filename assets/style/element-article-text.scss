@@ -1,0 +1,36 @@
+.eds-article-text {
+  &__content {
+    position: relative;
+
+    &::before {
+      transform: translateX(100%);
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 120%;
+      background: linear-gradient(90deg, transparent, white 15%);
+      transition: transform 1.4s ease;
+    }
+  }
+  &__wrapper {
+    padding: 0 2*1.6em;
+    margin-bottom: 2em;
+    position: relative;
+    overflow: hidden;
+
+  }
+  &__content {
+    max-width: 70em;
+  }
+  &__headline {
+    margin-bottom: 4em;
+  }
+
+  &.invisible {
+    .eds-article-text__content::before {
+      transform: translateX(0);
+    }
+  }
+}

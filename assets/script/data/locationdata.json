@@ -1,0 +1,1338 @@
+{
+  "Ala": {
+    "price": "1600",
+    "population": 8878,
+    "size": 119,
+    "density": 74,
+    "height": 194,
+    "district": "Comunità della Vallagarina"
+  },
+  "Primiero San Martino di Castrozza": {
+    "price": "2800",
+    "population": 4983,
+    "size": 200,
+    "density": 4,
+    "height": 25,
+    "district": "Comunità di Primiero"
+  },
+  "Albiano": {
+    "price": "1500",
+    "population": 1541,
+    "size": 10,
+    "density": 154,
+    "height": 644,
+    "district": "Comunità della Valle di Cembra"
+  },
+  "Aldeno": {
+    "price": "2200",
+    "population": 3350,
+    "size": 8,
+    "density": 373,
+    "height": 212,
+    "district": "Territorio della Val d’Adige"
+  },
+  "Altavalle": {
+    "price": "1000",
+    "population": 1647,
+    "size": 33,
+    "density": 49,
+    "height": 672,
+    "district": "Comunità della Valle di Cembra"
+  },
+  "Andalo": {
+    "price": "4400",
+    "population": 1143,
+    "size": 11,
+    "density": 41,
+    "height": 100,
+    "district": "Comunità della Paganella"
+  },
+  "Arco": {
+    "price": "3500",
+    "population": 17763,
+    "size": 63,
+    "density": 32,
+    "height": 281,
+    "district": "Comunità Alto Garda e Ledro"
+  },
+  "Avio": {
+    "price": "1600",
+    "population": 4134,
+    "size": 69,
+    "density": 6,
+    "height": 60,
+    "district": "Comunità della Vallagarina"
+  },
+  "Bedollo": {
+    "price": "800",
+    "population": 1491,
+    "size": 27,
+    "density": 27,
+    "height": 55,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Besenello": {
+    "price": "2400",
+    "population": 2800,
+    "size": 25,
+    "density": 76,
+    "height": 109,
+    "district": "Comunità della Vallagarina"
+  },
+  "Bieno": {
+    "price": "1200",
+    "population": 465,
+    "size": 11,
+    "density": 71,
+    "height": 40,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Bocenago": {
+    "price": "2200",
+    "population": 398,
+    "size": 8,
+    "density": 45,
+    "height": 47,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Bondone": {
+    "price": "1000",
+    "population": 644,
+    "size": 19,
+    "density": 29,
+    "height": 33,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Borgo Valsugana": {
+    "price": "1600",
+    "population": 7081,
+    "size": 52,
+    "density": 30,
+    "height": 135,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Borgo Chiese": {
+    "price": "1200",
+    "population": 1934,
+    "size": 53,
+    "density": 86,
+    "height": 36,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Brentonico": {
+    "price": "1500",
+    "population": 4124,
+    "size": 63,
+    "density": 21,
+    "height": 65,
+    "district": "Comunità della Vallagarina"
+  },
+  "Bresimo": {
+    "price": "1000",
+    "population": 244,
+    "size": 40,
+    "density": 77,
+    "height": 5,
+    "district": "Comunità della Val di Non"
+  },
+  "Caderzone Terme": {
+    "price": "4500",
+    "population": 696,
+    "size": 18,
+    "density": 66,
+    "height": 37,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Calceranica al Lago": {
+    "price": "2200",
+    "population": 1395,
+    "size": 3,
+    "density": 86,
+    "height": 361,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Caldes": {
+    "price": "1300",
+    "population": 1106,
+    "size": 20,
+    "density": 76,
+    "height": 53,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Calliano": {
+    "price": "1500",
+    "population": 2038,
+    "size": 10,
+    "density": 64,
+    "height": 192,
+    "district": "Comunità della Vallagarina"
+  },
+  "Campitello di Fassa": {
+    "price": "5000",
+    "population": 700,
+    "size": 25,
+    "density": 2,
+    "height": 28,
+    "district": "Comun General de Fascia"
+  },
+  "Campodenno": {
+    "price": "1600",
+    "population": 1509,
+    "size": 24,
+    "density": 22,
+    "height": 62,
+    "district": "Comunità della Val di Non"
+  },
+  "Canal San Bovo": {
+    "price": "1300",
+    "population": 1462,
+    "size": 125,
+    "density": 13,
+    "height": 12,
+    "district": "Comunità di Primiero"
+  },
+  "Canazei": {
+    "price": "5000",
+    "population": 1832,
+    "size": 67,
+    "density": 5,
+    "height": 27,
+    "district": "Comun General de Fascia"
+  },
+  "Capriana": {
+    "price": "1200",
+    "population": 595,
+    "size": 12,
+    "density": 85,
+    "height": 46,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Carisolo": {
+    "price": "5500",
+    "population": 921,
+    "size": 25,
+    "density": 49,
+    "height": 36,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Carzano": {
+    "price": "1400",
+    "population": 510,
+    "size": 1,
+    "density": 75,
+    "height": 291,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Castel Condino": {
+    "price": "1000",
+    "population": 225,
+    "size": 10,
+    "density": 92,
+    "height": 21,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Castello Tesino": {
+    "price": "1000",
+    "population": 1158,
+    "size": 112,
+    "density": 27,
+    "height": 10,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Castello-Molina di Fiemme": {
+    "price": "4600",
+    "population": 2319,
+    "size": 54,
+    "density": 81,
+    "height": 42,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Castelnuovo": {
+    "price": "1400",
+    "population": 1086,
+    "size": 13,
+    "density": 34,
+    "height": 81,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Cavalese": {
+    "price": "5000",
+    "population": 3987,
+    "size": 45,
+    "density": 17,
+    "height": 88,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Cavareno": {
+    "price": "1500",
+    "population": 1123,
+    "size": 9,
+    "density": 29,
+    "height": 121,
+    "district": "Comunità della Val di Non"
+  },
+  "Cavedago": {
+    "price": "1400",
+    "population": 576,
+    "size": 10,
+    "density": 2,
+    "height": 57,
+    "district": "Comunità della Paganella"
+  },
+  "Cavedine": {
+    "price": "2000",
+    "population": 3073,
+    "size": 37,
+    "density": 89,
+    "height": 81,
+    "district": "Comunità della Valle dei Laghi"
+  },
+  "Cavizzana": {
+    "price": "1300",
+    "population": 234,
+    "size": 3,
+    "density": 38,
+    "height": 69,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Cembra Lisignago": {
+    "price": "1800",
+    "population": 2346,
+    "size": 23,
+    "density": 91,
+    "height": 98,
+    "district": "Comunità della Valle di Cembra"
+  },
+  "Cimone": {
+    "price": "2000",
+    "population": 729,
+    "size": 9,
+    "density": 95,
+    "height": 73,
+    "district": "Territorio della Val d’Adige"
+  },
+  "Cinte Tesino": {
+    "price": "1000",
+    "population": 357,
+    "size": 30,
+    "density": 87,
+    "height": 12,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Cis": {
+    "price": "1300",
+    "population": 292,
+    "size": 5,
+    "density": 52,
+    "height": 53,
+    "district": "Comunità della Val di Non"
+  },
+  "Civezzano": {
+    "price": "2200",
+    "population": 4211,
+    "size": 15,
+    "density": 56,
+    "height": 271,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Cles": {
+    "price": "2200",
+    "population": 7309,
+    "size": 39,
+    "density": 62,
+    "height": 184,
+    "district": "Comunità della Val di Non"
+  },
+  "Commezzadura": {
+    "price": "1800",
+    "population": 1014,
+    "size": 21,
+    "density": 86,
+    "height": 46,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Croviana": {
+    "price": "2000",
+    "population": 688,
+    "size": 5,
+    "density": 6,
+    "height": 136,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Drena": {
+    "price": "2200",
+    "population": 598,
+    "size": 8,
+    "density": 0,
+    "height": 75,
+    "district": "Comunità Alto Garda e Ledro"
+  },
+  "Dro": {
+    "price": "2200",
+    "population": 5061,
+    "size": 28,
+    "density": 1,
+    "height": 181,
+    "district": "Comunità Alto Garda e Ledro"
+  },
+  "Fai della Paganella": {
+    "price": "2600",
+    "population": 933,
+    "size": 12,
+    "density": 34,
+    "height": 76,
+    "district": "Comunità della Paganella"
+  },
+  "Fiavè": {
+    "price": "1000",
+    "population": 1071,
+    "size": 24,
+    "density": 44,
+    "height": 660,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Fierozzo": {
+    "price": "1400",
+    "population": 464,
+    "size": 17,
+    "density": 99,
+    "height": 26,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Fornace": {
+    "price": "1000",
+    "population": 1336,
+    "size": 7,
+    "density": 32,
+    "height": 183,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Frassilongo": {
+    "price": "1400",
+    "population": 352,
+    "size": 16,
+    "density": 78,
+    "height": 21,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Garniga Terme": {
+    "price": "1600",
+    "population": 408,
+    "size": 13,
+    "density": 14,
+    "height": 31,
+    "district": "Territorio della Val d’Adige"
+  },
+  "Grigno": {
+    "price": "800",
+    "population": 2022,
+    "size": 46,
+    "density": 15,
+    "height": 44,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Imer": {
+    "price": "1000",
+    "population": 1177,
+    "size": 27,
+    "density": 88,
+    "height": 42,
+    "district": "Comunità di Primiero"
+  },
+  "Isera": {
+    "price": "2400",
+    "population": 2803,
+    "size": 14,
+    "density": 5,
+    "height": 199,
+    "district": "Comunità della Vallagarina"
+  },
+  "Lavis": {
+    "price": "2400",
+    "population": 9171,
+    "size": 12,
+    "density": 44,
+    "height": 737,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Levico Terme": {
+    "price": "2200",
+    "population": 8264,
+    "size": 62,
+    "density": 84,
+    "height": 132,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Livo": {
+    "price": "1300",
+    "population": 766,
+    "size": 15,
+    "density": 34,
+    "height": 50,
+    "district": "Comunità della Val di Non"
+  },
+  "Lona-Lases": {
+    "price": "1000",
+    "population": 863,
+    "size": 11,
+    "density": 37,
+    "height": 76,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Malé": {
+    "price": "1800",
+    "population": 2288,
+    "size": 26,
+    "density": 86,
+    "height": 737,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Massimeno": {
+    "price": "4500",
+    "population": 138,
+    "size": 21,
+    "density": 9,
+    "height": 6,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Mazzin": {
+    "price": "5000",
+    "population": 604,
+    "size": 23,
+    "density": 66,
+    "height": 26,
+    "district": "Comun General de Fascia"
+  },
+  "Mezzana": {
+    "price": "1800",
+    "population": 877,
+    "size": 27,
+    "density": 50,
+    "height": 32,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Mezzano": {
+    "price": "1600",
+    "population": 1585,
+    "size": 49,
+    "density": 17,
+    "height": 32,
+    "district": "Comunità di Primiero"
+  },
+  "Mezzocorona": {
+    "price": "3000",
+    "population": 5511,
+    "size": 25,
+    "density": 59,
+    "height": 215,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Mezzolombardo": {
+    "price": "2800",
+    "population": 7667,
+    "size": 13,
+    "density": 79,
+    "height": 556,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Moena": {
+    "price": "4600",
+    "population": 2537,
+    "size": 81,
+    "density": 46,
+    "height": 31,
+    "district": "Comun General de Fascia"
+  },
+  "Molveno": {
+    "price": "4400",
+    "population": 1119,
+    "size": 33,
+    "density": 93,
+    "height": 33,
+    "district": "Comunità della Paganella"
+  },
+  "Mori": {
+    "price": "2500",
+    "population": 10208,
+    "size": 33,
+    "density": 25,
+    "height": 307,
+    "district": "Comunità della Vallagarina"
+  },
+  "Nogaredo": {
+    "price": "2400",
+    "population": 2071,
+    "size": 3,
+    "density": 82,
+    "height": 542,
+    "district": "Comunità della Vallagarina"
+  },
+  "Novaledo": {
+    "price": "1600",
+    "population": 1162,
+    "size": 7,
+    "density": 92,
+    "height": 147,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Ossana": {
+    "price": "1800",
+    "population": 833,
+    "size": 25,
+    "density": 32,
+    "height": 33,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Palù del Fersina": {
+    "price": "1400",
+    "population": 159,
+    "size": 16,
+    "density": 82,
+    "height": 9,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Panchià": {
+    "price": "4200",
+    "population": 814,
+    "size": 20,
+    "density": 74,
+    "height": 39,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Peio": {
+    "price": "1800",
+    "population": 1794,
+    "size": 162,
+    "density": 75,
+    "height": 11,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Pellizzano": {
+    "price": "1800",
+    "population": 800,
+    "size": 49,
+    "density": 27,
+    "height": 16,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Pelugo": {
+    "price": "1200",
+    "population": 397,
+    "size": 21,
+    "density": 98,
+    "height": 18,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Pergine Valsugana": {
+    "price": "2400",
+    "population": 21684,
+    "size": 54,
+    "density": 5,
+    "height": 401,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Pinzolo": {
+    "price": "6000",
+    "population": 3039,
+    "size": 69,
+    "density": 3,
+    "height": 44,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Pomarolo": {
+    "price": "1800",
+    "population": 2449,
+    "size": 9,
+    "density": 56,
+    "height": 256,
+    "district": "Comunità della Vallagarina"
+  },
+  "Predazzo": {
+    "price": "4400",
+    "population": 4536,
+    "size": 110,
+    "density": 31,
+    "height": 41,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Rabbi": {
+    "price": "1600",
+    "population": 1372,
+    "size": 132,
+    "density": 35,
+    "height": 10,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Romeno": {
+    "price": "2000",
+    "population": 1497,
+    "size": 9,
+    "density": 7,
+    "height": 165,
+    "district": "Comunità della Val di Non"
+  },
+  "Roncegno Terme": {
+    "price": "1200",
+    "population": 2940,
+    "size": 38,
+    "density": 39,
+    "height": 77,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Ronchi Valsugana": {
+    "price": "1200",
+    "population": 451,
+    "size": 9,
+    "density": 85,
+    "height": 46,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Ronzo-Chienis": {
+    "price": "1800",
+    "population": 1002,
+    "size": 13,
+    "density": 40,
+    "height": 75,
+    "district": "Comunità della Vallagarina"
+  },
+  "Ronzone": {
+    "price": "1800",
+    "population": 482,
+    "size": 5,
+    "density": 84,
+    "height": 83,
+    "district": "Comunità della Val di Non"
+  },
+  "Roveré della Luna": {
+    "price": "2400",
+    "population": 1652,
+    "size": 10,
+    "density": 159,
+    "height": 251,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Rovereto": {
+    "price": "2400",
+    "population": 40047,
+    "size": 51,
+    "density": 87,
+    "height": 772,
+    "district": "Comunità della Vallagarina"
+  },
+  "Ruffrè-Mendola": {
+    "price": "2000",
+    "population": 408,
+    "size": 7,
+    "density": 62,
+    "height": 1200,
+    "district": "Comunità della Val di Non"
+  },
+  "Sagron Mis": {
+    "price": "800",
+    "population": 177,
+    "size": 10,
+    "density": 96,
+    "height": 16,
+    "district": "Comunità di Primiero"
+  },
+  "Samone": {
+    "price": "1200",
+    "population": 546,
+    "size": 4,
+    "density": 99,
+    "height": 109,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Sant'Orsola Terme": {
+    "price": "1200",
+    "population": 1104,
+    "size": 15,
+    "density": 34,
+    "height": 63,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Sanzeno": {
+    "price": "1500",
+    "population": 927,
+    "size": 7,
+    "density": 89,
+    "height": 118,
+    "district": "Comunità della Val di Non"
+  },
+  "Sarnonico": {
+    "price": "1800",
+    "population": 789,
+    "size": 11,
+    "density": 18,
+    "height": 71,
+    "district": "Comunità della Val di Non"
+  },
+  "Scurelle": {
+    "price": "1800",
+    "population": 1358,
+    "size": 29,
+    "density": 85,
+    "height": 45,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Segonzano": {
+    "price": "1000",
+    "population": 1357,
+    "size": 20,
+    "density": 62,
+    "height": 66,
+    "district": "Comunità della Valle di Cembra"
+  },
+  "Sfruz": {
+    "price": "1400",
+    "population": 363,
+    "size": 12,
+    "density": 55,
+    "height": 29,
+    "district": "Comunità della Val di Non"
+  },
+  "Soraga": {
+    "price": "4600",
+    "population": 717,
+    "size": 19,
+    "density": 36,
+    "height": 1220,
+    "district": "Comun General de Fascia"
+  },
+  "Sover": {
+    "price": "1400",
+    "population": 786,
+    "size": 14,
+    "density": 88,
+    "height": 53,
+    "district": "Comunità della Valle di Cembra"
+  },
+  "Spormaggiore": {
+    "price": "1400",
+    "population": 1248,
+    "size": 29,
+    "density": 85,
+    "height": 42,
+    "district": "Comunità della Paganella"
+  },
+  "Sporminore": {
+    "price": "1400",
+    "population": 718,
+    "size": 17,
+    "density": 94,
+    "height": 40,
+    "district": "Comunità della Val di Non"
+  },
+  "Stenico": {
+    "price": "1400",
+    "population": 1175,
+    "size": 49,
+    "density": 18,
+    "height": 24,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Storo": {
+    "price": "1200",
+    "population": 4477,
+    "size": 64,
+    "density": 32,
+    "height": 70,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Strembo": {
+    "price": "2200",
+    "population": 582,
+    "size": 39,
+    "density": 19,
+    "height": 15,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Telve": {
+    "price": "1400",
+    "population": 1905,
+    "size": 63,
+    "density": 89,
+    "height": 30,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Telve di Sopra": {
+    "price": "1400",
+    "population": 620,
+    "size": 18,
+    "density": 23,
+    "height": 34,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Tenna": {
+    "price": "2200",
+    "population": 1065,
+    "size": 2,
+    "density": 98,
+    "height": 357,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Tenno": {
+    "price": "2800",
+    "population": 2039,
+    "size": 28,
+    "density": 24,
+    "height": 72,
+    "district": "Comunità Alto Garda e Ledro"
+  },
+  "Terzolas": {
+    "price": "2000",
+    "population": 643,
+    "size": 5,
+    "density": 83,
+    "height": 110,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Tesero": {
+    "price": "4200",
+    "population": 2994,
+    "size": 50,
+    "density": 58,
+    "height": 59,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Tione di Trento": {
+    "price": "1400",
+    "population": 3664,
+    "size": 32,
+    "density": 91,
+    "height": 111,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Torcegno": {
+    "price": "1200",
+    "population": 694,
+    "size": 14,
+    "density": 84,
+    "height": 47,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Trento": {
+    "price": "2700",
+    "population": 118886,
+    "size": 157,
+    "density": 54,
+    "height": 755,
+    "district": "Territorio della Val d’Adige"
+  },
+  "Valfloriana": {
+    "price": "1000",
+    "population": 473,
+    "size": 39,
+    "density": 2,
+    "height": 12,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Vermiglio": {
+    "price": "2000",
+    "population": 1783,
+    "size": 94,
+    "density": 86,
+    "height": 19,
+    "district": "Comunità della Valle di Sole"
+  },
+  "Villa Lagarina": {
+    "price": "2200",
+    "population": 3893,
+    "size": 24,
+    "density": 1,
+    "height": 162,
+    "district": "Comunità della Vallagarina"
+  },
+  "Volano": {
+    "price": "2100",
+    "population": 3121,
+    "size": 10,
+    "density": 53,
+    "height": 296,
+    "district": "Comunità della Vallagarina"
+  },
+  "Ziano di Fiemme": {
+    "price": "4400",
+    "population": 1780,
+    "size": 35,
+    "density": 43,
+    "height": 50,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Caldonazzo": {
+    "price": "2000",
+    "population": 3962,
+    "size": 21,
+    "density": 31,
+    "height": 186,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Baselga di Piné": {
+    "price": "1400",
+    "population": 5209,
+    "size": 41,
+    "density": 32,
+    "height": 126,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Denno": {
+    "price": "1400",
+    "population": 1255,
+    "size": 10,
+    "density": 91,
+    "height": 115,
+    "district": "Comunità della Val di Non"
+  },
+  "Spiazzo": {
+    "price": "2000",
+    "population": 1266,
+    "size": 70,
+    "density": 76,
+    "height": 18,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Folgaria": {
+    "price": "2000",
+    "population": 3175,
+    "size": 71,
+    "density": 11,
+    "height": 45,
+    "district": "Magnifica Comunità degli Altipiani Cimbri"
+  },
+  "Pieve Tesino": {
+    "price": "1500",
+    "population": 654,
+    "size": 69,
+    "density": 74,
+    "height": 9,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Riva del Garda": {
+    "price": "4000",
+    "population": 17858,
+    "size": 40,
+    "density": 73,
+    "height": 438,
+    "district": "Comunità Alto Garda e Ledro"
+  },
+  "Bleggio Superiore": {
+    "price": "1100",
+    "population": 1509,
+    "size": 33,
+    "density": 22,
+    "height": 45,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Dambel": {
+    "price": "1300",
+    "population": 405,
+    "size": 5,
+    "density": 7,
+    "height": 80,
+    "district": "Comunità della Val di Non"
+  },
+  "Giustino": {
+    "price": "4000",
+    "population": 740,
+    "size": 38,
+    "density": 83,
+    "height": 19,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Lavarone": {
+    "price": "1800",
+    "population": 1203,
+    "size": 26,
+    "density": 68,
+    "height": 45,
+    "district": "Magnifica Comunità degli Altipiani Cimbri"
+  },
+  "Luserna": {
+    "price": "1300",
+    "population": 267,
+    "size": 8,
+    "density": 38,
+    "height": 32,
+    "district": "Magnifica Comunità degli Altipiani Cimbri"
+  },
+  "Nomi": {
+    "price": "2000",
+    "population": 1352,
+    "size": 6,
+    "density": 16,
+    "height": 219,
+    "district": "Comunità della Vallagarina"
+  },
+  "Ospedaletto": {
+    "price": "1000",
+    "population": 808,
+    "size": 16,
+    "density": 73,
+    "height": 48,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Rumo": {
+    "price": "1400",
+    "population": 788,
+    "size": 30,
+    "density": 94,
+    "height": 25,
+    "district": "Comunità della Val di Non"
+  },
+  "Terragnolo": {
+    "price": "1400",
+    "population": 705,
+    "size": 39,
+    "density": 70,
+    "height": 18,
+    "district": "Comunità della Vallagarina"
+  },
+  "Vallarsa": {
+    "price": "1100",
+    "population": 1392,
+    "size": 77,
+    "density": 95,
+    "height": 18,
+    "district": "Comunità della Vallagarina"
+  },
+  "Vignola-Falesina": {
+    "price": "1400",
+    "population": 199,
+    "size": 12,
+    "density": 24,
+    "height": 16,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Borgo Lares": {
+    "price": "1000",
+    "population": 728,
+    "size": 21,
+    "density": 96,
+    "height": 33,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Amblar-Don": {
+    "price": "1500",
+    "population": 552,
+    "size": 20,
+    "density": 11,
+    "height": 27,
+    "district": "Comunità della Val di Non"
+  },
+  "Valdaone": {
+    "price": "800",
+    "population": 1147,
+    "size": 177,
+    "density": 19,
+    "height": 6,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Sella Giudicarie": {
+    "price": "1200",
+    "population": 2948,
+    "size": 85,
+    "density": 54,
+    "height": 34,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Novella": {
+    "price": "1200",
+    "population": 3606,
+    "size": 46,
+    "density": 11,
+    "height": 78,
+    "district": "Comunità della Val di Non"
+  },
+  "Madruzzo": {
+    "price": "1600",
+    "population": 2991,
+    "size": 28,
+    "density": 80,
+    "height": 104,
+    "district": "Comunità della Valle dei Laghi"
+  },
+  "Ville di Fiemme": {
+    "price": "4800",
+    "population": 2650,
+    "size": 46,
+    "density": 19,
+    "height": 57,
+    "district": "Comunità territoriale della Val di Fiemme"
+  },
+  "Borgo d'Anaunia": {
+    "price": "1800",
+    "population": 2553,
+    "size": 63,
+    "density": 74,
+    "height": 40,
+    "district": "Comunità della Val di Non"
+  },
+  "Altopiano della Vigolana": {
+    "price": "2100",
+    "population": 5194,
+    "size": 45,
+    "density": 115,
+    "height": 725,
+    "district": "Comunità Alta Valsugana e Bersntol"
+  },
+  "Predaia": {
+    "price": "1500",
+    "population": 6903,
+    "size": 79,
+    "density": 94,
+    "height": 86,
+    "district": "Comunità della Val di Non"
+  },
+  "Porte di Rendena": {
+    "price": "2000",
+    "population": 1819,
+    "size": 41,
+    "density": 20,
+    "height": 44,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Dimaro Folgarida": {
+    "price": "2200",
+    "population": 2092,
+    "size": 36,
+    "density": 36,
+    "height": 58,
+    "district": "Comunità della Valle di Sole"
+  },
+  "San Lorenzo Dorsino": {
+    "price": "2000",
+    "population": 1575,
+    "size": 74,
+    "density": 25,
+    "height": 21,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Contà": {
+    "price": "1400",
+    "population": 1409,
+    "size": 19,
+    "density": 77,
+    "height": 71,
+    "district": "Comunità della Val di Non"
+  },
+  "Castel Ivano": {
+    "price": "1200",
+    "population": 3268,
+    "size": 35,
+    "density": 11,
+    "height": 93,
+    "district": "Comunità Valsugana e Tesino"
+  },
+  "Ledro": {
+    "price": "1700",
+    "population": 5395,
+    "size": 155,
+    "density": 16,
+    "height": 35,
+    "district": "Comunità Alto Garda e Ledro"
+  },
+  "Ville d'Anaunia": {
+    "price": "1800",
+    "population": 4672,
+    "size": 88,
+    "density": 49,
+    "height": 53,
+    "district": "Comunità della Val di Non"
+  },
+  "Terre d'Adige": {
+    "price": "2200",
+    "population": 3095,
+    "size": 16,
+    "density": 50,
+    "height": 188,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Vallelaghi": {
+    "price": "1800",
+    "population": 5256,
+    "size": 72,
+    "density": 77,
+    "height": 72,
+    "district": "Comunità della Valle dei Laghi"
+  },
+  "Pieve di Bono-Prezzo": {
+    "price": "1200",
+    "population": 1456,
+    "size": 24,
+    "density": 80,
+    "height": 59,
+    "district": "Comunità delle Giudicarie"
+  },
+  "San Giovanni di Fassa": {
+    "price": "5000",
+    "population": 3581,
+    "size": 99,
+    "density": 77,
+    "height": 36,
+    "district": "Comun General de Fascia"
+  },
+  "Tre Ville - Palù": {
+    "price": "1500",
+    "population": 1382,
+    "size": 82,
+    "density": 47,
+    "height": 17,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Tre Ville": {
+    "price": "6000",
+    "population": 1382,
+    "size": 82,
+    "density": 47,
+    "height": 17,
+    "district": "Comunità delle Giudicarie"
+  },
+  "San Michele all'Adige": {
+    "price": "2800",
+    "population": 4101,
+    "size": 16,
+    "density": 54,
+    "height": 248,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Trambileno": {
+    "price": "2100",
+    "population": 1473,
+    "size": 50,
+    "density": 30,
+    "height": 29,
+    "district": "Comunità della Vallagarina"
+  },
+  "Ton": {
+    "price": "1600",
+    "population": 1282,
+    "size": 26,
+    "density": 40,
+    "height": 49,
+    "district": "Comunità della Val di Non"
+  },
+  "Comano Terme": {
+    "price": "1400",
+    "population": 2948,
+    "size": 68,
+    "density": 3,
+    "height": 43,
+    "district": "Comunità delle Giudicarie"
+  },
+  "Giovo": {
+    "price": "2300",
+    "population": 2509,
+    "size": 20,
+    "density": 64,
+    "height": 122,
+    "district": "Comunità Rotaliana‑Königsberg"
+  },
+  "Nago-Torbole": {
+    "price": "4000",
+    "population": 2758,
+    "size": 28,
+    "density": 91,
+    "height": 95,
+    "district": "Comunità Alto Garda e Ledro"
+  }
+}

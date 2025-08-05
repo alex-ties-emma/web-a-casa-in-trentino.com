@@ -1,3 +1,7 @@
 .eds-map__map {
   height: 80em;
 }
+.eds-map {
+  position: relative;
+  z-index: 1;
+}

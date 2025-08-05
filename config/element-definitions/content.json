@@ -2,7 +2,8 @@
     "@type": "section_element_definition",
     "@id": "\/cms\/api\/section_element_definitions\/d68a7d34-6e0f-4477-9a03-f8aa47f592e5",
     "contentElementDefinitions": [
-        "\/cms\/api\/content_element_definitions\/ef53ca4c-8c5e-40a6-8497-9d4e94c126a3"
+        "\/cms\/api\/content_element_definitions\/ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
+        "\/cms\/api\/content_element_definitions\/7fdaebde-a374-43a2-9839-50f681573668"
     ],
     "uuid": "d68a7d34-6e0f-4477-9a03-f8aa47f592e5",
     "highlighting": 0,

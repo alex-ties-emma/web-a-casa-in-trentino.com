@@ -1,12 +1,12 @@
 {
     "@type": "content_element_definition",
-    "@id": "\/cms\/api\/content_element_definitions\/ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
-    "uuid": "ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
+    "@id": "\/cms\/api\/content_element_definitions\/7fdaebde-a374-43a2-9839-50f681573668",
+    "uuid": "7fdaebde-a374-43a2-9839-50f681573668",
     "highlighting": 0,
     "hidden": 0,
-    "name": "Map",
-    "description": "Map",
-    "handle": "map",
+    "name": "Subpage Vista",
+    "description": "Subpage Vista",
+    "handle": "subpage-vista",
     "form": {
         "fieldsets": [
             {
@@ -17,6 +17,18 @@
             }
         ],
         "fields": [
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Headline",
+                "valueKey": "headline"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "image",
+                "label": "Image",
+                "valueKey": "image"
+            },
             {
                 "fieldsetId": "fs1",
                 "valueKey": "spacing_bottom",

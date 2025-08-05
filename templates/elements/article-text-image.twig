@@ -1,0 +1,65 @@
+<div class="eds-article-text-image {{ content.spacing_bottom }} ">
+    <div class="eds-article-text-image__wrapper eds-width--c9">
+        <div class="eds-article-text-image__content">
+            {% if content.title %}
+                <div class="eds-article-text-image__headline">
+                    {{ content.title|formatHeadline }}
+                </div>
+            {% endif %}
+            {% if content.text %}
+                <div class="eds-article-text-image__text eds-richtext">
+                    {{ content.text|raw }}
+                </div>
+            {% endif %}
+
+            {% if content.buttonlink and content.buttonlabel %}
+                <div class="eds-article-text__link">
+                    <a class="eds-link" href="{{ generateLink(content.buttonlink) }}">
+                        <span>{{ content.buttonlabel }}</span>
+                        <span class="eds-icon eds-icon--arrow_forward"></span>
+                    </a>
+                </div>
+            {% endif %}
+
+        </div>
+        <div class="eds-article-text-image__image">
+            {{ content.image|optimizeImage([
+                {
+                    'imageWidth': '420',
+                    'mediaMinWidth': '320',
+                    'aspect_ratio': '3x4',
+                    'compression': '10',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '920',
+                    'mediaMinWidth': '700',
+                    'aspect_ratio': '4x3',
+                    'compression': '10',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '1224',
+                    'mediaMinWidth': '1024',
+                    'aspect_ratio': '16x9',
+                    'compression': '10',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '1400',
+                    'mediaMinWidth': '1224',
+                    'aspect_ratio': '16x9',
+                    'compression': '5',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '1600',
+                    'mediaMinWidth': '1440',
+                    'aspect_ratio': '16x9',
+                    'compression': '5',
+                    'contain': content.contain
+                }
+            ]) }}
+        </div>
+    </div>
+</div>

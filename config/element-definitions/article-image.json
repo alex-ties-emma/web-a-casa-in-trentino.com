@@ -1,12 +1,12 @@
 {
     "@type": "content_element_definition",
-    "@id": "\/cms\/api\/content_element_definitions\/ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
-    "uuid": "ef53ca4c-8c5e-40a6-8497-9d4e94c126a3",
+    "@id": "\/cms\/api\/content_element_definitions\/aa8eb610-65ae-46e8-8d77-3acde255dc7f",
+    "uuid": "aa8eb610-65ae-46e8-8d77-3acde255dc7f",
     "highlighting": 0,
     "hidden": 0,
-    "name": "Map",
-    "description": "Map",
-    "handle": "map",
+    "name": "Article Image",
+    "description": "Article Image",
+    "handle": "article-image",
     "form": {
         "fieldsets": [
             {
@@ -19,24 +19,33 @@
         "fields": [
             {
                 "fieldsetId": "fs1",
+                "field": "image",
+                "label": "Image",
+                "valueKey": "image"
+            },
+            {
+                "fieldsetId": "fs1",
                 "valueKey": "spacing_bottom",
                 "field": "select",
-                "label": "Abstand unten",
-                "options": [
+                "label": {
+                    "DE": "Abstand",
+                    "IT": "Distanza"
+                },
+                "items": [
                     {
-                        "label": "Keiner",
+                        "label": "Kein Abstand",
                         "value": ""
                     },
                     {
-                        "label": "Klein",
+                        "label": "Abstand klein",
                         "value": "eds-spacing-bottom--small"
                     },
                     {
-                        "label": "Medium",
+                        "label": "Abstand mittel",
                         "value": "eds-spacing-bottom--medium"
                     },
                     {
-                        "label": "Gro\u00df",
+                        "label": "Abstand gro\u00df",
                         "value": "eds-spacing-bottom--large"
                     }
                 ]
