@@ -1,5 +1,5 @@
 import leaflet from "leaflet";
-import prices from "./data/prices.json";
+import locationdata from "./data/locationdata.json";
 import geolocation from "./data/geolocation.json";
 
 export function initMap() {
@@ -31,7 +31,7 @@ export function initMap() {
     ];
 
 
-    const pricesValues = Object.values(prices);
+    const pricesValues = Object.values(locationdata).map(x => x.price);
     if (pricesValues.length === 0) {
         throw new Error("Object has no price values.");
     }
@@ -39,6 +39,8 @@ export function initMap() {
     const min = Math.min(...pricesValues);
     const max = Math.max(...pricesValues);
     const steps = [];
+
+    console.log({pricesValues, min, max});
 
     const stepSize = (max - min) / 11;
 
@@ -57,8 +59,12 @@ export function initMap() {
 
 
 
-    Object.entries(prices).forEach(([municipality, price]) => {
-        console.log({municipality, price})
+    Object.entries(locationdata).forEach(([municipality, data]) => {
+
+
+        let price = data.price;
+
+        console.log({municipality, data, price});
 
         const feature = geolocation.find(f =>
             f.municipality === municipality

@@ -1,0 +1,111 @@
+{
+    "highlighting": 0,
+    "hidden": 0,
+    "name": "Article Text Image",
+    "description": "Home Text Image",
+    "handle": "home-text-image",
+    "form": {
+        "fieldsets": [
+            {
+                "fieldsetId": "fs1",
+                "label": "",
+                "type": "standard",
+                "gridType": "grid-oneline"
+            }
+        ],
+        "fields": [
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Titel",
+                "valueKey": "title"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "richtext",
+                "label": "Text",
+                "valueKey": "text"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "image",
+                "label": "Image",
+                "valueKey": "image"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "subform",
+                "label": "Items",
+                "placeholder": "Items",
+                "valueKey": "items",
+                "additionalSettings": {
+                    "max_items": 9,
+                    "min_items": 9
+                },
+                "subform": {
+                    "fieldsets": [
+                        {
+                            "fieldsetId": "fs1",
+                            "label": "",
+                            "type": "standard",
+                            "gridType": "grid-oneline"
+                        }
+                    ],
+                    "fields": [
+
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "input-text",
+                            "label": "Etichetta Link",
+                            "placeholder": "Etichetta Link",
+                            "valueKey": "buttonlabel"
+                        },
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "pagelink",
+                            "label": "Link",
+                            "placeholder": "Link",
+                            "valueKey": "buttonlink"
+                        }
+                    ]
+                }
+            },
+
+            {
+                "fieldsetId": "fs1",
+                "field": "switch",
+                "label": "Bild im Rahmen",
+                "placeholder": "Bild im Rahmen",
+                "valueKey": "contain"
+            },
+            {
+                "fieldsetId": "fs1",
+                "valueKey": "spacing_bottom",
+                "field": "select",
+                "label": {
+                    "DE": "Abstand",
+                    "IT": "Distanza"
+                },
+                "items": [
+                    {
+                        "label": "Kein Abstand",
+                        "value": ""
+                    },
+                    {
+                        "label": "Abstand klein",
+                        "value": "eds-spacing-bottom--small"
+                    },
+                    {
+                        "label": "Abstand mittel",
+                        "value": "eds-spacing-bottom--medium"
+                    },
+                    {
+                        "label": "Abstand gro\u00df",
+                        "value": "eds-spacing-bottom--large"
+                    }
+                ]
+            }
+        ]
+    },
+    "slide": false
+}

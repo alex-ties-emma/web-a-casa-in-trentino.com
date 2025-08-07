@@ -5,7 +5,19 @@
     "size": 119,
     "density": 74,
     "height": 194,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ala"
   },
   "Primiero San Martino di Castrozza": {
     "price": "2800",
@@ -13,7 +25,19 @@
     "size": 200,
     "density": 4,
     "height": 25,
-    "district": "Comunità di Primiero"
+    "district": "Comunità di Primiero",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "primiero-san-martino-di-castrozza"
   },
   "Albiano": {
     "price": "1500",
@@ -21,7 +45,19 @@
     "size": 10,
     "density": 154,
     "height": 644,
-    "district": "Comunità della Valle di Cembra"
+    "district": "Comunità della Valle di Cembra",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "albiano"
   },
   "Aldeno": {
     "price": "2200",
@@ -29,7 +65,19 @@
     "size": 8,
     "density": 373,
     "height": 212,
-    "district": "Territorio della Val d’Adige"
+    "district": "Territorio della Val d’Adige",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "aldeno"
   },
   "Altavalle": {
     "price": "1000",
@@ -37,7 +85,19 @@
     "size": 33,
     "density": 49,
     "height": 672,
-    "district": "Comunità della Valle di Cembra"
+    "district": "Comunità della Valle di Cembra",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "altavalle"
   },
   "Andalo": {
     "price": "4400",
@@ -45,7 +105,19 @@
     "size": 11,
     "density": 41,
     "height": 100,
-    "district": "Comunità della Paganella"
+    "district": "Comunità della Paganella",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Mezzolombardo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "andalo"
   },
   "Arco": {
     "price": "3500",
@@ -53,7 +125,19 @@
     "size": 63,
     "density": 32,
     "height": 281,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "arco"
   },
   "Avio": {
     "price": "1600",
@@ -61,7 +145,19 @@
     "size": 69,
     "density": 6,
     "height": 60,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "avio"
   },
   "Bedollo": {
     "price": "800",
@@ -69,7 +165,19 @@
     "size": 27,
     "density": 27,
     "height": 55,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Baselga di Piné",
+      "bank": "Baselga di Piné",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "bedollo"
   },
   "Besenello": {
     "price": "2400",
@@ -77,7 +185,19 @@
     "size": 25,
     "density": 76,
     "height": 109,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "besenello"
   },
   "Bieno": {
     "price": "1200",
@@ -85,7 +205,19 @@
     "size": 11,
     "density": 71,
     "height": 40,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Strigno",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "bieno"
   },
   "Bocenago": {
     "price": "2200",
@@ -93,7 +225,19 @@
     "size": 8,
     "density": 45,
     "height": 47,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Caderzone Terme",
+      "bank": "Caderzone Terme",
+      "post_office": "Caderzone Terme",
+      "bar": "yes",
+      "schools_kindergartens": "Caderzone Terme",
+      "healthcare": "Caderzone Terme",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "bocenago"
   },
   "Bondone": {
     "price": "1000",
@@ -101,7 +245,19 @@
     "size": 19,
     "density": 29,
     "height": 33,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Storo",
+      "bank": "Storo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Storo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "bondone"
   },
   "Borgo Valsugana": {
     "price": "1600",
@@ -109,7 +265,19 @@
     "size": 52,
     "density": 30,
     "height": 135,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "borgo-valsugana"
   },
   "Borgo Chiese": {
     "price": "1200",
@@ -117,7 +285,19 @@
     "size": 53,
     "density": 86,
     "height": 36,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "borgo-chiese"
   },
   "Brentonico": {
     "price": "1500",
@@ -125,7 +305,19 @@
     "size": 63,
     "density": 21,
     "height": 65,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "brentonico"
   },
   "Bresimo": {
     "price": "1000",
@@ -133,7 +325,19 @@
     "size": 40,
     "density": 77,
     "height": 5,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "bresimo"
   },
   "Caderzone Terme": {
     "price": "4500",
@@ -141,7 +345,19 @@
     "size": 18,
     "density": 66,
     "height": 37,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Pinzolo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Pinzolo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "caderzone-terme"
   },
   "Calceranica al Lago": {
     "price": "2200",
@@ -149,7 +365,19 @@
     "size": 3,
     "density": 86,
     "height": 361,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "calceranica-al-lago"
   },
   "Caldes": {
     "price": "1300",
@@ -157,7 +385,19 @@
     "size": 20,
     "density": 76,
     "height": 53,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "caldes"
   },
   "Calliano": {
     "price": "1500",
@@ -165,7 +405,9 @@
     "size": 10,
     "density": 64,
     "height": 192,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": null,
+    "slug": "calliano"
   },
   "Campitello di Fassa": {
     "price": "5000",
@@ -173,7 +415,19 @@
     "size": 25,
     "density": 2,
     "height": 28,
-    "district": "Comun General de Fascia"
+    "district": "Comun General de Fascia",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "campitello-di-fassa"
   },
   "Campodenno": {
     "price": "1600",
@@ -181,7 +435,19 @@
     "size": 24,
     "density": 22,
     "height": 62,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Denno",
+      "bank": "Denno",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "kindergarten only",
+      "healthcare": "Denno",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "campodenno"
   },
   "Canal San Bovo": {
     "price": "1300",
@@ -189,7 +455,19 @@
     "size": 125,
     "density": 13,
     "height": 12,
-    "district": "Comunità di Primiero"
+    "district": "Comunità di Primiero",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "canal-san-bovo"
   },
   "Canazei": {
     "price": "5000",
@@ -197,7 +475,19 @@
     "size": 67,
     "density": 5,
     "height": 27,
-    "district": "Comun General de Fascia"
+    "district": "Comun General de Fascia",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "canazei"
   },
   "Capriana": {
     "price": "1200",
@@ -205,7 +495,19 @@
     "size": 12,
     "density": 85,
     "height": 46,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "capriana"
   },
   "Carisolo": {
     "price": "5500",
@@ -213,7 +515,19 @@
     "size": 25,
     "density": 49,
     "height": 36,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "kindergarten only",
+      "healthcare": "Pinzolo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "carisolo"
   },
   "Carzano": {
     "price": "1400",
@@ -221,7 +535,19 @@
     "size": 1,
     "density": 75,
     "height": 291,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Borgo Valsugana",
+      "bank": "Borgo Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Borgo Valsugana",
+      "public_transportation_train": "Borgo Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "carzano"
   },
   "Castel Condino": {
     "price": "1000",
@@ -229,7 +555,19 @@
     "size": 10,
     "density": 92,
     "height": 21,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Condino",
+      "bank": "Condino",
+      "post_office": "yes",
+      "bar": "Condino",
+      "schools_kindergartens": "no",
+      "healthcare": "Condino",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "castel-condino"
   },
   "Castello Tesino": {
     "price": "1000",
@@ -237,7 +575,19 @@
     "size": 112,
     "density": 27,
     "height": 10,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "castello-tesino"
   },
   "Castello-Molina di Fiemme": {
     "price": "4600",
@@ -245,7 +595,19 @@
     "size": 54,
     "density": 81,
     "height": 42,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "castellomolina-di-fiemme"
   },
   "Castelnuovo": {
     "price": "1400",
@@ -253,7 +615,19 @@
     "size": 13,
     "density": 34,
     "height": 81,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Borgo Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "unknown",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "castelnuovo"
   },
   "Cavalese": {
     "price": "5000",
@@ -261,7 +635,19 @@
     "size": 45,
     "density": 17,
     "height": 88,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cavalese"
   },
   "Cavareno": {
     "price": "1500",
@@ -269,7 +655,19 @@
     "size": 9,
     "density": 29,
     "height": 121,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cavareno"
   },
   "Cavedago": {
     "price": "1400",
@@ -277,7 +675,19 @@
     "size": 10,
     "density": 2,
     "height": 57,
-    "district": "Comunità della Paganella"
+    "district": "Comunità della Paganella",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "kindergarten",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cavedago"
   },
   "Cavedine": {
     "price": "2000",
@@ -285,7 +695,19 @@
     "size": 37,
     "density": 89,
     "height": 81,
-    "district": "Comunità della Valle dei Laghi"
+    "district": "Comunità della Valle dei Laghi",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cavedine"
   },
   "Cavizzana": {
     "price": "1300",
@@ -293,7 +715,19 @@
     "size": 3,
     "density": 38,
     "height": 69,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Malè",
+      "bank": "Malè",
+      "post_office": "Malè",
+      "bar": "yes",
+      "schools_kindergartens": "Malè",
+      "healthcare": "Malè",
+      "public_transportation_train": "Malè",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cavizzana"
   },
   "Cembra Lisignago": {
     "price": "1800",
@@ -301,7 +735,19 @@
     "size": 23,
     "density": 91,
     "height": 98,
-    "district": "Comunità della Valle di Cembra"
+    "district": "Comunità della Valle di Cembra",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cembra-lisignago"
   },
   "Cimone": {
     "price": "2000",
@@ -309,7 +755,19 @@
     "size": 9,
     "density": 95,
     "height": 73,
-    "district": "Territorio della Val d’Adige"
+    "district": "Territorio della Val d’Adige",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Aldeno",
+      "bank": "Aldeno",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Aldeno",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cimone"
   },
   "Cinte Tesino": {
     "price": "1000",
@@ -317,7 +775,19 @@
     "size": 30,
     "density": 87,
     "height": 12,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "Pieve Tesino",
+      "pharmacy": "Pieve Tesino",
+      "bank": "Pieve Tesino",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Borgo Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cinte-tesino"
   },
   "Cis": {
     "price": "1300",
@@ -325,7 +795,19 @@
     "size": 5,
     "density": 52,
     "height": 53,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cis"
   },
   "Civezzano": {
     "price": "2200",
@@ -333,7 +815,19 @@
     "size": 15,
     "density": 56,
     "height": 271,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "civezzano"
   },
   "Cles": {
     "price": "2200",
@@ -341,7 +835,19 @@
     "size": 39,
     "density": 62,
     "height": 184,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cles"
   },
   "Commezzadura": {
     "price": "1800",
@@ -349,7 +855,19 @@
     "size": 21,
     "density": 86,
     "height": 46,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "no",
+      "bank": "Mezzana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Mezzana",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "commezzadura"
   },
   "Croviana": {
     "price": "2000",
@@ -357,7 +875,19 @@
     "size": 5,
     "density": 6,
     "height": 136,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "Malè",
+      "bank": "Malè",
+      "post_office": "Malè",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Malè",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "croviana"
   },
   "Drena": {
     "price": "2200",
@@ -365,7 +895,19 @@
     "size": 8,
     "density": 0,
     "height": 75,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "drena"
   },
   "Dro": {
     "price": "2200",
@@ -373,7 +915,19 @@
     "size": 28,
     "density": 1,
     "height": 181,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "dro"
   },
   "Fai della Paganella": {
     "price": "2600",
@@ -381,7 +935,19 @@
     "size": 12,
     "density": 34,
     "height": 76,
-    "district": "Comunità della Paganella"
+    "district": "Comunità della Paganella",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Andalo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "partial",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "fai-della-paganella"
   },
   "Fiavè": {
     "price": "1000",
@@ -389,7 +955,19 @@
     "size": 24,
     "density": 44,
     "height": 660,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "fiav"
   },
   "Fierozzo": {
     "price": "1400",
@@ -397,7 +975,19 @@
     "size": 17,
     "density": 99,
     "height": 26,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "fierozzo"
   },
   "Fornace": {
     "price": "1000",
@@ -405,7 +995,19 @@
     "size": 7,
     "density": 32,
     "height": 183,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "fornace"
   },
   "Frassilongo": {
     "price": "1400",
@@ -413,7 +1015,19 @@
     "size": 16,
     "density": 78,
     "height": 21,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Sant'Orsola Terme",
+      "bank": "Pergine Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "frassilongo"
   },
   "Garniga Terme": {
     "price": "1600",
@@ -421,7 +1035,19 @@
     "size": 13,
     "density": 14,
     "height": 31,
-    "district": "Territorio della Val d’Adige"
+    "district": "Territorio della Val d’Adige",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Aldeno",
+      "bank": "Aldeno",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "Aldeno",
+      "healthcare": "Aldeno",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "garniga-terme"
   },
   "Grigno": {
     "price": "800",
@@ -429,7 +1055,19 @@
     "size": 46,
     "density": 15,
     "height": 44,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "grigno"
   },
   "Imer": {
     "price": "1000",
@@ -437,7 +1075,19 @@
     "size": 27,
     "density": 88,
     "height": 42,
-    "district": "Comunità di Primiero"
+    "district": "Comunità di Primiero",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Mezzano",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "imer"
   },
   "Isera": {
     "price": "2400",
@@ -445,7 +1095,19 @@
     "size": 14,
     "density": 5,
     "height": 199,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "isera"
   },
   "Lavis": {
     "price": "2400",
@@ -453,7 +1115,19 @@
     "size": 12,
     "density": 44,
     "height": 737,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "lavis"
   },
   "Levico Terme": {
     "price": "2200",
@@ -461,7 +1135,19 @@
     "size": 62,
     "density": 84,
     "height": 132,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "levico-terme"
   },
   "Livo": {
     "price": "1300",
@@ -469,7 +1155,19 @@
     "size": 15,
     "density": 34,
     "height": 50,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Cles",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Cles",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "livo"
   },
   "Lona-Lases": {
     "price": "1000",
@@ -477,7 +1175,19 @@
     "size": 11,
     "density": 37,
     "height": 76,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Cembra",
+      "bank": "Cembra",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Albiano",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "lonalases"
   },
   "Malé": {
     "price": "1800",
@@ -485,7 +1195,19 @@
     "size": 26,
     "density": 86,
     "height": 737,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mal"
   },
   "Massimeno": {
     "price": "4500",
@@ -493,7 +1215,19 @@
     "size": 21,
     "density": 9,
     "height": 6,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Pinzolo",
+      "bank": "Pinzolo",
+      "post_office": "Pinzolo",
+      "bar": "yes",
+      "schools_kindergartens": "Pinzolo",
+      "healthcare": "Pinzolo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "massimeno"
   },
   "Mazzin": {
     "price": "5000",
@@ -501,7 +1235,19 @@
     "size": 23,
     "density": 66,
     "height": 26,
-    "district": "Comun General de Fascia"
+    "district": "Comun General de Fascia",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mazzin"
   },
   "Mezzana": {
     "price": "1800",
@@ -509,7 +1255,19 @@
     "size": 27,
     "density": 50,
     "height": 32,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mezzana"
   },
   "Mezzano": {
     "price": "1600",
@@ -517,7 +1275,19 @@
     "size": 49,
     "density": 17,
     "height": 32,
-    "district": "Comunità di Primiero"
+    "district": "Comunità di Primiero",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mezzano"
   },
   "Mezzocorona": {
     "price": "3000",
@@ -525,7 +1295,19 @@
     "size": 25,
     "density": 59,
     "height": 215,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mezzocorona"
   },
   "Mezzolombardo": {
     "price": "2800",
@@ -533,7 +1315,19 @@
     "size": 13,
     "density": 79,
     "height": 556,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mezzolombardo"
   },
   "Moena": {
     "price": "4600",
@@ -541,7 +1335,19 @@
     "size": 81,
     "density": 46,
     "height": 31,
-    "district": "Comun General de Fascia"
+    "district": "Comun General de Fascia",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "moena"
   },
   "Molveno": {
     "price": "4400",
@@ -549,7 +1355,19 @@
     "size": 33,
     "density": 93,
     "height": 33,
-    "district": "Comunità della Paganella"
+    "district": "Comunità della Paganella",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "molveno"
   },
   "Mori": {
     "price": "2500",
@@ -557,7 +1375,19 @@
     "size": 33,
     "density": 25,
     "height": 307,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "mori"
   },
   "Nogaredo": {
     "price": "2400",
@@ -565,7 +1395,19 @@
     "size": 3,
     "density": 82,
     "height": 542,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "nogaredo"
   },
   "Novaledo": {
     "price": "1600",
@@ -573,7 +1415,19 @@
     "size": 7,
     "density": 92,
     "height": 147,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Borgo Valsugana",
+      "bank": "Borgo Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Borgo Valsugana",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "novaledo"
   },
   "Ossana": {
     "price": "1800",
@@ -581,7 +1435,19 @@
     "size": 25,
     "density": 32,
     "height": 33,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Pellizzano",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Pellizzano",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ossana"
   },
   "Palù del Fersina": {
     "price": "1400",
@@ -589,7 +1455,19 @@
     "size": 16,
     "density": 82,
     "height": 9,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pal-del-fersina"
   },
   "Panchià": {
     "price": "4200",
@@ -597,7 +1475,19 @@
     "size": 20,
     "density": 74,
     "height": 39,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Ziano di Fiemme",
+      "bank": "Tesero",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "kindergarten only",
+      "healthcare": "Tesero",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "panchi"
   },
   "Peio": {
     "price": "1800",
@@ -605,7 +1495,19 @@
     "size": 162,
     "density": 75,
     "height": 11,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Peio Fonti",
+      "bank": "Cogolo",
+      "post_office": "Cogolo",
+      "bar": "yes",
+      "schools_kindergartens": "Cogolo",
+      "healthcare": "Cogolo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "peio"
   },
   "Pellizzano": {
     "price": "1800",
@@ -613,7 +1515,19 @@
     "size": 49,
     "density": 27,
     "height": 16,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pellizzano"
   },
   "Pelugo": {
     "price": "1200",
@@ -621,7 +1535,19 @@
     "size": 21,
     "density": 98,
     "height": 18,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Spiazzo",
+      "bank": "Spiazzo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Spiazzo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pelugo"
   },
   "Pergine Valsugana": {
     "price": "2400",
@@ -629,7 +1555,19 @@
     "size": 54,
     "density": 5,
     "height": 401,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pergine-valsugana"
   },
   "Pinzolo": {
     "price": "6000",
@@ -637,7 +1575,19 @@
     "size": 69,
     "density": 3,
     "height": 44,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pinzolo"
   },
   "Pomarolo": {
     "price": "1800",
@@ -645,7 +1595,19 @@
     "size": 9,
     "density": 56,
     "height": 256,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Rovereto",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pomarolo"
   },
   "Predazzo": {
     "price": "4400",
@@ -653,7 +1615,19 @@
     "size": 110,
     "density": 31,
     "height": 41,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "predazzo"
   },
   "Rabbi": {
     "price": "1600",
@@ -661,7 +1635,19 @@
     "size": 132,
     "density": 35,
     "height": 10,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Malè",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "rabbi"
   },
   "Romeno": {
     "price": "2000",
@@ -669,7 +1655,19 @@
     "size": 9,
     "density": 7,
     "height": 165,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "romeno"
   },
   "Roncegno Terme": {
     "price": "1200",
@@ -677,7 +1675,19 @@
     "size": 38,
     "density": 39,
     "height": 77,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Borgo Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "roncegno-terme"
   },
   "Ronchi Valsugana": {
     "price": "1200",
@@ -685,7 +1695,19 @@
     "size": 9,
     "density": 85,
     "height": 46,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Borgo Valsugana",
+      "bank": "Borgo Valsugana",
+      "post_office": "Borgo Valsugana",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Borgo Valsugana",
+      "public_transportation_train": "Borgo Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ronchi-valsugana"
   },
   "Ronzo-Chienis": {
     "price": "1800",
@@ -693,7 +1715,19 @@
     "size": 13,
     "density": 40,
     "height": 75,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "Mori",
+      "bank": "Mori",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Mori",
+      "public_transportation_train": "Mori",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ronzochienis"
   },
   "Ronzone": {
     "price": "1800",
@@ -701,7 +1735,19 @@
     "size": 5,
     "density": 84,
     "height": 83,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ronzone"
   },
   "Roveré della Luna": {
     "price": "2400",
@@ -709,7 +1755,19 @@
     "size": 10,
     "density": 159,
     "height": 251,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "rover-della-luna"
   },
   "Rovereto": {
     "price": "2400",
@@ -717,7 +1775,19 @@
     "size": 51,
     "density": 87,
     "height": 772,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "rovereto"
   },
   "Ruffrè-Mendola": {
     "price": "2000",
@@ -725,7 +1795,19 @@
     "size": 7,
     "density": 62,
     "height": 1200,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "no",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ruffrmendola"
   },
   "Sagron Mis": {
     "price": "800",
@@ -733,7 +1815,19 @@
     "size": 10,
     "density": 96,
     "height": 16,
-    "district": "Comunità di Primiero"
+    "district": "Comunità di Primiero",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sagron-mis"
   },
   "Samone": {
     "price": "1200",
@@ -741,7 +1835,19 @@
     "size": 4,
     "density": 99,
     "height": 109,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Strigno",
+      "bank": "Strigno",
+      "post_office": "Strigno",
+      "bar": "yes",
+      "schools_kindergartens": "no",
+      "healthcare": "Strigno",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "samone"
   },
   "Sant'Orsola Terme": {
     "price": "1200",
@@ -749,7 +1855,19 @@
     "size": 15,
     "density": 34,
     "height": 63,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "santorsola-terme"
   },
   "Sanzeno": {
     "price": "1500",
@@ -757,7 +1875,19 @@
     "size": 7,
     "density": 89,
     "height": 118,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Cles",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Dermulo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sanzeno"
   },
   "Sarnonico": {
     "price": "1800",
@@ -765,7 +1895,19 @@
     "size": 11,
     "density": 18,
     "height": 71,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sarnonico"
   },
   "Scurelle": {
     "price": "1800",
@@ -773,7 +1915,19 @@
     "size": 29,
     "density": 85,
     "height": 45,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "scurelle"
   },
   "Segonzano": {
     "price": "1000",
@@ -781,7 +1935,19 @@
     "size": 20,
     "density": 62,
     "height": 66,
-    "district": "Comunità della Valle di Cembra"
+    "district": "Comunità della Valle di Cembra",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "segonzano"
   },
   "Sfruz": {
     "price": "1400",
@@ -789,7 +1955,19 @@
     "size": 12,
     "density": 55,
     "height": 29,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "Coredo",
+      "pharmacy": "Coredo",
+      "bank": "Coredo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "Coredo",
+      "healthcare": "Coredo",
+      "public_transportation_train": "Dermulo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sfruz"
   },
   "Soraga": {
     "price": "4600",
@@ -797,7 +1975,19 @@
     "size": 19,
     "density": 36,
     "height": 1220,
-    "district": "Comun General de Fascia"
+    "district": "Comun General de Fascia",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Moena",
+      "bank": "Moena",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Moena",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "soraga"
   },
   "Sover": {
     "price": "1400",
@@ -805,7 +1995,19 @@
     "size": 14,
     "density": 88,
     "height": 53,
-    "district": "Comunità della Valle di Cembra"
+    "district": "Comunità della Valle di Cembra",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Capriana",
+      "bank": "Cembra",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sover"
   },
   "Spormaggiore": {
     "price": "1400",
@@ -813,7 +2015,19 @@
     "size": 29,
     "density": 85,
     "height": 42,
-    "district": "Comunità della Paganella"
+    "district": "Comunità della Paganella",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Mezzolombardo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Mezzolombardo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "spormaggiore"
   },
   "Sporminore": {
     "price": "1400",
@@ -821,7 +2035,19 @@
     "size": 17,
     "density": 94,
     "height": 40,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "Spormaggiore",
+      "bank": "Spormaggiore",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Spormaggiore",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sporminore"
   },
   "Stenico": {
     "price": "1400",
@@ -829,7 +2055,19 @@
     "size": 49,
     "density": 18,
     "height": 24,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Comano Terme",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "stenico"
   },
   "Storo": {
     "price": "1200",
@@ -837,7 +2075,19 @@
     "size": 64,
     "density": 32,
     "height": 70,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "storo"
   },
   "Strembo": {
     "price": "2200",
@@ -845,7 +2095,19 @@
     "size": 39,
     "density": 19,
     "height": 15,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Pinzolo",
+      "bank": "Pinzolo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Pinzolo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "strembo"
   },
   "Telve": {
     "price": "1400",
@@ -853,7 +2115,19 @@
     "size": 63,
     "density": 89,
     "height": 30,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "telve"
   },
   "Telve di Sopra": {
     "price": "1400",
@@ -861,7 +2135,19 @@
     "size": 18,
     "density": 23,
     "height": 34,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Telve",
+      "bank": "Telve",
+      "post_office": "Telve",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Telve",
+      "public_transportation_train": "Borgo Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "telve-di-sopra"
   },
   "Tenna": {
     "price": "2200",
@@ -869,7 +2155,19 @@
     "size": 2,
     "density": 98,
     "height": 357,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Pergine Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "tenna"
   },
   "Tenno": {
     "price": "2800",
@@ -877,7 +2175,19 @@
     "size": 28,
     "density": 24,
     "height": 72,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "tenno"
   },
   "Terzolas": {
     "price": "2000",
@@ -885,7 +2195,19 @@
     "size": 5,
     "density": 83,
     "height": 110,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "Malè",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "terzolas"
   },
   "Tesero": {
     "price": "4200",
@@ -893,7 +2215,19 @@
     "size": 50,
     "density": 58,
     "height": 59,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "tesero"
   },
   "Tione di Trento": {
     "price": "1400",
@@ -901,7 +2235,19 @@
     "size": 32,
     "density": 91,
     "height": 111,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "tione-di-trento"
   },
   "Torcegno": {
     "price": "1200",
@@ -909,7 +2255,19 @@
     "size": 14,
     "density": 84,
     "height": 47,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "Telve",
+      "bank": "Telve",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "torcegno"
   },
   "Trento": {
     "price": "2700",
@@ -917,7 +2275,19 @@
     "size": 157,
     "density": 54,
     "height": 755,
-    "district": "Territorio della Val d’Adige"
+    "district": "Territorio della Val d’Adige",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "trento"
   },
   "Valfloriana": {
     "price": "1000",
@@ -925,7 +2295,19 @@
     "size": 39,
     "density": 2,
     "height": 12,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "no",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "valfloriana"
   },
   "Vermiglio": {
     "price": "2000",
@@ -933,7 +2315,19 @@
     "size": 94,
     "density": 86,
     "height": 19,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "vermiglio"
   },
   "Villa Lagarina": {
     "price": "2200",
@@ -941,7 +2335,19 @@
     "size": 24,
     "density": 1,
     "height": 162,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "villa-lagarina"
   },
   "Volano": {
     "price": "2100",
@@ -949,7 +2355,19 @@
     "size": 10,
     "density": 53,
     "height": 296,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "volano"
   },
   "Ziano di Fiemme": {
     "price": "4400",
@@ -957,7 +2375,19 @@
     "size": 35,
     "density": 43,
     "height": 50,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ziano-di-fiemme"
   },
   "Caldonazzo": {
     "price": "2000",
@@ -965,7 +2395,19 @@
     "size": 21,
     "density": 31,
     "height": 186,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "caldonazzo"
   },
   "Baselga di Piné": {
     "price": "1400",
@@ -973,7 +2415,19 @@
     "size": 41,
     "density": 32,
     "height": 126,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "baselga-di-pin"
   },
   "Denno": {
     "price": "1400",
@@ -981,7 +2435,19 @@
     "size": 10,
     "density": 91,
     "height": 115,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "denno"
   },
   "Spiazzo": {
     "price": "2000",
@@ -989,7 +2455,19 @@
     "size": 70,
     "density": 76,
     "height": 18,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "spiazzo"
   },
   "Folgaria": {
     "price": "2000",
@@ -997,7 +2475,19 @@
     "size": 71,
     "density": 11,
     "height": 45,
-    "district": "Magnifica Comunità degli Altipiani Cimbri"
+    "district": "Magnifica Comunità degli Altipiani Cimbri",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "folgaria"
   },
   "Pieve Tesino": {
     "price": "1500",
@@ -1005,7 +2495,19 @@
     "size": 69,
     "density": 74,
     "height": 9,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pieve-tesino"
   },
   "Riva del Garda": {
     "price": "4000",
@@ -1013,7 +2515,19 @@
     "size": 40,
     "density": 73,
     "height": 438,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "riva-del-garda"
   },
   "Bleggio Superiore": {
     "price": "1100",
@@ -1021,7 +2535,19 @@
     "size": 33,
     "density": 22,
     "height": 45,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Comano Terme",
+      "bank": "Comano Terme",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Comano Terme",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "bleggio-superiore"
   },
   "Dambel": {
     "price": "1300",
@@ -1029,7 +2555,19 @@
     "size": 5,
     "density": 7,
     "height": 80,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "kindergarten_only",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "dambel"
   },
   "Giustino": {
     "price": "4000",
@@ -1037,7 +2575,19 @@
     "size": 38,
     "density": 83,
     "height": 19,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Pinzolo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "kindergarten only",
+      "healthcare": "Pinzolo",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "giustino"
   },
   "Lavarone": {
     "price": "1800",
@@ -1045,7 +2595,19 @@
     "size": 26,
     "density": 68,
     "height": 45,
-    "district": "Magnifica Comunità degli Altipiani Cimbri"
+    "district": "Magnifica Comunità degli Altipiani Cimbri",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "lavarone"
   },
   "Luserna": {
     "price": "1300",
@@ -1053,7 +2615,19 @@
     "size": 8,
     "density": 38,
     "height": 32,
-    "district": "Magnifica Comunità degli Altipiani Cimbri"
+    "district": "Magnifica Comunità degli Altipiani Cimbri",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "luserna"
   },
   "Nomi": {
     "price": "2000",
@@ -1061,7 +2635,19 @@
     "size": 6,
     "density": 16,
     "height": 219,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Calliano",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Calliano",
+      "public_transportation_train": "Calliano",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "nomi"
   },
   "Ospedaletto": {
     "price": "1000",
@@ -1069,7 +2655,19 @@
     "size": 16,
     "density": 73,
     "height": 48,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "Borgo Valsugana",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Borgo Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ospedaletto"
   },
   "Rumo": {
     "price": "1400",
@@ -1077,7 +2675,19 @@
     "size": 30,
     "density": 94,
     "height": 25,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "rumo"
   },
   "Terragnolo": {
     "price": "1400",
@@ -1085,7 +2695,19 @@
     "size": 39,
     "density": 70,
     "height": 18,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Rovereto/Folgaria",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "terragnolo"
   },
   "Vallarsa": {
     "price": "1100",
@@ -1093,7 +2715,19 @@
     "size": 77,
     "density": 95,
     "height": 18,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Rovereto",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "vallarsa"
   },
   "Vignola-Falesina": {
     "price": "1400",
@@ -1101,7 +2735,19 @@
     "size": 12,
     "density": 24,
     "height": 16,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Pergine Valsugana",
+      "bank": "Pergine Valsugana",
+      "post_office": "Pergine Valsugana",
+      "bar": "no",
+      "schools_kindergartens": "Pergine Valsugana",
+      "healthcare": "Pergine Valsugana",
+      "public_transportation_train": "Pergine Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "vignolafalesina"
   },
   "Borgo Lares": {
     "price": "1000",
@@ -1109,7 +2755,19 @@
     "size": 21,
     "density": 96,
     "height": 33,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "borgo-lares"
   },
   "Amblar-Don": {
     "price": "1500",
@@ -1117,7 +2775,19 @@
     "size": 20,
     "density": 11,
     "height": 27,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "Cavareno",
+      "bank": "Cavareno",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "Fondo",
+      "public_transportation_train": "Dermulo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "amblardon"
   },
   "Valdaone": {
     "price": "800",
@@ -1125,7 +2795,19 @@
     "size": 177,
     "density": 19,
     "height": 6,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Storo",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "valdaone"
   },
   "Sella Giudicarie": {
     "price": "1200",
@@ -1133,7 +2815,19 @@
     "size": 85,
     "density": 54,
     "height": 34,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "sella-giudicarie"
   },
   "Novella": {
     "price": "1200",
@@ -1141,7 +2835,19 @@
     "size": 46,
     "density": 11,
     "height": 78,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "novella"
   },
   "Madruzzo": {
     "price": "1600",
@@ -1149,7 +2855,19 @@
     "size": 28,
     "density": 80,
     "height": 104,
-    "district": "Comunità della Valle dei Laghi"
+    "district": "Comunità della Valle dei Laghi",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "unknown",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "madruzzo"
   },
   "Ville di Fiemme": {
     "price": "4800",
@@ -1157,7 +2875,19 @@
     "size": 46,
     "density": 19,
     "height": 57,
-    "district": "Comunità territoriale della Val di Fiemme"
+    "district": "Comunità territoriale della Val di Fiemme",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ville-di-fiemme"
   },
   "Borgo d'Anaunia": {
     "price": "1800",
@@ -1165,7 +2895,19 @@
     "size": 63,
     "density": 74,
     "height": 40,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "borgo-danaunia"
   },
   "Altopiano della Vigolana": {
     "price": "2100",
@@ -1173,7 +2915,19 @@
     "size": 45,
     "density": 115,
     "height": 725,
-    "district": "Comunità Alta Valsugana e Bersntol"
+    "district": "Comunità Alta Valsugana e Bersntol",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "altopiano-della-vigolana"
   },
   "Predaia": {
     "price": "1500",
@@ -1181,7 +2935,19 @@
     "size": 79,
     "density": 94,
     "height": 86,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Dermulo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "predaia"
   },
   "Porte di Rendena": {
     "price": "2000",
@@ -1189,7 +2955,19 @@
     "size": 41,
     "density": 20,
     "height": 44,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "porte-di-rendena"
   },
   "Dimaro Folgarida": {
     "price": "2200",
@@ -1197,7 +2975,19 @@
     "size": 36,
     "density": 36,
     "height": 58,
-    "district": "Comunità della Valle di Sole"
+    "district": "Comunità della Valle di Sole",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "dimaro-folgarida"
   },
   "San Lorenzo Dorsino": {
     "price": "2000",
@@ -1205,7 +2995,19 @@
     "size": 74,
     "density": 25,
     "height": 21,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Comano Terme",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "san-lorenzo-dorsino"
   },
   "Contà": {
     "price": "1400",
@@ -1213,7 +3015,19 @@
     "size": 19,
     "density": 77,
     "height": 71,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "no",
+      "bank": "no",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "no",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "cont"
   },
   "Castel Ivano": {
     "price": "1200",
@@ -1221,7 +3035,19 @@
     "size": 35,
     "density": 11,
     "height": 93,
-    "district": "Comunità Valsugana e Tesino"
+    "district": "Comunità Valsugana e Tesino",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Borgo Valsugana",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "castel-ivano"
   },
   "Ledro": {
     "price": "1700",
@@ -1229,7 +3055,19 @@
     "size": 155,
     "density": 16,
     "height": 35,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ledro"
   },
   "Ville d'Anaunia": {
     "price": "1800",
@@ -1237,7 +3075,19 @@
     "size": 88,
     "density": 49,
     "height": 53,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Cles",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ville-danaunia"
   },
   "Terre d'Adige": {
     "price": "2200",
@@ -1245,7 +3095,19 @@
     "size": 16,
     "density": 50,
     "height": 188,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "terre-dadige"
   },
   "Vallelaghi": {
     "price": "1800",
@@ -1253,7 +3115,19 @@
     "size": 72,
     "density": 77,
     "height": 72,
-    "district": "Comunità della Valle dei Laghi"
+    "district": "Comunità della Valle dei Laghi",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "vallelaghi"
   },
   "Pieve di Bono-Prezzo": {
     "price": "1200",
@@ -1261,7 +3135,19 @@
     "size": 24,
     "density": 80,
     "height": 59,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "pieve-di-bonoprezzo"
   },
   "San Giovanni di Fassa": {
     "price": "5000",
@@ -1269,7 +3155,19 @@
     "size": 99,
     "density": 77,
     "height": 36,
-    "district": "Comun General de Fascia"
+    "district": "Comun General de Fascia",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "san-giovanni-di-fassa"
   },
   "Tre Ville - Palù": {
     "price": "1500",
@@ -1277,7 +3175,19 @@
     "size": 82,
     "density": 47,
     "height": 17,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "Ragoli",
+      "pharmacy": "Ragoli",
+      "bank": "Ragoli",
+      "post_office": "Ragoli",
+      "bar": "Ragoli",
+      "schools_kindergartens": "Ragoli",
+      "healthcare": "Ragoli",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "tre-ville-pal"
   },
   "Tre Ville": {
     "price": "6000",
@@ -1285,7 +3195,19 @@
     "size": 82,
     "density": 47,
     "height": 17,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "Tione di Trento",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "tre-ville"
   },
   "San Michele all'Adige": {
     "price": "2800",
@@ -1293,7 +3215,19 @@
     "size": 16,
     "density": 54,
     "height": 248,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "yes",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "san-michele-alladige"
   },
   "Trambileno": {
     "price": "2100",
@@ -1301,7 +3235,19 @@
     "size": 50,
     "density": 30,
     "height": 29,
-    "district": "Comunità della Vallagarina"
+    "district": "Comunità della Vallagarina",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "Rovereto",
+      "bank": "Rovereto",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Rovereto",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "trambileno"
   },
   "Ton": {
     "price": "1600",
@@ -1309,7 +3255,19 @@
     "size": 26,
     "density": 40,
     "height": 49,
-    "district": "Comunità della Val di Non"
+    "district": "Comunità della Val di Non",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "Mezzolombardo",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "ton"
   },
   "Comano Terme": {
     "price": "1400",
@@ -1317,7 +3275,19 @@
     "size": 68,
     "density": 3,
     "height": 43,
-    "district": "Comunità delle Giudicarie"
+    "district": "Comunità delle Giudicarie",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "comano-terme"
   },
   "Giovo": {
     "price": "2300",
@@ -1325,7 +3295,19 @@
     "size": 20,
     "density": 64,
     "height": 122,
-    "district": "Comunità Rotaliana‑Königsberg"
+    "district": "Comunità Rotaliana‑Königsberg",
+    "infrastructure": {
+      "supermarket": "no",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "giovo"
   },
   "Nago-Torbole": {
     "price": "4000",
@@ -1333,6 +3315,18 @@
     "size": 28,
     "density": 91,
     "height": 95,
-    "district": "Comunità Alto Garda e Ledro"
+    "district": "Comunità Alto Garda e Ledro",
+    "infrastructure": {
+      "supermarket": "yes",
+      "pharmacy": "yes",
+      "bank": "yes",
+      "post_office": "yes",
+      "bar": "yes",
+      "schools_kindergartens": "yes",
+      "healthcare": "yes",
+      "public_transportation_train": "no",
+      "public_transportation_bus": "yes"
+    },
+    "slug": "nagotorbole"
   }
 }

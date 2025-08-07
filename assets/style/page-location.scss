@@ -1,0 +1,59 @@
+@import "page-default";
+
+.eds-location-vista {
+  position: relative;
+
+  .eds-location-vista__title span {
+    color: white;
+    font-weight: bold;
+  }
+
+  .eds-location-vista__title span {
+    font-size: 5em;
+  }
+
+  .eds-location-vista__content {
+    padding: 45em 2em 0;
+  }
+
+  .eds-location-vista__image {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  .eds-location-vista__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .eds-location-vista__properties {
+    background-color: #fff;
+    border-bottom: 1px solid #efefef;
+    box-shadow: 0 .5em 4em hsla(0, 0%, 50%, .1);
+    display: flex;
+    transform: translateY(calc(50% - 2em));
+  }
+
+  .eds-location-vista__properties-item--right {
+    margin-left: auto;
+  }
+
+  .eds-location-vista__properties-item {
+    padding: 3em 2em;
+    display: flex;
+    gap: 0.5em;
+  }
+
+  .eds-location-vista__properties-item span {
+    font-size: 1.6em;
+  }
+
+  .eds-location-vista__properties-item:not(:first-child) {
+    border-left: 1px solid #ededed;
+  }
+}

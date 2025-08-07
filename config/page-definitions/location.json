@@ -1,12 +1,8 @@
 {
-    "@type": "content_element_definition",
-    "@id": "\/cms\/api\/content_element_definitions\/fed51484-a970-43f1-b15c-915f23801a1f",
-    "uuid": "fed51484-a970-43f1-b15c-915f23801a1f",
-    "highlighting": 0,
-    "hidden": 0,
-    "name": "Location Vista",
-    "description": "Location Vista",
-    "handle": "location-vista",
+    "@type": "page_definition",
+    "@id": "\/cms\/api\/page_definitions\/f57db40f-6ab3-4381-85b8-c4451db275ee",
+    "uuid": "f57db40f-6ab3-4381-85b8-c4451db275ee",
+    "handle": "location",
     "form": {
         "fieldsets": [
             {
@@ -61,5 +57,8 @@
             }
         ]
     },
-    "slide": false
+    "description": "Location Page Template",
+    "sectionElementDefinitions": [
+        "\/cms\/api\/section_element_definitions\/d68a7d34-6e0f-4477-9a03-f8aa47f592e5"
+    ]
 }

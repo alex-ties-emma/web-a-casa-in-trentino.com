@@ -25,11 +25,11 @@
   ],
   "require": {
     "php": "^8.0",
-    "madebyemma/web-core": "6.2.*",
-    "madebyemma/web-communicator": "6.0.*"
+    "madebyemma/web-core": "dev-next-7.0.0",
+    "madebyemma/web-communicator": "dev-next-7.0.0"
   },
   "require-dev": {
-    "madebyemma/web-cms": "6.0.*"
+    "madebyemma/web-cms": "dev-next-7.0.0"
   },
   "scripts": {
     "db:migrate": "cd vendor/madebyemma/web-core/config && php ../../../../vendor/bin/doctrine-migrations migrate --no-interaction",

@@ -1,0 +1,81 @@
+{{ requireJs('main.bundle', 2) }}
+<body>
+{% include 'includes/header.twig' %}
+{% set settings = grabPageLanguage(page.pageLanguages).settings %}
+{# {% include 'includes/menu.twig' %} #}
+<main class="eds-section">
+
+    <div class="eds-location-vista">
+        <div class="eds-location-vista__wrapper">
+            <div class="eds-location-vista__image">
+                {% if content.settings and content.settings.image %}
+                    {{ content.settings.image|optimizeImage([
+                        {
+                            'imageWidth': '520',
+                            'mediaMinWidth': '320',
+                            'aspect_ratio': '3x4',
+                            'compression': '5'
+                        },
+                        {
+                            'imageWidth': '920',
+                            'mediaMinWidth': '700',
+                            'aspect_ratio': '4x3',
+                            'compression': '5'
+                        },
+                        {
+                            'imageWidth': '1224',
+                            'mediaMinWidth': '1024',
+                            'aspect_ratio': '21x9',
+                            'compression': '5'
+                        },
+                        {
+                            'imageWidth': '1920',
+                            'mediaMinWidth': '1920',
+                            'aspect_ratio': '21x9',
+                            'compression': '5'
+                        },
+                        {
+                            'imageWidth': '2560',
+                            'mediaMinWidth': '2560',
+                            'aspect_ratio': '21x9',
+                            'compression': '5'
+                        }
+                    ]) }}
+                {% endif %}
+            </div>
+
+
+            <div class="eds-location-vista__content eds-width--c10">
+
+                <div class="eds-location-vista__title">
+                    <span>Comunità di Primiero</span>
+                </div>
+
+                <div class="eds-location-vista__properties">
+
+                    <div class="eds-location-vista__properties-item">
+                        <span>Primiero San Martino di Castrozza</span><span>•</span><span>{{ 1200|number_format(0, ',', ' ') }} s.l.m.</span>
+                    </div>
+
+                    <div class="eds-location-vista__properties-item eds-location-vista__properties-item--right">
+                        <span>{{ 30000|number_format(0, ',', ' ') }} Einwohner</span>
+                    </div>
+                    <div class="eds-location-vista__properties-item">
+                        <span>{{ 1600|format_currency('EUR', locale: 'de') }}</span><span>•</span><span>Hoher Immobilienpreis</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    {{ renderSection('content') }}
+</main>
+<footer>
+
+    {% include 'includes/legal-menu.twig' %}
+    {% include 'includes/tracking-banner.twig' %}
+</footer>
+</body>

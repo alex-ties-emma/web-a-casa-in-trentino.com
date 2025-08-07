@@ -1,0 +1,67 @@
+<div class="eds-home-text-image">
+    <div class="eds-home-text-image__wrapper">
+
+        <div class="eds-home-text-image__content">
+
+            <div class="eds-home-text-image__headline">
+                <h2>{{ content.title|formatHeadline }}</h2>
+            </div>
+
+            <div class="eds-home-text-image__text">
+                {{ content.text|raw }}
+            </div>
+
+            <div class="eds-home-text-image__button">
+
+                {% for item in content.items %}
+
+                    <a class="eds-button" href="{{ generateLink(item.buttonlink) }}">
+                        <span>{{ item.buttonlabel }}</span>
+                    </a>
+
+                {% endfor %}
+            </div>
+
+        </div>
+        <div class="eds-home-text-image__image">
+            {{ content.image|optimizeImage([
+                {
+                    'imageWidth': '420',
+                    'mediaMinWidth': '320',
+                    'aspect_ratio': '3x4',
+                    'compression': '10',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '920',
+                    'mediaMinWidth': '700',
+                    'aspect_ratio': '4x3',
+                    'compression': '10',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '1224',
+                    'mediaMinWidth': '1024',
+                    'aspect_ratio': '16x9',
+                    'compression': '10',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '1400',
+                    'mediaMinWidth': '1224',
+                    'aspect_ratio': '16x9',
+                    'compression': '5',
+                    'contain': content.contain
+                },
+                {
+                    'imageWidth': '1600',
+                    'mediaMinWidth': '1440',
+                    'aspect_ratio': '16x9',
+                    'compression': '5',
+                    'contain': content.contain
+                }
+            ]) }}
+        </div>
+
+    </div>
+</div>
