@@ -1,8 +1,11 @@
 {{ requireJs('main.bundle', 2) }}
 <body>
 {% include 'includes/header.twig' %}
+
+{% set excludeItems = getPageLanguageContent(grabPageLanguage(page))|filter(x => x.elementDefinition.handle == 'subpage-vista' or x.elementDefinition.handle == 'home-vista')|length %}
+
 {#{% include 'includes/menu.twig' %}#}
-<main class="eds-section">
+<main class="eds-section {{ excludeItems == 0 ? 'eds-section--margin-top' : '' }}">
     {{ renderSection('content') }}
 </main>
 <footer>

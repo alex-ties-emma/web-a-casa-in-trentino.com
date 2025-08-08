@@ -1,4 +1,7 @@
 {
+    "@type": "content_element_definition",
+    "@id": "\/cms\/api\/content_element_definitions\/6b85696d-b09f-4add-b603-6b1a28aa45fd",
+    "uuid": "6b85696d-b09f-4add-b603-6b1a28aa45fd",
     "highlighting": 0,
     "hidden": 0,
     "name": "Article Text Image",
@@ -34,10 +37,17 @@
             },
             {
                 "fieldsetId": "fs1",
+                "field": "switch",
+                "label": "Umdrehen",
+                "placeholder": "Umdrehen",
+                "valueKey": "invert"
+            },
+            {
+                "fieldsetId": "fs1",
                 "field": "subform",
-                "label": "Items",
-                "placeholder": "Items",
-                "valueKey": "items",
+                "label": "Buttons",
+                "placeholder": "Buttons",
+                "valueKey": "buttons",
                 "additionalSettings": {
                     "max_items": 9,
                     "min_items": 9
@@ -52,7 +62,6 @@
                         }
                     ],
                     "fields": [
-
                         {
                             "fieldsetId": "fs1",
                             "field": "input-text",
@@ -70,7 +79,22 @@
                     ]
                 }
             },
-
+            {
+                "fieldsetId": "fs1",
+                "valueKey": "color_select",
+                "field": "select",
+                "label": "Farbe Grau\/Wei\u00df",
+                "items": [
+                    {
+                        "label": "White",
+                        "value": "eds-home-text-image--color-white"
+                    },
+                    {
+                        "label": "Gray",
+                        "value": "eds-home-text-image--color-gray"
+                    }
+                ]
+            },
             {
                 "fieldsetId": "fs1",
                 "field": "switch",

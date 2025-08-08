@@ -1,0 +1,40 @@
+.eds-home-text-image__wrapper {
+  display: flex;
+  gap: 3em;
+  padding: 4em 6em;
+  border-radius: 2em;
+  margin-bottom: 4em;
+
+  &.eds-home-text-image--color-gray {
+    background-color: #f2f2f2;
+  }
+  &.eds-home-text-image--color-white {
+    background-color: #ffffff;
+  }
+
+  &.eds-article-text-image--invert {
+    flex-direction: row-reverse;
+  }
+}
+
+.eds-home-text-image__content {
+  flex: 5;
+}
+
+.eds-home-text-image__image {
+  flex: 4;
+}
+
+.eds-home-text-image__image img {
+  width: 100%;
+}
+
+.eds-home-text-image__text p {
+  font-size: 1.6em;
+}
+
+.eds-home-text-image--invert {
+  .eds-home-text-image__wrapper {
+    flex-direction: row-reverse;
+  }
+}

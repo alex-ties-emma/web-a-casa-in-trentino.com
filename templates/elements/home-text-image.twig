@@ -1,5 +1,5 @@
-<div class="eds-home-text-image">
-    <div class="eds-home-text-image__wrapper">
+<div class="eds-home-text-image {{ content.color_select }} {{ content.invert ? 'eds-home-text-image--invert' }}">
+    <div class="eds-home-text-image__wrapper eds-width--c8">
 
         <div class="eds-home-text-image__content">
 
@@ -13,10 +13,10 @@
 
             <div class="eds-home-text-image__button">
 
-                {% for item in content.items %}
+                {% for button in content.buttons %}
 
-                    <a class="eds-button" href="{{ generateLink(item.buttonlink) }}">
-                        <span>{{ item.buttonlabel }}</span>
+                    <a class="eds-button" href="{{ generateLink(button.buttonlink) }}">
+                        <span>{{ button.buttonlabel }}</span>
                     </a>
 
                 {% endfor %}
