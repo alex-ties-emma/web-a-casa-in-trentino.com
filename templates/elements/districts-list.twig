@@ -1,0 +1,65 @@
+<div class="eds-districts-list">
+    <div class="eds-districts-list__wrapper eds-width--c10 eds-padding--small">
+        <div class="eds-districts-list__header">
+            <h2>{{ content.headline }}</h2>
+        </div>
+
+
+        <div class="eds-districts-list__items">
+
+            {% for item in content.items %}
+
+                <a class="eds-districts-list__item" href="{{ generateLink(item.link) }}">
+                    <div class="eds-districts-list__item-image">
+                        {{ item.image|optimizeImage([
+                            {
+                                'imageWidth': '420',
+                                'mediaMinWidth': '320',
+                                'aspect_ratio': '16x10',
+                                'compression': '10'
+                            },
+                            {
+                                'imageWidth': '920',
+                                'mediaMinWidth': '700',
+                                'aspect_ratio': '16x10',
+                                'compression': '10'
+                            }
+                        ]) }}
+                    </div>
+
+                    <div class="eds-districts-list__item-content">
+                        <div class="eds-districts-list__item-title">
+                            <h3>{{ item.district_name }}</h3>
+                        </div>
+
+
+                        <div class="eds-districts-list__item-data">
+
+                            <div class="eds-districts-list__item-municipality">
+                                <span>{{ item.amount_municipalities }} {{ getConstant('amount_municipalities') }}</span>
+                            </div>
+
+                            <div class="eds-districts-list__item-price">
+                                <span>~ {{ item.square_meter_price|format_currency('EUR', {max_fraction_digit:0}, locale: 'de') }}</span><span>•</span><span>Sehr Hoch</span>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </a>
+
+            {% endfor %}
+        </div>
+
+
+        <div class="eds-districts-list__buttons">
+
+            <div class="eds-button">
+                <span>Button</span>
+            </div>
+
+        </div>
+
+    </div>
+</div>

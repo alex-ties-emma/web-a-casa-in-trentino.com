@@ -1,8 +1,12 @@
 {
-    "@type": "page_definition",
-    "@id": "\/cms\/api\/page_definitions\/7fce0398-02a2-4a9d-81a1-896889fbb0f6",
-    "uuid": "7fce0398-02a2-4a9d-81a1-896889fbb0f6",
-    "handle": "municipality",
+    "@type": "content_element_definition",
+    "@id": "\/cms\/api\/content_element_definitions\/c5b43009-659f-4266-978f-459624c0fd1c",
+    "uuid": "c5b43009-659f-4266-978f-459624c0fd1c",
+    "highlighting": 0,
+    "hidden": 0,
+    "name": "Districts List",
+    "description": "Districts List",
+    "handle": "districts-list",
     "form": {
         "fieldsets": [
             {
@@ -21,26 +25,10 @@
             },
             {
                 "fieldsetId": "fs1",
-                "field": "image",
-                "label": "Image",
-                "valueKey": "image"
-            },
-            {
-                "fieldsetId": "fs1",
-                "field": "input-text",
-                "label": "Price",
-                "valueKey": "price"
-            },
-            {
-                "fieldsetId": "fs1",
                 "field": "subform",
-                "label": "Table",
-                "placeholder": "Table",
-                "valueKey": "table",
-                "additionalSettings": {
-                    "max_items": 9,
-                    "min_items": 9
-                },
+                "label": "Items",
+                "placeholder": "Items",
+                "valueKey": "items",
                 "subform": {
                     "fieldsets": [
                         {
@@ -53,17 +41,37 @@
                     "fields": [
                         {
                             "fieldsetId": "fs1",
-                            "field": "input-text",
-                            "label": "Table Label",
-                            "placeholder": "Table Label",
-                            "valueKey": "table_label"
+                            "field": "image",
+                            "label": "Image",
+                            "valueKey": "image"
                         },
                         {
                             "fieldsetId": "fs1",
                             "field": "input-text",
-                            "label": "Value",
-                            "placeholder": "Value",
-                            "valueKey": "table_value"
+                            "label": "District Name",
+                            "placeholder": "District Name",
+                            "valueKey": "district_name"
+                        },
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "input-text",
+                            "label": "Square Meter Price",
+                            "placeholder": "Square Meter Price",
+                            "valueKey": "square_meter_price"
+                        },
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "input-text",
+                            "label": "Amount Municipalities",
+                            "placeholder": "Amount Municipalities",
+                            "valueKey": "amount_municipalities"
+                        },
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "pagelink",
+                            "label": "Link",
+                            "placeholder": "Link",
+                            "valueKey": "link"
                         }
                     ]
                 }
@@ -94,8 +102,5 @@
             }
         ]
     },
-    "description": "Location Page Template",
-    "sectionElementDefinitions": [
-        "\/cms\/api\/section_element_definitions\/d68a7d34-6e0f-4477-9a03-f8aa47f592e5"
-    ]
+    "slide": false
 }

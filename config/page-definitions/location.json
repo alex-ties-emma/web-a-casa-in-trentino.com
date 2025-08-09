@@ -1,8 +1,8 @@
 {
     "@type": "page_definition",
-    "@id": "\/cms\/api\/page_definitions\/7b53660c-f492-4f53-9862-bc262241d024",
-    "uuid": "7b53660c-f492-4f53-9862-bc262241d024",
-    "handle": "district",
+    "@id": "\/cms\/api\/page_definitions\/f57db40f-6ab3-4381-85b8-c4451db275ee",
+    "uuid": "f57db40f-6ab3-4381-85b8-c4451db275ee",
+    "handle": "location",
     "form": {
         "fieldsets": [
             {

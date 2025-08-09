@@ -14,3 +14,22 @@ body {
 .eds-section--margin-top {
   margin-top: 10em;
 }
+
+
+.eds-button {
+  background-color: #0052a9;
+  border-radius: 5em;
+  color: #fff;
+  cursor: pointer;
+  padding: 1.2em 2.8em;
+  transition: transform .5s, box-shadow .5s;
+
+  span {
+    font-size: 1.8em;
+  }
+
+  &:hover {
+    box-shadow: 0 .5em 4em hsla(0, 0%, 50%, .1);
+    transform: translateY(-2px);
+  }
+}

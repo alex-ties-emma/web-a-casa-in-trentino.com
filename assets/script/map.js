@@ -1,6 +1,6 @@
 import leaflet from "leaflet";
-import locationdata from "./data/locationdata.json";
-import geolocation from "./data/geolocation.json";
+import locationdata from "../../data/locationdata.json";
+import geolocation from "../../data/geolocation.json";
 
 export function initMap() {
 

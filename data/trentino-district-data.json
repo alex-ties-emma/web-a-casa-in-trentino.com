@@ -1,0 +1,290 @@
+{
+  "Comunità territoriale della Val di Fiemme": {
+    "average": 3800,
+    "infos": {
+      "hospital": "Ospedale di Cavalese, Cavalese",
+      "highway_access": "A22 Trento Nord",
+      "next_trainstation": "Trento",
+      "biggest_location": "Cavalese"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "Nestled in the eastern part of Trentino, the Val di Fiemme is a vibrant alpine valley renowned for its breathtaking landscapes, rich traditions, and welcoming communities. The district encompasses several picturesque towns and villages such as Cavalese, Predazzo, and Tesero, all set against the dramatic backdrop of the Dolomites. Historically, the valley boasts centuries-old ties to forestry, woodcraft, and mountain agriculture, making it a hub of both cultural heritage and outdoor living. Life in Val di Fiemme is a harmonious blend of alpine calm and active lifestyles, where local traditions—like the beloved Desmontegada festival—and fine gastronomy flourish throughout the year.",
+        "transport_infrastructure": "Val di Fiemme is well connected via modern road networks, making it easily accessible by car from Trento, Bolzano, and the A22 Brenner Motorway. Regional bus services, operated by Trentino Trasporti, link the valley’s towns and offer connections to major train stations in Ora/Auer and Trento for further travel. Cycling enthusiasts will appreciate the well-maintained bike paths along the valley floor, while winter brings efficient ski bus services to the popular ski resorts of Latemar and Alpe Cermis. Although there is no direct train service in the valley itself, nearby rail stations grant convenient access for visitors and residents.",
+        "must_sees_and_attractions": "Val di Fiemme is famed for its stunning mountain scenery and rich cultural events. Key attractions include the iconic Pale di San Martino and Lagorai mountain ranges, the lush forests supplying the renowned spruce for concert violins, and the striking Paneveggio Natural Park with its wildlife and walking trails. Culture-seekers will love the Magnifica Comunità di Fiemme palace in Cavalese, hosting a local history museum, and the vibrant town of Predazzo, home to the Geological Museum of the Dolomites. The valley is also a hub for world-class cross-country skiing and annually hosts the Marcialonga race, drawing visitors from around the globe.",
+        "infrastructure_and_services": "Residents and newcomers to Val di Fiemme benefit from a solid network of local services. The district hosts well-regarded primary and secondary schools, healthcare facilities including the Cavalesian hospital, and a variety of pharmacies and clinics. Internet and cellular coverage is reliable, with many towns offering fiber-optic connections. Day-to-day life is supported by a range of supermarkets, traditional markets, small shops, and artisans. Housing ranges from cozy mountain chalets to modern apartments, and the area is known for its welcoming community spirit and safety. Local government offices and tourist information points are readily available to assist both residents and visitors."
+      }
+    },
+    "slug": "val-di-fiemme"
+  },
+  "Comun General de Fascia": {
+    "average": 4900,
+    "infos": {
+      "hospital": "Ospedale di Cavalese, Cavalese",
+      "highway_access": "A22 Bolzano Nord",
+      "next_trainstation": "Bolzano",
+      "biggest_location": "Canazei"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comun General de Fascia is a unique and vibrant district nestled in the heart of the Dolomite Mountains in the northeast of Trentino. It encompasses the Val di Fassa valley, renowned for its majestic peaks, lush forests, and strong Ladin cultural heritage. The area is known for its blend of Italian and Ladin influences, reflected in local traditions, cuisine, and language. The peaceful mountain villages, such as Canazei, Pozza di Fassa, and Moena, are brimming with alpine charm and offer a welcoming lifestyle focused on community, outdoor recreation, and respect for nature. Historically, the valley has deep ties to the ancient Ladin people, and the preservation of Ladin language and customs is an important aspect of daily life.",
+        "transport_infrastructure": "Transport in the Comun General de Fascia is well-organized, making it accessible year-round despite its mountainous terrain. The district is linked to the nearby cities of Trento and Bolzano primarily via well-maintained roadways, including the SS48 (Strada Statale delle Dolomiti), which is the main artery for both private cars and public buses. The Trentino Trasporti bus service provides regular connections between local villages and to the valley's main towns, while specialized ski buses operate in winter. Although there is no train service within the valley itself, nearby stations in Ora/Auer and Bolzano are reachable by bus. Cycling enthusiasts will find excellent bike routes, especially during the summer, linking villages and scenic spots across the valley.",
+        "must_sees_and_attractions": "Val di Fassa is celebrated for its breathtaking natural wonders and vibrant cultural attractions. Iconic landmarks such as the Marmolada and Catinaccio (Rosengarten) mountain groups offer unparalleled hiking, climbing, and skiing experiences. The area is home to renowned ski resorts like Canazei and Moena, drawing winter sports fans from around the world. Unique cultural sites abound, including the Ladin Museum in Vigo di Fassa, which explores the history and traditions of the valley's original inhabitants. Annual events such as the Ladin Carnival and the Val di Fassa Running festival showcase the valley's living culture. The panoramic Sella Pass and Pordoi Pass routes are not to be missed for their extraordinary views and access to alpine adventures.",
+        "infrastructure_and_services": "The Comun General de Fascia features a robust infrastructure tailored to both residents and visitors. Modern schools provide instruction in both Italian and Ladin, supporting cultural preservation and high educational standards. Healthcare is accessible through local clinics and the well-equipped hospital in nearby Cavalese. The villages offer a range of supermarkets, specialty food shops, artisan boutiques, and weekly markets, ensuring everyday needs are met. A wide variety of housing, from traditional alpine chalets to modern apartments, caters to different preferences. High-speed internet and reliable mobile networks are available in most areas, ensuring connectivity. Recreational facilities, libraries, and community centers foster an active and engaging lifestyle, while excellent hospitality venues ensure that both visitors and long-term residents enjoy a high quality of life."
+      }
+    },
+    "slug": "fascia"
+  },
+  "Magnifica Comunità degli Altipiani Cimbri": {
+    "average": 1700,
+    "infos": {
+      "hospital": "Ospedale Santa Maria del Carmine, Rovereto",
+      "highway_access": "Ala-Avio (A22)",
+      "next_trainstation": "Rovereto station, Rovereto",
+      "biggest_location": "Folgaria"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Magnifica Comunità degli Altipiani Cimbri encompasses a picturesque region in southern Trentino, uniting several villages across the Altopiano di Lavarone, Luserna, and Folgaria. Renowned for its rolling pastures, dense forests of spruce and fir, and traditional Cimbrian heritage, the district exudes alpine charm with a unique linguistic and cultural character. The area blends ancient Cimbrian customs, evident in local festivals and distinctive cuisine, with a relaxed, nature-oriented lifestyle. Historically, the Cimbri—descendants of medieval Germanic settlers—have influenced local architecture, language, and folklore. The region’s high plateaus offer panoramic mountain views, making it a haven for outdoor enthusiasts and families.",
+        "transport_infrastructure": "The Altipiani Cimbri are easily accessible by car, with well-maintained provincial roads connecting to Trento and Rovereto, and autostrade access via the A22 motorway. Public buses run regular connections to the district’s towns from the surrounding valleys and major cities, with coordinated schedules for commuters and students. While there are no railway lines within the high plateau, nearby train stations in Trento and Rovereto provide fast regional and national travel options. The area is also known for its extensive network of cycling and hiking paths, including the renowned 100km dei Forti biking route, making eco-friendly mobility and active commuting viable alternatives.",
+        "must_sees_and_attractions": "The district is famed for its unspoiled natural beauty, with Lago di Lavarone—a crystal-clear mountain lake—serving as a summer hotspot for swimming and sailing. The Forte Belvedere-Gschwent, part of a network of Austro-Hungarian World War I fortresses, now houses a museum dedicated to the plateau’s wartime history. Visitors are enchanted by the quaint village of Luserna, preserving the Cimbrian language and traditions, and the Museo Centro Documentazione in Luserna, which narrates the area's ethnographic and linguistic heritage. In winter, the Folgaria-Lavarone ski area offers expansive slopes and Nordic trails. Local events like the Festa del Boscaiolo and Sagra della Madonna di Lavarone blend community spirit with deep-rooted rural traditions.",
+        "infrastructure_and_services": "The Altipiani Cimbri offer a comprehensive array of essential services for residents and visitors alike. Modern primary and lower secondary schools operate in major villages, with secondary education reachable in nearby towns. Local health clinics provide first-aid and outpatient care, while larger hospitals in Trento and Rovereto are easily accessible. Residents benefit from broad internet access and reliable mobile coverage, fostering remote work and digital business. Daily needs are met by well-stocked supermarkets, artisanal shops, and traditional markets showcasing local cheese and honey. Housing options range from contemporary apartments to charming alpine chalets, while a thriving tourism sector provides year-round hospitality and rental opportunities."
+      }
+    },
+    "slug": "altipiani-cimbri"
+  },
+  "Comunità della Valle di Sole": {
+    "average": 1800,
+    "infos": {
+      "hospital": "Ospedale di Cles, Cles",
+      "highway_access": "Mezzolombardo - San Michele all’Adige, Mezzolombardo",
+      "next_trainstation": "Malè, Malè",
+      "biggest_location": "Malè, Malè"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "Nestled in the northwestern part of Trentino, the Comunità della Valle di Sole is renowned for its breathtaking alpine scenery, charming villages, and deeply rooted cultural traditions. The valley stretches along the Noce River and is flanked by the imposing peaks of the Ortler-Cevedale and Adamello-Presanella groups, forming part of the majestic Stelvio National Park. The local lifestyle is warm and welcoming, shaped by a strong sense of community and a historical connection to agriculture, forestry, and more recently, sustainable tourism. Residents celebrate age-old customs through vibrant festivals, music, and regional cuisine, making Valle di Sole a harmonious blend of heritage and natural beauty.",
+        "transport_infrastructure": "Valle di Sole is well connected by a variety of transport options. The Trento-Malè-Mezzana railway line conveniently links the valley to Trento and beyond, offering picturesque train journeys through the mountains with regular stops in the district's main towns. Bus services operate throughout the valley, ensuring good accessibility to smaller villages and ski resorts. Well-maintained national and provincial roads make driving efficient and scenic, with ample parking in most villages and tourist sites. For cyclists, dedicated bike paths, such as the popular Val di Sole cycle track, wind through meadows and riverbanks, connecting the valley from end to end.",
+        "must_sees_and_attractions": "Majestic natural scenery is at the heart of Valle di Sole's allure. The Stelvio National Park offers endless opportunities for hiking, wildlife spotting, and immersive alpine experiences. Thermal spas, particularly at the historic Terme di Pejo and Terme di Rabbi, provide both wellness and relaxation in spectacular surroundings. Winter sports enthusiasts will find some of the best ski areas in the region, such as Folgarida-Marilleva, Pejo 3000, and Passo Tonale. The medieval Castel Caldes and the picturesque Malè, with its Museum of Solandra Civilization, reflect the valley's rich history. Notable events include local food festivals, traditional cheese fairs, and mountain sporting competitions.",
+        "infrastructure_and_services": "Valle di Sole is equipped with a range of essential services suitable for residents and newcomers alike. Educational facilities include well-regarded primary and secondary schools, while public libraries and local cultural centers support learning and community engagement. The area is served by modern healthcare clinics and a hospital in nearby Cles, ensuring comprehensive medical care. Shops, weekly markets, and supermarkets supply local products and daily necessities, while traditional eateries and mountain refuges celebrate regional flavors. Internet access is reliable in most towns, with ongoing upgrades to broadband infrastructure. Housing options range from rustic chalets to modern apartments, accommodating both seasonal and year-round living."
+      }
+    },
+    "slug": "valle-di-sole"
+  },
+  "Comunità della Valle dei Laghi": {
+    "average": 1800,
+    "infos": {
+      "hospital": "Ospedale Santa Chiara, Trento",
+      "highway_access": "Trento Nord, A22",
+      "next_trainstation": "Trento",
+      "biggest_location": "Vezzano"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità della Valle dei Laghi, or Valley of the Lakes, is a picturesque district nestled between the city of Trento and the northern reaches of Lake Garda. Characterized by its system of crystal-clear alpine lakes—such as Lago di Toblino and Lago di Cavedine—rolling vineyards, and gentle hills, the area offers a tranquil lifestyle deeply rooted in nature. The district enjoys a mild microclimate thanks to the sheltering mountains and open valleys. Local culture is shaped by traditional agricultural activities, particularly wine production and grappa distillation, as well as a thriving community spirit evident in local festivals and events. Historical castles, charming stone villages, and ancient churches highlight the region’s long-standing connection to both the Italian and Tyrolean heritages.",
+        "transport_infrastructure": "The Valle dei Laghi is well-connected to surrounding areas despite its tranquil rural setting. The main arterial road, the SS45bis, offers quick driving access to Trento, Riva del Garda, and the western parts of Trentino. Public bus services provided by Trentino Trasporti link the main villages with Trento and other regional hubs, making commuting feasible for residents and visitors. Cyclists benefit from the beautiful Valle dei Laghi cycle path, which connects the valley’s lakes and towns with panoramic vistas ideal for both leisure and sport. While there is no railway station in the valley itself, the close proximity to Trento ensures easy access to national trains and long-distance travel.",
+        "must_sees_and_attractions": "The district is a haven for nature enthusiasts and culture seekers alike. Lago di Toblino, with its romantic castle perched on the water, is a postcard-perfect attraction and a local symbol. The Castel Madruzzo overlooks the valley, offering insights into noble Renaissance history. Outdoor lovers can explore the Marocche di Dro, a unique glacial rockfall area, or hike the scenic trails that weave through woods and vineyards. Regular cultural events, such as village festivals centered on wine and local gastronomy, provide lively opportunities to experience the region’s traditions. The distilleries of Santa Massenza, renowned for artisanal grappa and spirits, are open for guided tours and tastings.",
+        "infrastructure_and_services": "Residents enjoy a high quality of life supported by excellent local amenities. Each community is equipped with essential services, including primary schools, family healthcare centers, community libraries, and postal offices. Access to high-speed internet is available throughout most of the valley, supporting both remote work and leisure. Supermarkets, artisan shops, and weekly local markets offer fresh produce and everyday essentials. The area is served by several pharmacies, and the hospitals of Trento and Arco are easily reachable for specialized medical needs. Housing options range from modern apartments to restored traditional homes, attracting both families and individuals seeking a scenic, peaceful base in Trentino."
+      }
+    },
+    "slug": "valle-dei-laghi"
+  },
+  "Comunità della Valle di Cembra": {
+    "average": 1350,
+    "infos": {
+      "hospital": "Ospedale di Cavalese, Cavalese",
+      "highway_access": "A22 - Lavis",
+      "next_trainstation": "Stazione di Lavis, Lavis",
+      "biggest_location": "Cembra Lisignago"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità della Valle di Cembra is a charming district nestled in the heart of Trentino, renowned for its rolling hills, terraced vineyards, and picturesque villages. This valley stretches along the Avisio River, offering breathtaking views and a tranquil, rural lifestyle. Rich in both tradition and natural beauty, the area boasts a strong wine-making heritage, particularly known for its Müller-Thurgau wines. The local culture is characterized by closely-knit communities that celebrate their history through festivals, folk events, and gastronomy. Visitors and residents alike enjoy an authentic Trentino experience, marked by a gentle pace of life and a deep connection to the surrounding landscape.",
+        "transport_infrastructure": "Valle di Cembra has a well-developed network of local roads that provide easy access to nearby urban centers such as Trento. Public transportation is available via regional bus lines connecting the valley’s main villages with Trento and other neighboring districts. While there is no direct railway service within the valley, the train station in Trento offers quick access to national and international destinations. The area is particularly popular among cyclists, thanks to scenic cycling routes that traverse vineyards and forests. Well-maintained roads make car travel convenient throughout the district.",
+        "must_sees_and_attractions": "Major attractions of the Valle di Cembra include the striking terraced vineyards, which are a UNESCO World Heritage candidate and offer unique walking trails and wine-tasting experiences. The Pyramids of Segonzano, natural earth formations created by erosion, are a natural wonder not to be missed. Traditional villages like Faver, Cembra, and Lisignago charm visitors with their stone houses and mountain vistas. The district is also known for its lively wine festivals, particularly the annual Müller-Thurgau Festival. Hiking routes wind through forests, meadows, and along the panoramic Avisio River, making it a paradise for nature lovers.",
+        "infrastructure_and_services": "The Valle di Cembra community is equipped with essential services, including local health clinics, pharmacies, and access to hospitals in Trento. There are primary and secondary schools across the district, and a range of family-oriented civic amenities. Supermarkets, small shops, and weekly markets supply fresh local produce and necessities, while cozy trattorias and wine cellars offer authentic culinary experiences. Internet connectivity has improved in recent years, with broadband now available in most villages. Housing options vary from traditional stone homes to modern apartments, offering choices for families, retirees, and remote workers seeking a quiet, well-serviced environment."
+      }
+    },
+    "slug": "valle-di-cembra"
+  },
+  "Comunità della Val di Non": {
+    "average": 1600,
+    "infos": {
+      "hospital": "Ospedale di Cles, Cles",
+      "highway_access": "A22 San Michele all'Adige",
+      "next_trainstation": "Cles",
+      "biggest_location": "Cles"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità della Val di Non, nestled in the heart of Trentino, is renowned for its rolling valleys, dramatic apple orchards, and a distinctive blend of Alpine and Mediterranean influences. The region is characterized by a strong sense of tradition and community, with ancient castles, charming villages, and rustic farmhouses dotting the lush landscape. Residents enjoy a tranquil, close-to-nature lifestyle, with many local festivities centered around agricultural heritage – especially the celebrated Melinda apple harvest. Historic sites, friendly family-run businesses, and warm hospitality make Val di Non an inviting destination for both newcomers and visitors seeking authenticity.",
+        "transport_infrastructure": "Val di Non benefits from a well-connected road network, with State Road SS43 providing easy access to Trento and neighboring valleys. Public transportation is efficient, thanks to a network of regional buses that connect major towns and smaller hamlets. The nearby Trento-Malè railway line, with stations at Dermulo and Cles, offers convenient rail links to the provincial capital and beyond. For cyclists and hikers, the 'Ciclopista della Val di Non' provides scenic off-road routes, while local car hire and taxi services cater to private transport needs. Overall, infrastructure supports both daily commutes and leisurely exploration.",
+        "must_sees_and_attractions": "The valley boasts a wealth of natural and cultural attractions. Highlights include the iconic Sanctuary of San Romedio, a picturesque multi-level pilgrimage site set amidst rocky cliffs, and Castel Thun, a perfectly preserved castle offering fascinating historical insights. Nature enthusiasts will enjoy the stunning Lake Tovel, famous for its crystal-clear waters and scenic hiking trails that wind through the Adamello-Brenta Natural Park. Seasonal festivals, such as the Apple Festival in autumn, and visiting local fruit cellars or cheese producers provide a unique glimpse into Val di Non’s vibrant rural traditions.",
+        "infrastructure_and_services": "Val di Non offers a strong network of local services and facilities tailored to residents and families. Education needs are met by numerous kindergartens, primary, and secondary schools, especially in towns like Cles and Fondo. Healthcare services include local clinics and pharmacies, with hospital care available in Cles. The area is well-served by supermarkets, traditional markets, and a variety of local shops, alongside reliable high-speed internet access reaching both urban centers and many rural areas. A diverse range of housing – from modern apartments to traditional homes – ensures suitable options for different lifestyles, while sports centers and community clubs support a lively social environment."
+      }
+    },
+    "slug": "val-di-non"
+  },
+  "Comunità Alta Valsugana e Bersntol": {
+    "average": 1650,
+    "infos": {
+      "hospital": "Ospedale San Lorenzo, Borgo Valsugana",
+      "highway_access": "SS47, Carzano, Pergine Valsugana",
+      "next_trainstation": "Borgo Valsugana train station, Borgo Valsugana",
+      "biggest_location": "Pergine Valsugana"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità Alta Valsugana e Bersntol covers a picturesque area in eastern Trentino, embracing a mix of enchanting valleys, rolling hills, and shimmering alpine lakes. The heart of the district is the Valsugana valley, framed by lush forests and dramatic peaks, while the Bersntol (Valle dei Mocheni) is known for its unique Germanic heritage, reflected in local traditions, language, and architecture. Life in this district offers a harmonious blend of outdoor recreation, local festivals, and a tranquil pace that appeals to both families and nature lovers. Rich in history and characterized by a welcoming mountain culture, Alta Valsugana e Bersntol is cherished for its quality of life and strong community ties.",
+        "transport_infrastructure": "Transport in Alta Valsugana e Bersntol is efficient and well-integrated with the broader Trentino region. The Valsugana railway line connects major towns like Pergine Valsugana and Levico Terme directly with Trento and Venice, making regional and national travel accessible. Local and intercity buses provide regular service throughout the valleys and to more remote villages, ensuring good connectivity for both residents and visitors. The SS47 Valsugana state road runs through the valley, providing smooth automobile access, while a network of well-maintained cycling paths—including the renowned Valsugana cycle route—promotes eco-friendly mobility and cross-district exploration.",
+        "must_sees_and_attractions": "Alta Valsugana e Bersntol boasts a wealth of unmissable sights and experiences. The sparkling Lake Levico and Lake Caldonazzo invite swimming, sailing, and lakeside relaxation, while the pristine forests of the Paneveggio-Pale di San Martino Nature Park offer extensive hiking and biking opportunities. Historic Pergine Castle overlooks the valley, providing breathtaking views and cultural events. The unique Mocheni Valley reveals its linguistic and cultural heritage through museums and annual festivals such as the traditional 'Festa delle Erbe.' Don't miss the picturesque Lake Piazze and the scenic routes leading to panoramic mountain passes, as well as the regional wellness spas and charming mountain villages.",
+        "infrastructure_and_services": "Residents of the district benefit from a robust network of public services and amenities. Modern schools—ranging from kindergartens to high schools—are found in main towns like Pergine Valsugana and Levico Terme. Healthcare facilities include local clinics and a well-equipped hospital in Pergine, with specialist services available in Trento. The area is well-served by supermarkets, artisanal shops, weekly markets, and essential services, supporting both daily life and local businesses. Reliable high-speed internet is increasingly widespread, thanks to ongoing digital infrastructure investments, and housing options range from traditional mountain homes to contemporary apartments, accommodating different lifestyles and family needs."
+      }
+    },
+    "slug": "alta-valsugana-e-bersntol"
+  },
+  "Comunità Alto Garda e Ledro": {
+    "average": 2950,
+    "infos": {
+      "hospital": "Ospedale di Arco, Arco",
+      "highway_access": "Rovereto Sud, Rovereto",
+      "next_trainstation": "Rovereto",
+      "biggest_location": "Riva del Garda"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità Alto Garda e Ledro is nestled in the southwestern corner of Trentino, encompassing the picturesque northern shores of Lake Garda and the verdant Valle di Ledro. This district is celebrated for its dramatic alpine landscapes, gentle Mediterranean climate, and a unique blend of Italian and Central European cultures. Towns such as Riva del Garda, Arco, and Ledro offer a vibrant lifestyle with a strong focus on outdoor activities, wellness, and cultural heritage. The region’s history is marked by its strategic location as a crossroads between the Alps and lake routes, with evident influences in its architecture, cuisine, and local traditions.",
+        "transport_infrastructure": "Alto Garda e Ledro boasts excellent transport connections for residents and visitors alike. The area is accessible by road via the SS45bis, efficiently connecting it to Trento and Verona, while public buses operated by Trentino Trasporti link all major towns and villages. Although the district does not have its own train line, the nearest railway stations are in Rovereto and Trento, both accessible by bus. The region is highly regarded for its cycling infrastructure, with scenic bike paths along the lake and into the mountains, making it easy to commute or explore the surrounds sustainably. Ferries and boats also run across Lake Garda, providing a unique transportation option.",
+        "must_sees_and_attractions": "Alto Garda e Ledro is renowned for its breathtaking natural attractions and rich cultural sites. Highlights include the turquoise waters of Lake Ledro and its prehistoric pile-dwelling museum, a UNESCO World Heritage site. Riva del Garda’s charming old town, medieval Rocca, and panoramic Bastione offer a blend of history and stunning views. Arco is a mecca for rock climbers, famous for its historic castle and annual climbing competitions. The botanical gardens of Arco, the Ponale Trail—ideal for hiking and biking—and the scenic Varone Waterfalls all contribute to the region’s allure. The area also hosts lively festivals, local markets, and cultural events year-round.",
+        "infrastructure_and_services": "The district is well-equipped with modern amenities to support both residents and newcomers. There is a selection of primary and secondary schools, as well as specialized educational institutions. Healthcare services include local clinics and a hospital in Arco, with major hospitals easily accessible in Rovereto and Trento. Internet and mobile connectivity are reliable, with several zones outfitted with high-speed broadband. Residents enjoy a diverse array of supermarkets, traditional shops, weekly markets, and restaurants serving Trentino and Garda specialties. Housing ranges from charming lakeside apartments to hillside family homes. Recreational facilities, wellness centers, and sports clubs further contribute to the high quality of life in the Alto Garda e Ledro district."
+      }
+    },
+    "slug": "alto-garda-e-ledro"
+  },
+  "Comunità di Primiero": {
+    "average": 1500,
+    "infos": {
+      "hospital": "Ospedale di Feltre, Feltre",
+      "highway_access": "A27 highway near Seren del Grappa",
+      "next_trainstation": "Feltre",
+      "biggest_location": "Fiera di Primiero"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "Nestled in the heart of the Dolomites, the Comunità di Primiero is a picturesque mountain district in eastern Trentino. Known for its dramatic Alpine landscapes, lush forests, and charming villages like Fiera di Primiero, Mezzano, and San Martino di Castrozza, the area exudes a tranquil, close-to-nature lifestyle that appeals to both locals and newcomers. Historically, Primiero has blended the traditions of mountain craftsmanship with a vibrant Alpine culture, reflected in its well-preserved historic architecture, energetic festivals, and a strong sense of community. Life here is oriented around respect for nature and centuries-old customs, offering a typically relaxed but richly engaging atmosphere.",
+        "transport_infrastructure": "Despite its mountainous setting, the Comunità di Primiero is well connected to the rest of Trentino via modern, reliable road networks. Regular Trentino Trasporti bus lines link Primiero towns with Feltre and Trento, while the closest train stations are found in Feltre and Ora. Private car ownership is common and especially practical for exploring the scenic Valle di Primiero and its outlying hamlets. The area is renowned for its cycling and hiking routes—such as the bike path that follows the Cismon river valley—making sustainable, active transport popular among residents and visitors alike.",
+        "must_sees_and_attractions": "The district features some of Trentino’s most iconic natural wonders, including the Pale di San Martino mountain group (a UNESCO World Heritage site) and the stunning Paneveggio-Pale di San Martino Natural Park, known for its wildlife and the legendary 'Violin Forest.' The Alpine resort of San Martino di Castrozza is a hub for skiing, mountaineering, and summer trekking. Culturally, visitors can explore the atmospheric hamlet of Mezzano with its artistic woodpile installations, or the historic Fiera di Primiero with its lively markets and picturesque squares. Annual events like the Gran Festa del Desmontegar celebrate local traditions with music, food, and folklore.",
+        "infrastructure_and_services": "The Comunità di Primiero provides residents with a comprehensive range of local services, including well-equipped health centers and a hospital in Fiera di Primiero, quality public and private schools, and a variety of shops for daily needs. Modern amenities such as high-speed internet are increasingly available, even in more remote areas, supporting both locals and remote workers. The district boasts a selection of housing, from cozy chalets to modern apartments, often with beautiful Dolomite views. Recreational facilities, cultural associations, and local markets contribute to a lively, welcoming community environment."
+      }
+    },
+    "slug": "primiero"
+  },
+  "Comunità delle Giudicarie": {
+    "average": 2250,
+    "infos": {
+      "hospital": "Ospedale di Tione, Tione di Trento",
+      "highway_access": "A22 Besenello exit",
+      "next_trainstation": "Rovereto train station",
+      "biggest_location": "Tione di Trento"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "Comunità delle Giudicarie is a diverse and welcoming district located in the south-western part of Trentino, encompassing lush valleys, rolling hills, and picturesque mountain landscapes. The area is characterized by its rich history, with ancient villages and fortified castles dotting the countryside. The local culture celebrates traditional Alpine lifestyles, with vibrant festivals, artisanal crafts, and a strong sense of community. Residents and visitors alike enjoy a relaxed yet active lifestyle, benefiting from the region’s clean air, abundant nature, and a deep-rooted appreciation for local culinary traditions, particularly those using regional products like cheese and cured meats.",
+        "transport_infrastructure": "Comunità delle Giudicarie is well connected to the rest of Trentino and neighboring Lombardy by a network of regional roads, including the SS237 and SP34, making travel by car straightforward. Frequent bus services run between the main towns, such as Tione di Trento, and connect to Trento and Madonna di Campiglio. While there is currently no train service directly in the Giudicarie valleys, nearby stations and efficient regional buses ensure accessibility. Cycling enthusiasts will find many scenic bike paths and mountain trails, making two-wheel travel a pleasant alternative, particularly for local commutes and leisure.",
+        "must_sees_and_attractions": "Among the many attractions, the Val di Fumo offers breathtaking alpine scenery perfect for hiking and nature outings, while the Adamello Brenta Nature Park is a UNESCO-listed biosphere rich in flora, fauna, and awe-inspiring vistas. The medieval Castel Stenico, perched above the valley, invites visitors to explore its towers and elegant frescoes. The area boasts charming towns like Tione di Trento and Borgo Chiese, renowned for their weekly markets and traditional events. In summer, the thermal baths of Comano offer a wellness retreat, whereas winter highlights include snowshoeing and local food festivals.",
+        "infrastructure_and_services": "Comunità delle Giudicarie provides a full range of essential services, including kindergartens, primary and secondary schools, and a hospital in Tione di Trento that serves as a healthcare hub for the district. Local clinics, pharmacies, and emergency care are widely accessible. Residents benefit from widespread internet connectivity, with most towns and villages offering broadband access. The area features a variety of shops, supermarkets, and artisan food outlets, while housing ranges from modern apartments to traditional Alpine homes. Public service offices and recreational centers contribute to a high quality of life, supporting both families and individuals."
+      }
+    },
+    "slug": "giudicarie"
+  },
+  "Comunità Valsugana e Tesino": {
+    "average": 1300,
+    "infos": {
+      "hospital": "Ospedale San Lorenzo, Borgo Valsugana",
+      "highway_access": "Trento Sud",
+      "next_trainstation": "Borgo Valsugana",
+      "biggest_location": "Borgo Valsugana"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "Comunità Valsugana e Tesino is a scenic district located in eastern Trentino, known for its lush valleys, rolling hills, and picturesque mountain backdrops. The area encompasses picturesque lakes such as Lago di Caldonazzo and Lago di Levico, as well as charming towns like Borgo Valsugana, Levico Terme, and Castel Tesino. Local culture is rooted in a blend of agricultural tradition, outdoor sports, and warm hospitality, with a long history shaped by its strategic location along ancient trade and pilgrimage routes. Residents enjoy a tranquil lifestyle centered on close-knit communities, abundant local produce, and strong ties to nature.",
+        "transport_infrastructure": "Transport options in Valsugana e Tesino are modern and comprehensive. The district is served by the Valsugana railway line, connecting Trento to Venice, with frequent stops in key towns like Borgo Valsugana and Levico Terme. Buses efficiently link smaller villages and outlying areas, ensuring easy access to schools, shops, and recreational destinations. The main SS47 highway runs through the valley, providing excellent road access for cars, while well-marked cycling routes such as the Valsugana Cycle Path traverse the district, appealing to both commuters and cycling enthusiasts.",
+        "must_sees_and_attractions": "Highlights of the area include the historic city center of Borgo Valsugana, with its elegant arcades and medieval castle; the renowned thermal baths of Levico Terme; and the enchanting Arte Sella, a unique open-air art exhibition in the Sella Valley that blends natural landscapes with contemporary sculpture. Nature lovers are drawn to the pristine lakes for swimming and water sports, as well as the panoramic hiking trails of the Lagorai mountain chain and the high plateau of Tesino. Annual events such as the Sagra della Ciuiga in autumn and various summer festivals celebrate local cuisine and traditions.",
+        "infrastructure_and_services": "Residents benefit from a strong network of services and infrastructure, including excellent primary and secondary schools, a range of family-run shops, larger supermarkets, and popular weekly markets. The area is served by well-equipped healthcare facilities, notably the hospital in Borgo Valsugana and medical centers in Levico Terme and Castel Tesino. High-speed internet is widely available, supporting remote work and digital connectivity. A mix of traditional alpine houses and modern apartments offers varied housing options, making it an attractive place for families, retirees, and newcomers alike."
+      }
+    },
+    "slug": "valsugana-e-tesino"
+  },
+  "Comunità della Vallagarina": {
+    "average": 1950,
+    "infos": {
+      "hospital": "Ospedale Santa Maria del Carmine, Rovereto",
+      "highway_access": "Autostrada A22, Rovereto Nord/Rovereto Sud exits",
+      "next_trainstation": "Rovereto railway station, Rovereto",
+      "biggest_location": "Rovereto"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità della Vallagarina covers a picturesque stretch of the southern Trentino region, characterized by scenic vineyards, rolling foothills, and the Adige river valley that weaves through historic towns and lush countryside. With Rovereto as its principal center, Vallagarina boasts a vibrant blend of Italian and Tyrolean influences, evident both in its architecture and its rich cultural traditions. The district is renowned for its excellent wines, lively festivals, and deep roots in medieval and Napoleonic history. Residents enjoy a harmonious mix of outdoor activities, cultural events, and the tranquil pace of rural life, making it a desirable destination for both families and nature enthusiasts.",
+        "transport_infrastructure": "Vallagarina is well-served by an efficient network of transport options. The region is traversed by the Brenner railway line, with main stops in Rovereto, providing direct train connections north to Trento and south to Verona. A reliable local bus system links smaller towns and villages, while the A22 'Autostrada del Brennero' offers fast road access throughout the district. Cycling is becoming increasingly popular, supported by well-maintained bike paths, especially along the Valle dell’Adige cycle route. Private car travel is safe and convenient with well-marked roads and easy access to both urban centers and rural areas.",
+        "must_sees_and_attractions": "Vallagarina offers a wealth of attractions, from the commanding Castello di Avio perched above the valley, to the modern and thought-provoking MART Museum of Contemporary Art in Rovereto. Medieval villages like Ala and Castellano draw history lovers, while the vibrant city center of Rovereto hosts regular markets, concerts, and local food fairs. The River Adige and surrounding hills provide scenic trails for hikers and cyclists, and the yearly Mozart Festival celebrates the region's musical heritage. Vineyards and wine cellars throughout the district invite visitors to taste the renowned Marzemino red wine, a local specialty.",
+        "infrastructure_and_services": "The district boasts excellent infrastructure, with well-equipped schools ranging from preschools to secondary institutions, several medical clinics, and the modern Santa Maria del Carmine hospital in Rovereto. Residents have access to high-speed internet in urban and most rural areas, along with reliable public utilities. Shopping is convenient, with both local markets and larger supermarkets, as well as a variety of restaurants, bakeries, and specialty shops. Housing options range from historic apartments in town centers to modern homes in peaceful villages. Sports centers, cultural associations, and community events contribute to an active and family-friendly lifestyle."
+      }
+    },
+    "slug": "vallagarina"
+  },
+  "Comunità Rotaliana‑Königsberg": {
+    "average": 2600,
+    "infos": {
+      "hospital": "Santa Chiara Hospital, Trento",
+      "highway_access": "A22, Mezzocorona",
+      "next_trainstation": "Mezzocorona",
+      "biggest_location": "Mezzolombardo"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Comunità Rotaliana-Königsberg is a vibrant district in the heart of Trentino, nestled between the Adige River and the foothills of the surrounding Dolomites. The area is famously known as the 'Piana Rotaliana,' a fertile plain celebrated for its vineyards and high-quality wine production, including the renowned Teroldego Rotaliano. With its rich blend of Italian and Germanic heritage, the community boasts a lively cultural life and deep historical roots, dating back to Roman times and centuries of agricultural tradition. Welcoming towns like Mezzolombardo, Mezzocorona, and San Michele all'Adige offer a relaxed Northern Italian lifestyle amid picturesque landscapes and close-knit neighborhoods.",
+        "transport_infrastructure": "The district enjoys excellent transport links due to its position along the main north-south artery of the Adige Valley. It is served by the A22 (Brenner) motorway, which connects Trento with Bolzano and further into Austria, providing easy road access. The local train stations at Mezzocorona and Mezzolombardo offer frequent regional services to Trento, Bolzano, and the broader Trentino-Alto Adige region. Modern bus lines efficiently connect smaller villages within the district to larger urban centers. Cyclists benefit from well-maintained bike paths, including scenic routes through the vineyards and along the Adige River, making sustainable travel both practical and enjoyable.",
+        "must_sees_and_attractions": "Highlights of the district include the historic San Michele all'Adige Ethnographic Museum, dedicated to the rural traditions of Trentino; Mezzocorona Castle perched dramatically on a rock outcrop and accessible by a panoramic cable car; and the medieval charm of Mezzolombardo's old town. Wine lovers can explore numerous cantinas offering tours and tastings of Teroldego, local Grappas, and other Trentino wines. Outdoor enthusiasts will enjoy the Valle dell'Adige cycling routes and hiking trails ascending into the surrounding hills. Unique local events such as the 'Settembre Rotaliano' wine festival showcase the area's convivial spirit and culinary richness.",
+        "infrastructure_and_services": "Comunità Rotaliana-Königsberg provides its residents with a high standard of living. The area is home to well-equipped schools, including kindergartens through high schools, and proximity to the prestigious Edmund Mach Foundation for agricultural and oenological studies. Healthcare services are excellent, with accessible clinics and nearby hospitals in Trento and Cles. Broadband internet and mobile coverage are reliable, facilitating remote work and connectivity. Daily amenities are well covered, with a variety of supermarkets, local shops, pharmacies, and farmers’ markets. Housing options include both modern apartments and traditional homes, often surrounded by greenery, offering a comfortable lifestyle within scenic surroundings."
+      }
+    },
+    "slug": "rotaliana‑koenigsberg"
+  },
+  "Comunità della Paganella": {
+    "average": 2850,
+    "infos": {
+      "hospital": "Ospedale Santa Chiara, Trento",
+      "highway_access": "A22, Trento",
+      "next_trainstation": "Trento",
+      "biggest_location": "Andalo"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "Nestled on a scenic plateau northwest of Trento, the Comunità della Paganella is renowned for its exceptional natural beauty, Alpine culture, and outdoor lifestyle. The district encompasses charming mountain villages such as Andalo, Fai della Paganella, Molveno, Cavedago, and Spormaggiore, each offering a welcoming atmosphere rooted in centuries-old traditions. Paganella is surrounded by breathtaking Dolomite peaks and dense forests, with Lake Molveno providing a stunning aquatic centerpiece. The area balances tranquil mountain living with vibrant tourist activity, especially during ski season and summer holidays, fostering a community that values both preservation of heritage and openness to visitors.",
+        "transport_infrastructure": "Despite its mountainous setting, the Paganella district boasts efficient transport connections. The A22 Brennero Motorway ensures easy car access, while regular Trentino Trasporti bus services link the villages to Trento and Mezzolombardo, where the nearest railway stations are located. Well-maintained provincial roads climb the plateau, and dedicated cycling and walking paths encourage sustainable mobility. During the winter, ski shuttle buses run frequently between villages and ski lifts, while the summer months see expanded service for hikers and mountain bikers. Private transfers and taxi services are also available for residents and tourists.",
+        "must_sees_and_attractions": "The region is celebrated for the Paganella Ski Area, one of Trentino's top winter sports destinations, featuring modern lifts and panoramic pistes. Lake Molveno, awarded for its pristine waters, draws nature lovers for swimming, kayaking, and lakeside relaxation, as well as offering a stunning backdrop for walking and cycling. The Adamello-Brenta Nature Park is a gateway to alpine hikes and encounters with local wildlife. Cultural gems include the ancient San Tommaso Apostolo Church in Cavedago, the Spormaggiore Bear Park, where you can observe local fauna, and traditional events like the Sagra della Ciuìga, celebrating the local smoked sausage. The district hosts vibrant food festivals, music performances, and artisan markets throughout the year.",
+        "infrastructure_and_services": "Residents of the Comunità della Paganella benefit from a comprehensive range of local services. There are nursery, primary, and secondary schools in most villages, as well as accessible family healthcare clinics and pharmacies. Larger hospitals are located in nearby Trento and Cles, with emergency care accessible via ambulance services. High-speed internet is widely available, supporting remote work and tourism activities. The area features well-stocked supermarkets, boutique shops, and weekly markets offering local produce. Modern housing ranges from traditional Alpine chalets to energy-efficient apartments, and there are plenty of cafés, pizzerias, and restaurants serving both local and international cuisine. Community centers, libraries, and well-equipped sports facilities foster a vibrant and inclusive social life."
+      }
+    },
+    "slug": "paganella"
+  },
+  "Territorio della Val d’Adige": {
+    "average": 2150,
+    "infos": {
+      "hospital": "Ospedale Santa Chiara, Trento",
+      "highway_access": "Trento Centro, A22",
+      "next_trainstation": "Stazione di Trento, Trento",
+      "biggest_location": "Trento"
+    },
+    "descriptions": {
+      "EN": {
+        "overview": "The Territorio della Val d’Adige encompasses the fertile Adige Valley, stretching along the Adige River from the city of Trento southward. This district is characterized by its sweeping vineyards, manicured apple orchards, and picturesque villages nestled between the Dolomites and the western foothills. Val d’Adige has a rich history as a vital trade corridor between northern and southern Europe, reflected in its multicultural atmosphere, historic castles, and lively festivals. Its residents enjoy a balanced lifestyle: the tranquility of rural landscapes merges seamlessly with urban amenities, thanks to the proximity of Trento and Rovereto. The blend of Italian and Tyrolean influences is evident in local cuisine, traditions, and architecture.",
+        "transport_infrastructure": "Val d’Adige is exceptionally well connected by major transport routes, making travel easy both locally and regionally. The district is traversed by the Brenner railway, linking Trento to Verona and beyond, with frequent regional and high-speed train services. An efficient bus network connects the various towns and villages throughout the valley and to nearby urban centers. The A22 motorway (Autostrada del Brennero) runs through the district, offering fast road access to northern Italy and Austria. Cyclists benefit from the Adige cycling path (Ciclabile dell’Adige), one of Italy's most scenic long-distance routes. For private transport, well-maintained roads make car travel straightforward, and car-sharing schemes are increasingly popular in the area.",
+        "must_sees_and_attractions": "Highlights of the Territorio della Val d’Adige include the ancient Buonconsiglio Castle in Trento, a symbol of the region’s storied past, and the lush Giardino Botanico Alpino Viote, perfect for nature lovers. The valley is dotted with charming villages like Lavis and Aldeno, each with their own historic churches and lively local markets. Wine enthusiasts should visit the Wine Museum in San Michele all’Adige and explore nearby vineyards offering tours and tastings of renowned Trentino wines. Outdoor lovers will appreciate the endless opportunities for hiking, cycling, and river sports along the Adige. Seasonal festivals such as the Trento Film Festival and autumn grape harvest celebrations bring the community together with music, food, and tradition.",
+        "infrastructure_and_services": "Residents of Val d’Adige benefit from comprehensive local amenities. The area boasts excellent educational facilities, ranging from primary schools in each village to secondary schools and the prestigious University of Trento nearby. Healthcare needs are well served by regional hospitals in Trento and Rovereto and a network of local clinics. High-speed internet is widely available, supporting both remote work and leisure. Shopping options include family-run groceries, farmers’ markets, and larger retail centers, ensuring access to both everyday essentials and regional specialties. The district offers a variety of housing options, from modern apartments in larger towns to traditional homes in quieter villages, all set amid stunning Alpine scenery."
+      }
+    },
+    "slug": "val-d-adige"
+  }
+}
