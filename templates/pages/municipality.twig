@@ -71,7 +71,28 @@
         </div>
     </div>
 
-    {{ renderSection('content') }}
+    <div class="eds-location-content__wrapper">
+        <div class="eds-location-content">
+
+            {{ renderSection('content') }}
+        </div>
+
+        <div class="eds-location-info__table">
+
+            {% for item in content.table %}
+
+
+                <div class="eds-location-info__row">
+                    <div class="eds-location-info__column"><b>{{ item.table_label }}</b></div>
+                    <div class="eds-location-info__column"><span>{{ item.table_value }}</span></div>
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+    </div>
+
 </main>
 <footer>
 

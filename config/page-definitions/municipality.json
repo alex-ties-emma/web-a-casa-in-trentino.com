@@ -1,0 +1,101 @@
+{
+    "@type": "page_definition",
+    "@id": "\/cms\/api\/page_definitions\/f57db40f-6ab3-4381-85b8-c4451db275ee",
+    "uuid": "f57db40f-6ab3-4381-85b8-c4451db275ee",
+    "handle": "municipality",
+    "form": {
+        "fieldsets": [
+            {
+                "fieldsetId": "fs1",
+                "label": "",
+                "type": "standard",
+                "gridType": "grid-oneline"
+            }
+        ],
+        "fields": [
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Headline",
+                "valueKey": "headline"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "image",
+                "label": "Image",
+                "valueKey": "image"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Price",
+                "valueKey": "price"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "subform",
+                "label": "Table",
+                "placeholder": "Table",
+                "valueKey": "table",
+                "additionalSettings": {
+                    "max_items": 9,
+                    "min_items": 9
+                },
+                "subform": {
+                    "fieldsets": [
+                        {
+                            "fieldsetId": "fs1",
+                            "label": "",
+                            "type": "standard",
+                            "gridType": "grid-oneline"
+                        }
+                    ],
+                    "fields": [
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "input-text",
+                            "label": "Table Label",
+                            "placeholder": "Table Label",
+                            "valueKey": "table_label"
+                        },
+                        {
+                            "fieldsetId": "fs1",
+                            "field": "input-text",
+                            "label": "Value",
+                            "placeholder": "Value",
+                            "valueKey": "table_value"
+                        }
+                    ]
+                }
+            },
+            {
+                "fieldsetId": "fs1",
+                "valueKey": "spacing_bottom",
+                "field": "select",
+                "label": "Abstand unten",
+                "options": [
+                    {
+                        "label": "Keiner",
+                        "value": ""
+                    },
+                    {
+                        "label": "Klein",
+                        "value": "eds-spacing-bottom--small"
+                    },
+                    {
+                        "label": "Medium",
+                        "value": "eds-spacing-bottom--medium"
+                    },
+                    {
+                        "label": "Gro\u00df",
+                        "value": "eds-spacing-bottom--large"
+                    }
+                ]
+            }
+        ]
+    },
+    "description": "Location Page Template",
+    "sectionElementDefinitions": [
+        "\/cms\/api\/section_element_definitions\/d68a7d34-6e0f-4477-9a03-f8aa47f592e5"
+    ]
+}
