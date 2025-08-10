@@ -78,6 +78,20 @@
             },
             {
                 "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Etichetta Link",
+                "placeholder": "Etichetta Link",
+                "valueKey": "buttonlabel"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "pagelink",
+                "label": "Link",
+                "placeholder": "Link",
+                "valueKey": "buttonlink"
+            },
+            {
+                "fieldsetId": "fs1",
                 "valueKey": "spacing_bottom",
                 "field": "select",
                 "label": "Abstand unten",

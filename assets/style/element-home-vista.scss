@@ -1,0 +1,16 @@
+.eds-home-vista {
+  overflow: hidden;
+
+
+  &__container {
+    max-height: calc(var(--vh, 1vh) * 80);
+  }
+
+  &__image {
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+}

@@ -1,12 +1,12 @@
 {
     "@type": "content_element_definition",
-    "@id": "\/cms\/api\/content_element_definitions\/6b85696d-b09f-4add-b603-6b1a28aa45fd",
-    "uuid": "6b85696d-b09f-4add-b603-6b1a28aa45fd",
+    "@id": "\/cms\/api\/content_element_definitions\/fa57eb93-1284-4038-b90a-1f834b43336d",
+    "uuid": "fa57eb93-1284-4038-b90a-1f834b43336d",
     "highlighting": 0,
     "hidden": 0,
-    "name": "Home Text Image",
-    "description": "Home Text Image",
-    "handle": "home-text-image",
+    "name": "Home Text",
+    "description": "Home Text",
+    "handle": "home-text",
     "form": {
         "fieldsets": [
             {
@@ -28,19 +28,6 @@
                 "field": "richtext",
                 "label": "Text",
                 "valueKey": "text"
-            },
-            {
-                "fieldsetId": "fs1",
-                "field": "image",
-                "label": "Image",
-                "valueKey": "image"
-            },
-            {
-                "fieldsetId": "fs1",
-                "field": "switch",
-                "label": "Umdrehen",
-                "placeholder": "Umdrehen",
-                "valueKey": "invert"
             },
             {
                 "fieldsetId": "fs1",

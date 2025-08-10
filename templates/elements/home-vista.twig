@@ -1,21 +1,61 @@
 <div class="eds-home-vista {{ content.spacing_bottom }}">
-    <div class="eds-home-vista__image">
+    <div class="eds-home-vista__container">
 
-        <div class="eds-home-vista__wrapper">
 
-            <div class="eds-home-vista__content">
+        <div class="eds-home-vista__image">
+            {{ content.image|optimizeImage([
+                {
+                    'imageWidth': '420',
+                    'mediaMinWidth': '320',
+                    'aspect_ratio': '3x4',
+                    'compression': '10'
+                },
+                {
+                    'imageWidth': '920',
+                    'mediaMinWidth': '700',
+                    'aspect_ratio': '4x3',
+                    'compression': '10'
+                },
+                {
+                    'imageWidth': '1224',
+                    'mediaMinWidth': '1024',
+                    'aspect_ratio': '16x9',
+                    'compression': '10'
+                },
+                {
+                    'imageWidth': '1400',
+                    'mediaMinWidth': '1224',
+                    'aspect_ratio': '16x9',
+                    'compression': '5'
+                },
+                {
+                    'imageWidth': '1600',
+                    'mediaMinWidth': '1440',
+                    'aspect_ratio': '16x9',
+                    'compression': '5'
+                }
+            ]) }}
+        </div>
 
-                <div class="eds-home-vista__title">
-                    <span>{{ content.title_text }}</span>
-                </div>
+        <div class="eds-home-vista__overlay">
+            <div class="eds-home-vista__wrapper">
 
-                <div class="eds-home-vista__main">
+                <div class="eds-home-vista__content">
+
+                    <div class="eds-home-vista__title">
+                        <span>{{ content.title_text }}</span>
+                    </div>
+
+                    <div class="eds-home-vista__main">
+
+                    </div>
 
                 </div>
 
             </div>
-
         </div>
+
+
 
 
     </div>

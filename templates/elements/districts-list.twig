@@ -1,6 +1,6 @@
 <div class="eds-districts-list">
     <div class="eds-districts-list__wrapper eds-width--c10 eds-padding--small">
-        <div class="eds-districts-list__header">
+        <div class="eds-districts-list__header eds-headline">
             <h2>{{ content.headline }}</h2>
         </div>
 
@@ -55,9 +55,9 @@
 
         <div class="eds-districts-list__buttons">
 
-            <div class="eds-button">
-                <span>Button</span>
-            </div>
+            <a class="eds-button" href="{{ generateLink(content.buttonlink) }}">
+                <span>{{ content.buttonlabel }}</span>
+            </a>
 
         </div>
 

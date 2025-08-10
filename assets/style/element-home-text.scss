@@ -1,14 +1,14 @@
-.eds-home-text-image__wrapper {
+.eds-home-text__wrapper {
   display: flex;
   gap: 3em;
   padding: 4em 6em;
   border-radius: 2em;
   margin-bottom: 4em;
 
-  &.eds-home-text-image--color-gray {
+  &.eds-home-text--color-gray {
     background-color: #f2f2f2;
   }
-  &.eds-home-text-image--color-white {
+  &.eds-home-text--color-white {
     background-color: #ffffff;
   }
 
@@ -17,21 +17,21 @@
   }
 }
 
-.eds-home-text-image__content {
+.eds-home-text__content {
   flex: 5;
 }
 
-.eds-home-text-image__image {
-  flex: 4;
+.eds-home-text__image {
+  flex: 5;
 }
 
-.eds-home-text-image__image img {
+.eds-home-text__image img {
   width: 100%;
 }
 
 
-.eds-home-text-image--invert {
-  .eds-home-text-image__wrapper {
+.eds-home-text--invert {
+  .eds-home-text__wrapper {
     flex-direction: row-reverse;
   }
 }

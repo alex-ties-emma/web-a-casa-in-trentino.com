@@ -7,14 +7,14 @@
 #}
 {% set excludeItems = getPageLanguageContent(grabPageLanguage(page))|filter(x => x.elementDefinition.handle == 'subpage-vista' or x.elementDefinition.handle == 'home-vista')|length %}
 
-<header class="eds-header {{ excludeItems == 0 ? 'eds-header--static' : '' }}">
+<header class="eds-header {{ excludeItems == 0 ? 'eds-header--no-vista' : '' }}">
     <div class="eds-header__wrapper eds-width--c10">
         <div class="eds-header__logo">
             <a href="{{ grabPageLanguageUrl(getSitePage('home')) }}">
 
                 {# Big Logo variant and smaller Logo variant #}
-                <img src="" alt="" class="eds-header__logo--main"/>
-                <img src="" alt="" class="eds-header__logo--secondary"/>
+                <img src="/assets/logo.svg" alt="" class="eds-header__logo--main"/>
+                <img src="/assets/logo-neg.svg" alt="" class="eds-header__logo--negative"/>
 
             </a>
         </div>

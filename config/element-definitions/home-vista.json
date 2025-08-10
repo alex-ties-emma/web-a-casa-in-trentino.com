@@ -7,6 +7,53 @@
     "name": "Home Vista",
     "description": "Home Vista. Verlinkt auf die jeweils andere Seite und beinhaltet 2 Buttons.",
     "handle": "home-vista",
-    "form": [],
+    "form": {
+        "fieldsets": [
+            {
+                "fieldsetId": "fs1",
+                "label": "",
+                "type": "standard",
+                "gridType": "grid-oneline"
+            }
+        ],
+        "fields": [
+            {
+                "fieldsetId": "fs1",
+                "field": "input-text",
+                "label": "Headline",
+                "valueKey": "headline"
+            },
+            {
+                "fieldsetId": "fs1",
+                "field": "image",
+                "label": "Image",
+                "valueKey": "image"
+            },
+            {
+                "fieldsetId": "fs1",
+                "valueKey": "spacing_bottom",
+                "field": "select",
+                "label": "Abstand unten",
+                "options": [
+                    {
+                        "label": "Keiner",
+                        "value": ""
+                    },
+                    {
+                        "label": "Klein",
+                        "value": "eds-spacing-bottom--small"
+                    },
+                    {
+                        "label": "Medium",
+                        "value": "eds-spacing-bottom--medium"
+                    },
+                    {
+                        "label": "Gro\u00df",
+                        "value": "eds-spacing-bottom--large"
+                    }
+                ]
+            }
+        ]
+    },
     "slide": false
 }

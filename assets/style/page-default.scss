@@ -15,14 +15,43 @@ body {
   margin-top: 10em;
 }
 
+.eds-headline {
+  color: #263238;
+
+
+  h1 {
+    font-size: 4em;
+    font-weight: normal;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 3.2em;
+    font-weight: normal;
+    margin: 0;
+  }
+}
+
+.eds-richtext {
+  p {
+    color: #37474F;
+    font-size: 1.6em;
+    line-height: 1.5;
+  }
+}
 
 .eds-button {
-  background-color: #0052a9;
+  text-decoration: none;
+  background-color: #0D47A1;
   border-radius: 5em;
   color: #fff;
   cursor: pointer;
   padding: 1.2em 2.8em;
-  transition: transform .5s, box-shadow .5s;
+  transition: transform .5s, box-shadow .5s, background-color .5s;
+
+  &:hover {
+
+  }
 
   span {
     font-size: 1.8em;
@@ -31,5 +60,6 @@ body {
   &:hover {
     box-shadow: 0 .5em 4em hsla(0, 0%, 50%, .1);
     transform: translateY(-2px);
+    background-color: darken(#0D47A1, 5);
   }
 }

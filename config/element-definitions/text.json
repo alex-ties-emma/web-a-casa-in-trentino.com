@@ -1,12 +1,12 @@
 {
     "@type": "content_element_definition",
-    "@id": "\/cms\/api\/content_element_definitions\/561a70b7-fe7c-4416-9da3-db112ebbf6e3",
-    "uuid": "561a70b7-fe7c-4416-9da3-db112ebbf6e3",
+    "@id": "\/cms\/api\/content_element_definitions\/7c50aae9-2ce2-400a-82fa-d769f2ab1501",
+    "uuid": "7c50aae9-2ce2-400a-82fa-d769f2ab1501",
     "highlighting": 0,
     "hidden": 0,
-    "name": "Article Text",
-    "description": "Article Text",
-    "handle": "article-text",
+    "name": "Text",
+    "description": "Text",
+    "handle": "text",
     "form": {
         "fieldsets": [
             {

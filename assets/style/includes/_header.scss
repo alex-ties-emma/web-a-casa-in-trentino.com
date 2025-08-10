@@ -6,28 +6,68 @@
   right: 0;
   z-index: 100;
   color: white;
+
+  .eds-header__logo--main {
+    display: none;
+  }
+  .eds-header__logo--negative {
+    display: flex;
+  }
+}
+
+.eds-header__logo img {
+  width: 14em;
+}
+
+.eds-header--no-vista {
+  color: #263238;
+
+  .eds-header__nav a:hover {
+    background-color: #f1f1f1;
+  }
+
+  .eds-header__lang a:hover {
+    background-color: #f1f1f1;
+  }
+
+
+  .eds-header__logo--main {
+    display: flex;
+  }
+  .eds-header__logo--negative {
+    display: none;
+  }
 }
 
 .eds-header--static {
   background-color: white;
   box-shadow: 0 .5em 4em rgb(128 128 128 / 10%);
   border-bottom: 1px solid #efefef;
-  color: black;
+  color: #263238;
   position: fixed;
 
   .eds-header__nav a:hover {
     background-color: #f1f1f1;
   }
+
   .eds-header__lang a:hover {
     background-color: #f1f1f1;
   }
-}
 
+
+  .eds-header__logo--main {
+    display: flex;
+  }
+  .eds-header__logo--negative {
+    display: none;
+  }
+}
 
 
 .eds-header__nav a:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
+
 .eds-header__lang a:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
@@ -53,7 +93,7 @@
 }
 
 .eds-header__nav a span {
-  font-size: 1.8em;
+  font-size: 2em;
 }
 
 
