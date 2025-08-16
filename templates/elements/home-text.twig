@@ -1,0 +1,28 @@
+<div class="eds-home-text {{ content.color_select }}">
+    <div class="eds-home-text__wrapper eds-width--c8">
+
+        <div class="eds-home-text__content">
+
+            <div class="eds-home-text__headline eds-headline">
+                <h2>{{ content.title|formatHeadline }}</h2>
+            </div>
+
+            <div class="eds-home-text__text eds-richtext">
+                {{ content.text|raw }}
+            </div>
+
+            <div class="eds-home-text__button">
+
+                {% for button in content.buttons %}
+
+                    <a class="eds-button" href="{{ generateLink(button.buttonlink) }}">
+                        <span>{{ button.buttonlabel }}</span>
+                    </a>
+
+                {% endfor %}
+            </div>
+
+        </div>
+
+    </div>
+</div>

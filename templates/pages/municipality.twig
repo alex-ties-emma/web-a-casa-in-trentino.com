@@ -8,8 +8,8 @@
     <div class="eds-location-vista">
         <div class="eds-location-vista__wrapper">
             <div class="eds-location-vista__image">
-                {% if content.settings and content.settings.image %}
-                    {{ content.settings.image|optimizeImage([
+                {% if settings and settings.image %}
+                    {{ settings.image|optimizeImage([
                         {
                             'imageWidth': '520',
                             'mediaMinWidth': '320',
@@ -48,20 +48,20 @@
             <div class="eds-location-vista__content eds-width--c10">
 
                 <div class="eds-location-vista__title">
-                    <span>Comunità di Primiero</span>
+                    <span>{{ settings.municipality }}</span>
                 </div>
 
                 <div class="eds-location-vista__properties">
 
                     <div class="eds-location-vista__properties-item">
-                        <span>Primiero San Martino di Castrozza</span><span>•</span><span>{{ 1200|number_format(0, ',', ' ') }} s.l.m.</span>
+                        <span>{{ settings.district.name }}</span><span>•</span><span>{{ settings.meters_above_sea_level|number_format(0, ',', ' ') }} {{ getConstant('meters_above_sea_level') }}</span>
                     </div>
 
                     <div class="eds-location-vista__properties-item eds-location-vista__properties-item--right">
-                        <span>{{ 30000|number_format(0, ',', ' ') }} Einwohner</span>
+                        <span>{{ settings.population|number_format(0, ',', ' ') }} {{ getConstant('population') }}</span>
                     </div>
                     <div class="eds-location-vista__properties-item">
-                        <span>{{ 1600|format_currency('EUR', locale: 'de') }}</span><span>•</span><span>Hoher Immobilienpreis</span>
+                        <span>{{ settings.price.price|format_currency('EUR', locale: 'de') }}</span><span>•</span><span style="color: {{ settings.price.color }}">{{ getConstant('price_' ~ settings.price.label) }}</span>
                     </div>
 
                 </div>
@@ -72,19 +72,34 @@
     </div>
 
     <div class="eds-location-content__wrapper">
-        <div class="eds-location-content">
+        <div class="eds-location-texts">
 
-            {{ renderSection('content') }}
+            {% for key in settings.descriptions|keys %}
+
+                <div class="eds-location-texts__text">
+
+                    <div class="eds-location-texts__headline">
+                        <h2>{{ getConstant('municipality_headline_' ~ key) }}</h2>
+                    </div>
+
+                    <div class="eds-location-texts__text">
+                        <h2>{{ settings.descriptions[key]) }}</h2>
+                    </div>
+
+                </div>
+
+            {% endfor %}
+
         </div>
 
         <div class="eds-location-info__table">
 
-            {% for item in content.table %}
+            {% for item in settings.infrastructureTable %}
 
 
                 <div class="eds-location-info__row">
                     <div class="eds-location-info__column"><b>{{ item.table_label }}</b></div>
-                    <div class="eds-location-info__column"><span>{{ item.table_value }}</span></div>
+                    <div class="eds-location-info__column"><span>{{ item.table_value == 'yes' ? getConstant('yes') : (item.table_value == 'no' ? getConstant('no') : item.table_value) }}</span></div>
                 </div>
 
             {% endfor %}
@@ -92,6 +107,23 @@
         </div>
 
     </div>
+
+    <a class="eds-location-reference" href="{{ generateLink(item.district.slug) }}">
+        <div class="eds-location-reference__image">
+
+        </div>
+        <div class="eds-location-reference__content">
+
+            <div class="eds-location-reference__title">
+                <h2>{{ item.district.name }}</h2>
+            </div>
+
+            <div class="eds-location-reference__text">
+                <span>{{ item.district.referenceText }}</span>
+            </div>
+
+        </div>
+    </a>
 
 </main>
 <footer>

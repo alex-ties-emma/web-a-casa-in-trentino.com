@@ -10,8 +10,8 @@
     <div class="eds-location-vista">
         <div class="eds-location-vista__wrapper">
             <div class="eds-location-vista__image">
-                {% if content.settings and content.settings.image %}
-                    {{ content.settings.image|optimizeImage([
+                {% if settings and settings.image %}
+                    {{ settings.image|optimizeImage([
                         {
                             'imageWidth': '520',
                             'mediaMinWidth': '320',
@@ -50,20 +50,20 @@
             <div class="eds-location-vista__content eds-width--c10">
 
                 <div class="eds-location-vista__title">
-                    <span>Comunità di Primiero</span>
+                    <span>{{ settings.district }}</span>
                 </div>
 
                 <div class="eds-location-vista__properties">
 
                     <div class="eds-location-vista__properties-item">
-                        <span>Primiero San Martino di Castrozza</span><span>•</span><span>{{ 1200|number_format(0, ',', ' ') }} s.l.m.</span>
+                        <span>{{ settings.amount }} {{ getConstant('population') }}</span>
                     </div>
 
-                    <div class="eds-location-vista__properties-item eds-location-vista__properties-item--right">
-                        <span>{{ 30000|number_format(0, ',', ' ') }} Einwohner</span>
-                    </div>
+{#                    <div class="eds-location-vista__properties-item eds-location-vista__properties-item--right"> #}
+{#                        <span>{{ settings.price.average|number_format(0, ',', ' ') }} Einwohner</span> #}
+{#                    </div> #}
                     <div class="eds-location-vista__properties-item">
-                        <span>{{ 1600|format_currency('EUR', locale: 'de') }}</span><span>•</span><span>Hoher Immobilienpreis</span>
+                        <span>{{ settings.price.average|format_currency('EUR', locale: 'de') }}</span><span>•</span><span>Hoher Immobilienpreis</span>
                     </div>
 
                 </div>
@@ -74,14 +74,29 @@
     </div>
 
     <div class="eds-location-content__wrapper">
-        <div class="eds-location-content">
+        <div class="eds-location-texts">
 
-            {{ renderSection('content') }}
+            {% for key in settings.descriptions|keys %}
+
+                <div class="eds-location-texts__text">
+
+                    <div class="eds-location-texts__headline">
+                        <h2>{{ getConstant('district_headline_' ~ key) }}</h2>
+                    </div>
+
+                    <div class="eds-location-texts__text">
+                        <h2>{{ settings.descriptions[key]) }}</h2>
+                    </div>
+
+                </div>
+
+            {% endfor %}
+
         </div>
 
         <div class="eds-location-info__table">
 
-            {% for item in content.table %}
+            {% for item in table %}
 
 
                 <div class="eds-location-info__row">
